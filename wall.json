@@ -1,25 +1,21 @@
 { 
 "wallpapers": 
-	[
+	[ 
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://i.imgur.com/Lkw51YD.jpg",
-			"name": "IdeaL One"
+			"author": "Nicque",
+			"url": "http://i.imgur.com/7RKgOH7.jpg",
+			"name": "Grass"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://i.imgur.com/vu5OiX5.jpg",
-			"name": "IdeaL Two"
+			"author": "Nicque",
+			"url": "http://i.imgur.com/9gGgdMf.jpg",
+			"name": "Sea"
 		},
 		{
-			"author": "Juan M. Saracho",
-			"url": "http://i.imgur.com/CgZoeIu.jpg",
-			"name": "IdeaL Three"
-		},
-		{	"author": "X"
-			"url": "http://i.imgur.com/pGuQ2N7.jpg",
-			"name": "Test"
-		}	
-	
+			"author": "Nicque",
+			"url": "http://i.imgur.com/cfD3BhX.jpg",
+			"name": "Space"
+		}
+		 
 	]
 }
