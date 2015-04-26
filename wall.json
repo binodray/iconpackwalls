@@ -1,0 +1,25 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://i.imgur.com/Lkw51YD.jpg",
+			"name": "IdeaL One"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://i.imgur.com/vu5OiX5.jpg",
+			"name": "IdeaL Two"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "http://i.imgur.com/CgZoeIu.jpg",
+			"name": "IdeaL Three"
+		},
+		{	"author": "X"
+			"url": "https://i.imgur.com/pGuQ2N7.jpg",
+			"name": "Test"
+		}	
+	
+	]
+}
