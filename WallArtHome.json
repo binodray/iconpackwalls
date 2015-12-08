@@ -2,9 +2,16 @@
 "all_walls": 
 	[ 
 		{
+			"author": "Binod",
+			"url": "http://i.imgur.com/mTvjMIm.png",
+			"name": "Santa"
+		},
+		
+		{
 			"author": "JayRod",
 			"url": "http://i.imgur.com/hRJ4AjU.png",
 			"name": "1"
 		}
+		
 	]
 }
