@@ -1,12 +1,41 @@
 { 
 "all_walls": 
 	[
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/fVgauEK.png",
+			"name": "Witch Two"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/zms33Xv.png",
+			"name": "Witch One"
+		},
 		
 		{
 			"author": "Binod Ray",
-			"url": "http://i.imgur.com/Qtt5CEC.png",
-			"name": "Rama Two"
-		},{
+			"url": "http://i.imgur.com/ao8Uoap.png",
+			"name": "Snow Mountain Two"
+		},
+		
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/3cjfZT7.png",
+			"name": "Snow Mountain One"
+		},
+		
+	
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/9wcKVLJ.png",
+			"name": "Shark"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/m3ey8gY.png",
+			"name": "Sea Horse"
+		},
+		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/Qtt5CEC.png",
 			"name": "Rama Two"
