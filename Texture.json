@@ -1,6 +1,11 @@
 { 
 "misc_walls": 
 	[ 
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/yAlYjuj.png",
+			"name": "Bubble Texture Three"
+		},
 	 {
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/UI2nnsh.png",
