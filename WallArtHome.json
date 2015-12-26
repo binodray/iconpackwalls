@@ -1,11 +1,38 @@
 { 
 "all_walls": 
 	[
-			{
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/n09fFvG.png",
+			"name": "CrissCross Three"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/oNJPwxl.png",
+			"name": "CrissCross Two"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/Exc0Fhk.png",
+			"name": "CrissCross One"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/HpWJEk6.png",
+			"name": "Love Pattren Two"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/6wJfAPm.png",
+			"name": "Love Pattren One"
+		},
+		
+		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/qL3gH7p.png",
 			"name": "City Wall Six"
 		},
+			
 			{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/kWxEotX.png",
