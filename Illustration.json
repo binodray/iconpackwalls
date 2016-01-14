@@ -1,6 +1,33 @@
 { 
 "android_walls": 
 	[ 
+         	{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/zkivrTN.png",
+			"name": "World One"
+			
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/zy5QsBJ.png",
+			"name": "World Two"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/frMJ6SI.png",
+			"name": "USA Flag One"
+			
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/MxaDABe.png",
+			"name": "Usa Flag Two"
+		},
+		{
+			"author": "Binod Ray",
+			"url": "http://i.imgur.com/5e35OmY.png",
+			"name": "Liberty One"
+		},
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/qOE90kb.png",
