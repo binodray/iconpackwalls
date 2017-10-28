@@ -1,22 +1,22 @@
 {
     "Collections":[
         {
-            "name":"Landscapes",
+            "name":"Illustrator",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"City",
+            "name":"Splash",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"Food",
+            "name":"Girlie",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"People",
+            "name":"Random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
@@ -31,6 +31,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/OS7uMAt.png",
 			"name": "Blocks"
+			"collections":"Random,city"
 		},		
 		{
 			"author": "Binod Ray",
@@ -3536,6 +3537,7 @@
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/9a4Yaua.png",
 			"name": "Pretty Lady Two"
+			"collections":"Random,Illustrator"
 		},
 		
 		{
