@@ -25,8 +25,8 @@
         	{
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/OS7uMAt.png",
-			"name": "Blocks",
-			"collections":"featured,landscapes,people"
+			"name": "Blocks"
+			
 		},		
 		{
 			"author": "Binod Ray",
@@ -41,7 +41,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/Alpd4om.png",
-			"name": "Beach Side"
+			"name": "Beach Side",
+			"collections":"featured,landscapes"
 		},
 		{
 			"author": "Binod Ray",
@@ -84,7 +85,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/uYTz18r.png",
-			"name": "Devil Scooter One"
+			"name": "Devil Scooter One",
+			"collections":"featured,people"
 		},
 		{
 			"author": "Binod Ray",
@@ -128,7 +130,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/eIapqea.png",
-			"name": "Coffee"
+			"name": "Coffee",
+			"collections":"featured,food"
 		},
 		{
 			"author": "Binod Ray",
@@ -202,11 +205,7 @@
 			"url": "http://i.imgur.com/SGYDl3Z.png",
 			"name": "Dinosaurs"
 		},
-		{
-			"author": "Binod Ray",
-			"url": "",
-			"name": "0"
-		},
+		
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/hBvO9Ov.png",
@@ -255,7 +254,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/YxakrkZ.png",
-			"name": "MoonLight"
+			"name": "MoonLight",
+			"collections":"featured,city"
 		},
 		{
 			"author": "Binod Ray",
