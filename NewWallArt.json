@@ -29,10 +29,12 @@
             "collections":"featured,landscapes,people"
         },
         {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/5t8COYv.png",
-			"name": "BackLack"
-		},
+		"name": "BackLack"
+		"author": "Binod Ray",
+		"url": "https://i.imgur.com/5t8COYv.png",
+	   	"collections":"featured,landscapes,people"
+			
+	},
         {
             "author":"Someone",
             "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
