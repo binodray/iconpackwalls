@@ -35,6 +35,14 @@
 	   	"collections":"featured,landscapes,people"
 			
 	},
+	    {
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+            "name":"ShotC",
+            "dimensions":"1280x720",
+            "copyright":"Credits to its creator",
+            "collections":"landscapes,city"
+        },
         {
             "author":"Someone",
             "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
