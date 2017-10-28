@@ -29,12 +29,10 @@
             "collections":"featured,landscapes,people"
         },
         {
-            "name":"ShotB",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-            "dimensions":"3200x2560",
-            "collections":"people,city"
-        },
+			"author": "Binod Ray",
+			"url": "https://i.imgur.com/5t8COYv.png",
+			"name": "BackLack"
+		},
         {
             "author":"Someone",
             "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
