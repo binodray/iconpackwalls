@@ -19,6 +19,11 @@
             "name":"People",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        },
+	{
+            "name":"Illustrator",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png"
         }
     ],
     "Wallpapers":[
@@ -2033,7 +2038,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/ftDVfmE.png",
-			"name": "Summer Five"
+			"name": "Summer Five",
+			"collections":"featured,illustrator"
 		},
 		{
 			"author": "Binod Ray",
