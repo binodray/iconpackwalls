@@ -24,6 +24,21 @@
             "name":"Illustrator",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png"
+        },
+	{
+            "name":"Girlie",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png"
+        },
+	{
+            "name":"Random",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png"
+        },
+	    {
+            "name":"Splash",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png"
         }
     ],
     "Wallpapers":[
@@ -2485,7 +2500,8 @@
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/0rf4Qkf.png",
-			"name": "Blue Splash"
+			"name": "Blue Splash",
+			"collections":"featured,splash"
 		},
 		{
 			"author": "Binod Ray",
@@ -2545,17 +2561,20 @@
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/7joI4a9.png",
-			"name": "Flat Splash Three"
+			"name": "Flat Splash Three",
+			"collections":"featured,splash"
 		},
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/cCK2Ubz.png",
-			"name": "Flat Splash Two"
+			"name": "Flat Splash Two",
+			"collections":"splash"
 		},
 		{
 			"author": "Binod Ray",
 			"url": "http://i.imgur.com/SOOVCLn.png",
-			"name": "Flat Splash One"
+			"name": "Flat Splash One",
+			"collections":"splash"
 		},
 		{
 			"author": "Binod Ray",
