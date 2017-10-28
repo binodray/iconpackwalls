@@ -1,22 +1,22 @@
 {
     "Collections":[
         {
-            "name":"Illustrator",
+            "name":"illustrator",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"Splash",
+            "name":"splash",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"Girlie",
+            "name":"girlie",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"Random",
+            "name":"random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
@@ -31,7 +31,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/OS7uMAt.png",
 			"name": "Blocks"
-			"collections":"Random,city"
+			"collections":"featured,illustrator,random"
 		},		
 		{
 			"author": "Binod Ray",
