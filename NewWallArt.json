@@ -25,19 +25,19 @@
         {
             "name":"ShotA",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+            "url": "https://i.imgur.com/OS7uMAt.png",
             "collections":"featured,landscapes,people"
         },
         {
             "name":"ShotB",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+            "url": "https://i.imgur.com/OS7uMAt.png",
             "dimensions":"3200x2560",
             "collections":"people,city"
         },
         {
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+            "url": "https://i.imgur.com/OS7uMAt.png",
             "name":"ShotC",
             "dimensions":"1280x720",
             "copyright":"Credits to its creator",
@@ -46,7 +46,7 @@
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "url": "https://i.imgur.com/OS7uMAt.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
