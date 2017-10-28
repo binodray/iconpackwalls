@@ -23,25 +23,17 @@
     ],
     "Wallpapers":[
         {
-            "name":"Blocks",
-            "author":"Binod",
-            "url": "https://i.imgur.com/OS7uMAt.png",
+            "name":"ShotA",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
             "collections":"featured,landscapes,people"
         },
         {
-		"name":"BackLack"
-		"author":"Binod Ray",
-		"url":"https://i.imgur.com/5t8COYv.png",
-	   	"collections":"featured,landscapes,people"
-			
-	},
-	    {
+            "name":"ShotB",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-            "name":"ShotC",
-            "dimensions":"1280x720",
-            "copyright":"Credits to its creator",
-            "collections":"landscapes,city"
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+            "dimensions":"3200x2560",
+            "collections":"people,city"
         },
         {
             "author":"Someone",
