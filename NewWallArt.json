@@ -23,15 +23,15 @@
     ],
     "Wallpapers":[
         {
-            "name":"ShotA",
-            "author":"Someone",
+            "name":"Blocks",
+            "author":"Binod",
             "url": "https://i.imgur.com/OS7uMAt.png",
             "collections":"featured,landscapes,people"
         },
         {
             "name":"ShotB",
             "author":"Someone",
-            "url": "https://i.imgur.com/5t8COYv.png",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
             "dimensions":"3200x2560",
             "collections":"people,city"
         },
