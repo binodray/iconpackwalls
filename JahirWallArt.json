@@ -6,7 +6,7 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"City",
+            "name":"Texture",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
@@ -21,22 +21,20 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
-    "Wallpapers":[
-        	
-		
-		
-		
-		
+    "Wallpapers":[      	
+				
+				
 		{
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/OS7uMAt.png",
 			"name": "Blocks",
-			"collections":"featured,landscapes,people"
+			"collections":"featured"
 		},		
 		{
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/5t8COYv.png",
 			"name": "BackLack"
+			"collections":"Texture"
 		},
 		{
 			"author": "Binod Ray",
