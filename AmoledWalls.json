@@ -27,6 +27,7 @@
             "author":"Binod Ray",
             "url":"https://i.imgur.com/rkXvZg8.png",
             "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
             "copyright":"Personal Use",
             "downloadable":false
         },
@@ -35,6 +36,7 @@
             "author":"Binod Ray",
             "url":"https://i.imgur.com/R99n8Gq.png",
             "collections":"featured,splash" ,
+            "dimensions":"1440x2560",
             "copyright":"Personal Use",
             "downloadable":false
         },
@@ -48,9 +50,9 @@
             "downloadable":false
         },
         {
-            "author":"leaks",
+            "author":"Binod Ray",
             "url":"https://i.imgur.com/0v5zqh6.png",
-            "name":"Binod Ray",
+            "name":"leaks",
             "dimensions":"1440x2560",
             "copyright":"Personal Use",
             "collections":"featured,quirky" ,
@@ -58,7 +60,7 @@
         },
         {
             "name":"Sheet",
-            "author":"Binod ray",
+            "author":"Binod Ray",
             "url":"https://i.imgur.com/kvf7OU7.png",
             "dimensions":"1440x2560",
             "copyright":"Personal Use",
