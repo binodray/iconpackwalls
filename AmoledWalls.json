@@ -23,12 +23,14 @@
     ],
     "Wallpapers":[
         {
-            "name":"ShotA",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-            "collections":"featured,landscapes,people",
+            "name":"Drops",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rkXvZg8.png",
+            "collections":"featured,quirky"
+            "copyright":"Personal Use",
             "downloadable":false
         },
+
         {
             "name":"ShotB",
             "author":"Someone",
