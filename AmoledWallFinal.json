@@ -1,0 +1,127 @@
+{
+    "Collections":[
+        {
+            "name":"Splash",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Quirky",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Liquid",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"Random",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"Drops",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rkXvZg8.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wood",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w6aK3Cl.png",
+            "collections":"featured,liquid" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Bubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Fuy3tBq.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Blue Bubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Omo7OfG.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lines",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8Lm3xMh.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Worm",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/567WQY1.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        
+        {
+            "name":"Splash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/R99n8Gq.png",
+            "collections":"featured,splash" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+            
+        },
+        {
+            "name":"Rainbow",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PprdVz7.png",
+            "dimensions":"1440x2560",
+            "collections":"featured,quirky" ,
+            "copyright":"Personal Use"
+          
+        },
+        {
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0v5zqh6.png",
+            "name":"leaks",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+            "collections":"featured,quirky" 
+          
+        },
+        {
+            "name":"Sheet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kvf7OU7.png",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+            "collections":"featured,quirky" 
+         
+        },
+              
+        {
+            "name":"Gradient",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zUpN9kF.png",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+            "collections":"featured"
+         
+        }
+    ]
+}
