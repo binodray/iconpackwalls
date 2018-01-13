@@ -1,27 +1,4 @@
 {
-    "Collections":[
-        {
-            "name":"Landscapes",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-        },
-        {
-            "name":"City",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-        },
-        {
-            "name":"Food",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-        },
-        {
-            "name":"People",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-        }
-    ],
-	{
     
     "Wallpapers":[
         	{
@@ -30,42 +7,7 @@
 			"name": "Gradients"
 						
 		},
-	        {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/kvf7OU7.png",
-			"name": "Sheet"
-			"collections":"featured,quriky"
-						
-		},
-	        {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/0v5zqh6.png",
-			"name": "Leaks"
-			"collections":"featured,quriky"
-						
-		},
-	        {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/PprdVz7.png",
-			"name": "Rainbows"
-			"collections":"featured,quriky"
-						
-		},
-	        {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/rkXvZg8.png",
-			"name": "Drops"
-			"collections":"featured,quriky"
-			
-						
-		},
-	    
-	   	 {
-			"author": "Binod Ray",
-			"url": "https://i.imgur.com/ftvHUl9.png",
-			"name": "Splash",
-			"collections":"featured,quriky"
-		},
+	        
 		
 		{
 			"author": "Binod Ray",
