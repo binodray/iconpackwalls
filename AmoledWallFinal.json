@@ -33,6 +33,78 @@
     ],
     "Wallpapers":[
         {
+            "name":"Ring",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VBdaDzI.png",
+            "collections":"featured,random,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientMarvelThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eQU9Cvb.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hy6WYk8.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientFour",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/q6gKTgz.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"CaveOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XukzUKk.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Curves",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4bJI2DM.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qethlOb.png",
+            "collections":"splash,featured" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GoodThings",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x3HQTtj.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"Coffee",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/THRFZ2Z.png",
