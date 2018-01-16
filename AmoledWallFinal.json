@@ -6,6 +6,16 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
+            "name":"Quote",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Simple",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
             "name":"Quirky",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
@@ -22,6 +32,78 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Beautiful",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DT7bvQR.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Beach",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IffYc4V.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Balance",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GryQFiA.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Aroma",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kFmUNy3.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Alchemist",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1HbrUWf.png",
+            "collections":"featured,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Adventure",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z0ubVq3.png",
+            "collections":"featured,quote,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Cross",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rhYquJF.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Abstracty",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dRPhb9h.png",
+            "collections":"featured,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"Drops",
             "author":"Binod Ray",
