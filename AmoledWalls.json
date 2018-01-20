@@ -32,6 +32,166 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"RedMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7bT8NSr.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SpaceOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/L33offZ.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Cube",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bYBt80o.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RainbowRiver",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZdRwOFY.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeSkit",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/O2OKw0v.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"TriColor",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/e2YWPOO.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Curves",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/e3nvCDq.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VS21v8B.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SpaceTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/doOn27Z.png",
+            "collections":"featured,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YSWO380.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Force",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u2tbr6I.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OneSide",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/UnjIzTq.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Road",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dbz6elw.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"AirBaloon",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wMGOTMD.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Forget",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KvhjzVG.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Adventurer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yyQmAt2.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+             "copyright":"Personal Use"
+           
+        },
          {
             "name":"InfraredTwo",
             "author":"Binod Ray",
