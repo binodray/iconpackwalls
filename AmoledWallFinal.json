@@ -26,12 +26,251 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
+            "name":"Flower",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
             "name":"Random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Begein",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BBLKvMl.png",
+            "collections":"featured,splash" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Begein",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dCbfxuN.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BegeinOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0it03R0.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlackWhite",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/5v31ojK.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Man",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/68vf4np.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"BlueRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dCNxZvI.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ColorfulFeather",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jRRdwpH.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Jora",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w3eafp1.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lilly",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GXS67Dt.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"MerryGold",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8W2V3zq.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"LyingRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HU0XLVp.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"YellowSunThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eXmM6Nx.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/N7VYsFP.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedLillyThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sE90Pa6.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OneRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4ToIwqA.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeLillyThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/c55pDe6.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/obCwi4b.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ThreeRoses",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NCVXmSZ.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Reflection",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bhGRhqH.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PunkLillyOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FgYjcLy.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"RedSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/McBScCt.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"VioletOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NFaAb7c.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WhiteSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GXuO6Kw.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Violet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/X5glRr9.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowSunFive",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/5o91eQD.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WhiteSUnTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2RY71BR.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"RedMarble",
             "author":"Binod Ray",
