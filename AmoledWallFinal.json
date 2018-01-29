@@ -38,6 +38,114 @@
     ],
     "Wallpapers":[
         {
+            "name":"RedCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/15iz1Bm.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PunkFlyer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BMNrDlt.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowPipe",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qMiJEow.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowBox",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7Q9saXN.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenStripeOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4Zg5vAd.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenStripe",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XRSJhxv.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"YellowAbstract",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tjFj0VW.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"GreenSheet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/icnSzf8.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCurveOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/uFBLVkK.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCurve",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x8bKbpU.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCircle",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4bLXA4J.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NJvP8TL.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"AmoledSplash",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/BBLKvMl.png",
