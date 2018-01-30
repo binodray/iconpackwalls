@@ -38,6 +38,60 @@
     ],
     "Wallpapers":[
         {
+            "name":"BiSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/lV0Fi5d.png",
+            "collections":"simple,splash" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ColoredSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zkfLVCB.png",
+            "collections":"simple,splash" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Blocks",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/m1p3xO2.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4z1iWpw.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RajaWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/A1mnXU3.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Piller",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rhp7up9.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"RedCone",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/15iz1Bm.png",
