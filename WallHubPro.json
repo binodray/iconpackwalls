@@ -33,21 +33,22 @@
     ],
     "Wallpapers":[
         {
-            "name":"BiSplash",
+            "name":"Apex2",
             "author":"Binod Ray",
-            "url":"https://i.imgur.com/lV0Fi5d.png",
-            "collections":"simple,splash" ,
+            "url":"https://i.imgur.com/paLD2YC.png",
+            "collections":"random,abstract",
             "dimensions":"1440x2560",
             "copyright":"Personal Use"
            
         },
          {
-            "name":"Gradient",
+            "name":"Apex1",
             "author":"Binod Ray",
-            "url":"https://i.imgur.com/zUpN9kF.png",
+            "url":"https://i.imgur.com/Dpn3SxW.png",
+             "collections":"random,abstract",
             "dimensions":"1440x2560",
-            "copyright":"Personal Use",
-            "collections":"featured"
+            "copyright":"Personal Use"
+            
          
         }
     ]
