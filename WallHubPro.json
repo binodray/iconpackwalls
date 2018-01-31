@@ -33,15 +33,46 @@
     ],
     "Wallpapers":[
         {
+            "name":"BrownMount",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xZlhiTS.png",
+            "collections":"minimal,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {
+            "name":"Apex4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qdre7OS.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {
+            "name":"Apex3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Eon3gLc.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {
+            "name":"BlackMount",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8cFGttV.png",
+            "collections":"minimal,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {
             "name":"Apex2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/paLD2YC.png",
             "collections":"random,abstract",
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
-           
+            "copyright":"Personal Use"           
         },
-         {
+        {
             "name":"Apex1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/Dpn3SxW.png",
