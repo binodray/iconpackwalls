@@ -52,7 +52,7 @@
             "name":"LightHouse",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/2Jxqd4u.png",
-            "collections":"minimal,featured",
+            "collections":"featured,minimal",
             "dimensions":"1440x2560",
             "copyright":"Personal Use"           
         },
@@ -92,7 +92,7 @@
             "name":"BrownMount",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/xZlhiTS.png",
-            "collections":"minimal,featured",
+            "collections":"featured,minimal",
             "dimensions":"1440x2560",
             "copyright":"Personal Use"           
         },
