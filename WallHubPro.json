@@ -33,6 +33,126 @@
     ],
     "Wallpapers":[
         {       
+            "name":"OrangeAbstract",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/A8WjOn5.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Opra1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/a8Spr1d.png",
+            "collections":"xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"PunkAbstarct1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FLFEhoV.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"YellowAbstract1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/c8LgcE7.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"BlueAbstract2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7RsLsJy.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jypioxi.png",
+            "collections":"xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/N8y4qd7.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured10",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ybnLG83.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ghiE2qh.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/UZ7CVLa.png",
+            "collections":"xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jLbOrmB.png",
+            "collections":"xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"BlueSky",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IiWXvTj.png",
+            "collections":"minimal,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1KeeE78.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mEBMU0K.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BOGlZXC.png",
+            "collections":"xwalls,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
             "name":"Blured2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/xtdZjrw.png",
