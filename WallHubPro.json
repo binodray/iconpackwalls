@@ -1,7 +1,7 @@
 {
     "Collections":[
         {
-            "name":"XWalls",
+            "name":"Xwalls",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
@@ -36,7 +36,7 @@
             "name":"Blured2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/xtdZjrw.png",
-            "collections":"xwall,featured",
+            "collections":"xwalls,featured",
             "dimensions":"1440x2560",
             "copyright":"Personal Use"           
         },
