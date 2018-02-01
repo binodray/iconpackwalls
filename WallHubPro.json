@@ -6,6 +6,11 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
+            "name":"Liquid",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
             "name":"Minimal",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -32,6 +37,174 @@
         }
     ],
     "Wallpapers":[
+        {       
+            "name":"WhitePlane",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gQm94s6.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Tower",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/RvhToHl.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {       
+            "name":"WhiteMountains",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VHro100.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Shop",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pFd8flN.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"RedLightHouse",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hymVGzU.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"RedLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zngpk0r.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"ChocolateLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KZQB1wy.jpg",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"GrayLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/TnO1lWU.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"PinkLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/W57aYZ4.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"GreenLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/SS7IgNJ.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"GreenLiquid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PLjjDsP.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"GoldenLiquid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QWowVsS.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"CircleAbstract1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/c5ebe7n.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"GoldenLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/s2by0ui.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"CircleAbstract",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PNcFR2Z.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"BlueLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/y57klKF.png",
+            "collections":"liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"BlackLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mlrGcQl.png",
+            "collections":"liquid,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Beach5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BmrtzDp.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"beach4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ecUZDus.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Beach3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZoTSMFr.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {       
+            "name":"AirBaloon",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jnupi9h.png",
+            "collections":"minimal,random,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
         {       
             "name":"Blured13",
             "author":"Binod Ray",
