@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
         {       
+            "name":"Flemingo3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ANdbKfE.png",
+            "collections":"material",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Square2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z2SLCIC.png",
+            "collections":"material",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Flemingo2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tQoM9DO.png",
+            "collections":"material,featured",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Flemingo1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7VIotrx.png",
+            "collections":"material,featured",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Square1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ejCirmo.png",
+            "collections":"material,featured",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {       
             "name":"Sea1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/DSqVB3V.png",
