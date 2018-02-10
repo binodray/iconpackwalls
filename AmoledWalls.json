@@ -6,6 +6,11 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
+            "name":"Heros",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
             "name":"Quote",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -37,6 +42,266 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Xman1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PYyvdM3.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WonderWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LU9hLUb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Widow",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KQuMkLb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Warriors",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HHDAC62.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Thor",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/byTqsPz.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wonder1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/uePDAC0.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Superman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qUVUSih.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Spiderman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WIYVgJx.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Logan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2OVV8Mf.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Jokar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3mBGgRr.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Incrid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sda9HVh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Ironman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/btqV4Eh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lovesa",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/l0DhLPO.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Hulk",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QPrvZQh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Groot",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6oP1vJr.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Furry",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/01qp0xe.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Flash3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qc5aeiW.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Flash1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sOdP08B.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Flash2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MWtYJM2.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DeadPool",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6ccXC14.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Captain1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/16dhJE5.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Captain",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vnPXBiL.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BigHero",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KskkO68.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Bucky",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4ZjQDZK.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3F9oecA.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fnOhyJb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"OrangeHexa3",
             "author":"Binod Ray",
