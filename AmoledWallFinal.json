@@ -52,6 +52,78 @@
            
         },
         {
+            "name":"GreenLat",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ba8biUE.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Flash4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1PP1xIq.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"IronMan1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/AExh8Kb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+        {
+            "name":"Xman2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/M0Ucf5d.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+        {
+            "name":"Spiderman1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yhoNynL.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+        {
+            "name":"Captain2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/V3vSma4.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },        
+        {
+            "name":"Superman2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3o3ISgJ.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ibo0NFA.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"WonderWoman",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/LU9hLUb.png",
