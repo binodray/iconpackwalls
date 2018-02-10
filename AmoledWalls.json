@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
         {
+            "name":"PurpleCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7daSPyO.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PLbSyMh.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w4B7896.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCone1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/RUTmOSU.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VhaeSzg.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"Roads",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/9VNlzOe.png",
