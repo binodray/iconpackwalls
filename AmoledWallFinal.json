@@ -6,6 +6,11 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
+            "name":"Animal",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
             "name":"Heros",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -42,6 +47,195 @@
         }
     ],
     "Wallpapers":[
+        {
+            "name":"AngryLion",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/r3y9UeT.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueTiger1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VYjyHOX.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BrightTiger",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VG61ziS.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DeerHead",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w6JqZ69.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GoldenLion",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ytbcIU0.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Dog",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/q6jSr93.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DeerHead2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/l8v3vM0.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"FlyingDeer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NnsNpqY.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PolyLions1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kEnKlm8.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"RoaringTiger1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z6PaoZv.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PolyButterfly",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fBVBycB.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PolyWhale",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/aK8iCLg.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WiseWolf",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/r3NLPYG.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PolyButterfly1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NHQB3o7.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedTiger",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7wNGwKw.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PinkCat",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FUTopES.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wolf1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZsYNTm5.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wolf2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7EGwf8l.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowParrot",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7takWgh.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WhiteWolf2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QZOYOwB.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Rabit1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FTzbR4l.png",
+            "collections":"animal,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"PurpleCone",
             "author":"Binod Ray",
