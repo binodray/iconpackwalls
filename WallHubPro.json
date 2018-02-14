@@ -33,6 +33,70 @@
     ],
     "Wallpapers":[
         {   
+            "name":"MinimalTri",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PjZTRaz.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"GlowingPaint",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kmJLFGB.png",
+            "collections":"xwalls,featured,abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {   
+            "name":"ColorfulTri3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/m90Rj8R.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"ColorfulTri5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/O24DTWL.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"ColorfulTri4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8A50zfC.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"ColorfulTri2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7jTiQ5U.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"ColorfulTri1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oc08P3P.png",
+            "collections":"featured,abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"ColorfulTri",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kH8O2a4.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {   
             "name":"PurpleNight",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/DFPc9ie.png",
