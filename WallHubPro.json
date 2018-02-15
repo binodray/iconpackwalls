@@ -32,6 +32,47 @@
         }
     ],
     "Wallpapers":[
+         {   
+            "name":"Fluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8eP2vhi.png",
+            "collections":"liquid,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {   
+            "name":"Fluid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/p30yrXi.png",
+            "collections":"liquid,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {   
+            "name":"Fluid2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YGSsuQI.png",
+            "collections":"liquid,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {   
+            "name":"Fluid3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/o0kEdti.png",
+            "collections":"liquid,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+         {   
+            "name":"Fluid4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/G5LeJ2J.png",
+            "collections":"liquid,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        
         {   
             "name":"MinimalTri",
             "author":"Binod Ray",
