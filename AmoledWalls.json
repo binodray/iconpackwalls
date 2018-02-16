@@ -48,6 +48,206 @@
     ],
     "Wallpapers":[
         {
+            "name":"BrightFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qvm3e8z.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BrightFluid2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8nd0P66.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BrightFluid3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tgND5Eb.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BrightFluid4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/di9RrkH.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DeepBlueFluid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/r1sbsiR.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dAMzhU.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenFluid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/EpAg070.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9BDRIly.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"LightBlueFLuid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xSvVU05.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/or62BU4.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hLvKmBO.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gFptIFH.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2ChpVtr.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OTzfZIg.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/K3KuJ5w.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MixedFluid6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XUCfHrH.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PinkFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/b2RZ08g.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/c1psgTB.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowFluid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZfNrk5H.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SmallB",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/T24EMyY.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"Geo18",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/xlK8E6f.png",
