@@ -47,7 +47,53 @@
         }
     ],
     "Wallpapers":[
-        		{
+        {
+            "name":"Twirl5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4Fev15y.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WZV74jm.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QTPxYqG.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z7xCR0s.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        
+        {
+            "name":"Twirl1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/TXo5Adq.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"BrightFluid",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/qvm3e8z.png",
