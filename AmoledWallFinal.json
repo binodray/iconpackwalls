@@ -48,10 +48,37 @@
     ],
     "Wallpapers":[
         {
-            "name":"Twirl5",
+            "name":"Fluid12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YDNtlLL.png",
+            "collections":"liquid,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Fluid11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/q6vUzRB.png",
+            "collections":"liquid,featured" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DoMore",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/4Fev15y.png",
             "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/EYJNxsX.png",
+            "collections":"quote,random,simple" ,
             "dimensions":"1440x2560",
             "copyright":"Personal Use"
            
