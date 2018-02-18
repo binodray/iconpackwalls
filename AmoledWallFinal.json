@@ -41,12 +41,206 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
+            "name":"Twisted",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
             "name":"Random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
+        {
+            "name":"Unicorn1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/krrI89e.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Splash16",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cTotvAQ.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Smooth",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/92O4Hos.png",
+            "collections":"quote,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"TwistedAbstract2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mbHvV2i.png",
+            "collections":"twisted,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"RainbowSmoke4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nV1Am5w.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RainbowSmoke2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2gdj1mb.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jBFeAvP.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LWqyBH7.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"TwistedAbstract1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/JpQTbLF.png",
+            "collections":"twisted" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl10",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KVUcXUa.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twirl8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NfrQorB.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Pencil3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eteIUdO.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RainbowSmoke3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yg3Fwlv.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RainbowSmoke1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xnpQk69.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Quirky20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6bVS8iK.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Radar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/su0MsAb.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Quirky19",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CbYmQlW.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Quirky18",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WeJHRLC.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Pencil1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/aTuj7Ar.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PenCil2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z8jss4K.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Forever21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YDNtlLL.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"Fluid12",
             "author":"Binod Ray",
