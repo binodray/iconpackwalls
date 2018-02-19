@@ -48,6 +48,57 @@
     ],
     "Wallpapers":[
         {
+            "name":"Twisted3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MHN44Iu.jpg",
+            "collections":"twisted,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twisted6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OXv4Q7W.jpg",
+            "collections":"twisted,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twisted7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OyAUzX3.jpg",
+            "collections":"twisted,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Twisted5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jKW0LVM.jpg",
+            "collections":"twisted,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        
+        {
+            "name":"Twisted4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/y138Lm9.jpg",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+        {
             "name":"Unicorn1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/krrI89e.png",
