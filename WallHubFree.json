@@ -36,7 +36,60 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
-    "Wallpapers":[
+    "Wallpapers":[{   
+            "name":"TwistedAbs6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DUuQscg.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+             "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"TwistedAbs5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/JMWsnyc.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"TwistedAbs4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kwIL7Fw.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"TwistedAbs3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w9nyncO.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"TwistedAbs2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/felDoAr.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"TwistedAbs1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3USBtcn.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
         {   
             "name":"BiWaterColor",
             "author":"Binod Ray",
