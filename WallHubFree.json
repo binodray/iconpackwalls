@@ -38,6 +38,312 @@
     ],
     "Wallpapers":[
         {   
+            "name":"HalfMoon",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9HghWR4.png",
+            "collections":"random,abstract,minimal",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"MinimalStripe",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oRTlt4W.png",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Guitar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Q9FD5W0.png",
+            "collections":"random,abstract,minimal",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Music11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/SvrDcuQ.png",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Hexa13",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7EqqDN1.png",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Curves11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/modHGrA.png",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint26",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/SjDEa8l.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint25",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6oMuKr4.png",
+            "collections":"featured,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Nnmh9V0.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/TzjoAwJ.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint22",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/njRgGSb.png",
+            "collections":"featured,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PHwUcGg.png",
+            "collections":"featured,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Hexa11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MLYlncz.png",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NjxW2Nf.png",
+            "collections":"random,abstract,",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint19",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ytuywCK.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint18",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NPOvAzy.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint17",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1vaY3kK.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint16",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nHfAi78.png",
+            "collections":"random,abstract,liquid",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint15",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/aH6DHE2.png",
+            "collections":"random,abstract,liquid",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint14",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OSGLi6g.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint13",
+            "author":"Binod Ray",
+            "url":"hhttps://i.imgur.com/EeFJLzW.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/P4L88Ps.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3JIlwmO.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint10",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HjDRfwh.png",
+            "collections":"random,abstract,liquid",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/htXmOrb.png",
+            "collections":"random,abstract,xwalls",
+            "downloadable":false,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MD6VWca.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/EFNxUYI.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jf2oet5.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ed2pMUZ.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YNeOTKn.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vaW2gAq.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Boxes11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/AlPAG3f.png",
+            "collections":"random,abstract,minimal",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+        {   
+            "name":"Brightpaint2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sf5Dadk.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+		{   
+            "name":"Brightpaint1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/RqpSrO6.png",
+            "collections":"random,abstract,xwalls",
+            "downloadable":false,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        
+        {   
             "name":"TwistedAbs6",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/DUuQscg.jpg",
