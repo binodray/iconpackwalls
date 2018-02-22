@@ -37,6 +37,330 @@
         }
     ],
     "Wallpapers":[
+	     {
+            "name":"Paris3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6sFuxSC.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"WhiteWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3n72sjH.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"Paris2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tXzdLiW.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"YellowWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NgSeCLX.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"Paris1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QPNbZFV.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4gPv0Ys.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland22",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/UxfXKL4.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HMKKpXz.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/n4mXSqX.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland19",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qMGGMYo.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland18",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yOVHi8A.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland17",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/aLIPHRz.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"Mountain11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NNiHHSL.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland16",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VjBV393.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland15",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/SuTcMmP.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland14",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/r8zD1dt.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland13",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ajb8gs3.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8Zi5K1n.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zWs0blc.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland10",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/p04ZMkA.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/b6UWQ5X.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/S8jDotO.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8cPDKVt.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pXWS6ae.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fsO1pPZ.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIslans4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z77mj03.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIslans3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3DZ1hLv.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIslans2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eQpaD9w.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"EdgeCar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WmslE4I.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"GreenWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ScVloda.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"Cactus1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dcagj7O.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"PaperIsland1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/94c5jR9.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"DesertNight2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HO7NkA6.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"DesertNigh1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/RSR3wHw.png",
+            "collections":"simple,minimal",
+		"downloadable":false,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"Cactus",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/p0lNewE.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+		"downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{   
+            "name":"BlueWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/aZSfbz0.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
         {   
             "name":"HalfMoon",
             "author":"Binod Ray",
