@@ -1,0 +1,53 @@
+{
+    "Collections":[
+        {
+            "name":"Minimal",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Simple",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Random",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"Material",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"kasuik3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fXXmET4.png",
+            "collections":"minimal,simple",
+            "copyright":"Personal Use",
+            "dimensions":"1440x2560"
+            
+        },
+        {
+            "name":"kasuik2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WigOwEN.png",
+            "collections":"minimal,simple",
+            "copyright":"Personal Use",
+            "dimensions":"1440x2560"
+            
+        },
+        
+        {
+            "name":"kasuik1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/S7c8qkN.png",
+            "collections":"minimal,simple",
+            "copyright":"Personal Use",
+            "dimensions":"1440x2560"
+        }
+    ]
+}
