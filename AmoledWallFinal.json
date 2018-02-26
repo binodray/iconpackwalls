@@ -52,6 +52,51 @@
         }
     ],
     "Wallpapers":[
+	  {
+            "name":"Minimal5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/q80toKd.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+	  {
+            "name":"Minimal4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sLKKE3e.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	 {
+            "name":"Minimal3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ghIFNWo.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },  
+	 {
+            "name":"Minimal2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HgPoqUJ.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	 {
+            "name":"Minimal1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8LEQ5QA.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
         {
             "name":"Material16",
             "author":"Binod Ray",
