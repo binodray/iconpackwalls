@@ -33,6 +33,54 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"Retro6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Budn93w.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Retro5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QvONKoA.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Retro4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OZtlnPS.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"Retro3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/g04IraR.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Retro2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ln2IPZH.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Retro1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7SWsff2.png",
+            "collections":"simple,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
             "name":"Paris3",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/6sFuxSC.png",
