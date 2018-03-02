@@ -37,6 +37,69 @@
         }
     ],
     "Wallpapers":[
+	    {
+            "name":"PinkPoly1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u9wbdU1.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },  
+	 {
+            "name":"ColorfulBubble1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/913Socs.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"GradientTwirl3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gblPeCJ.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"GradientTwirl2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nowTVl0.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"GradientTwirl1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/d5Eviwn.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"BluePolly",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/TJ1iqz0.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },   
+	{
+            "name":"BlueGradient1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cu8LtO8.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
 	  {
             "name":"Retro6",
             "author":"Binod Ray",
