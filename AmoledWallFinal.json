@@ -52,6 +52,114 @@
         }
     ],
     "Wallpapers":[
+       {
+            "name":"Geo3DLion",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1BTEoM9.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Geo3DBox1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4f90ttD.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Geo3DGeneral",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9smqT3E.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Geo3DPharaoh",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/o0dLkXo.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Geo3DSoft",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1qfenk2.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Geo3DBird2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4iHrT0D.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Geo3DCave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Mdy9ld3.png,
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	   {
+            "name":"Geo3DAquaman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/iWTVUKG.png",
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+	 {
+            "name":"Geo3D6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PbAqjjM.png",
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },  
+	{
+            "name":"Geo3D3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LpLzbET.png",
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        }, 
+	{
+            "name":"Geo3D2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oLgKH6T.png",
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Geo3D1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WyHGMfR.png",
+            "collections":"abstract,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
 	 
 	 {
             "name":"ThinCurves",
