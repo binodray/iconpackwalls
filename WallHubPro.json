@@ -32,6 +32,118 @@
         }
     ],
     "Wallpapers":[
+	 {
+            "name":"Geo3DLion1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/23IAzFL.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"Geo3DPurple",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0djd6En.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"Geo3DPink",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u1LQ9xM.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"Geo3DGeneral",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HlEnN1a.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	 {
+            "name":"Geo3DOrange",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LubEvFW.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	{
+            "name":"Geo3DHexa",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/v1DbSPn.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	  {
+            "name":"Geo3DGreen",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wuDDJii.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	{
+            "name":"Geo3DBox",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xVLrv49.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+        {
+            "name":"Geo3DCave1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vMqkQOS.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },   
+	{
+            "name":"Geo3DBird1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kWvOyTh.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	 {
+            "name":"Geo3DBird",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dC0nEfw.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Geo3D7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/geLNFT1.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	 {
+            "name":"Geo3D7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Xuhaj9.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Geo3D4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6LNbS57.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
 	  {
             "name":"PinkPoly1",
             "author":"Binod Ray",
