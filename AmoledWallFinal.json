@@ -52,7 +52,53 @@
         }
     ],
     "Wallpapers":[
-	    {
+        
+       {
+            "name":"PinkBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nii8tYO.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"HI",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hbFIetx.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Lorem7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jZ5jhRN.png",
+            "collections":"abstract,random,quriky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Flakes3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8Gmz8IY.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Flakes2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PgaN7i8.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+	{
             "name":"Geo3DLion",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/1BTEoM9.png",
