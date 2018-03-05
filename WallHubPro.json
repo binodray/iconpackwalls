@@ -32,6 +32,110 @@
         }
     ],
     "Wallpapers":[
+	  {
+            "name":"PunkWhale",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yM2GQIQ.jpg",
+            "collections":"abstract,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	 {
+            "name":"PolkaDoted",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x1sQi8w.jpg",
+            "collections":"abstract,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },   
+	 {
+            "name":"Lorem6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ap2MMNO.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Lorem5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ash09BV.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },   
+	 {
+            "name":"Lorem2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0pVbCiw.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },   
+	 {
+            "name":"Lorem4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oV8xxZQ.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	 {
+            "name":"Lorem1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/EG2cHcn.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },   
+	{
+            "name":"Lorem3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6c6rCRm.jpg",
+            "collections":"abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"London",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hwg5Y9a.jpg",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Flakes1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6bh9uIo.jpg",
+            "collections":"minimal,abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Flakes1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gljfmIT.jpg",
+            "collections":"random,abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"BlueWhale",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GzjOtQJ.jpg",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Berlin1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ti0JZ5S.jpg",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
 	 {
             "name":"Geo3DLion1",
             "author":"Binod Ray",
