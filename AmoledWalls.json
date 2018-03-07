@@ -48,6 +48,36 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Lorem12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MvIq82x.png",
+            "collections":"abstract,random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },  
+	 {
+            "name":"ColorfulLine2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cxPOI9e.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	 {
+            "name":"ColorfulLine1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ijHd6xi.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },     
+	{
             "name":"PolkaDot11",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/K8rmtza.png",
