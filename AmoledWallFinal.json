@@ -52,8 +52,33 @@
         }
     ],
     "Wallpapers":[
-        
-       {
+	{
+            "name":"PolkaDot11",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/K8rmtza.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },	    
+	{
+            "name":"Patrick",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZXkJ6MS.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"GoldenGliter",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/AICThY3.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+        },    
+        {
             "name":"PinkBubble",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/nii8tYO.png",
