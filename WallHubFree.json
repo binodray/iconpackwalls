@@ -37,7 +37,86 @@
         }
     ],
     "Wallpapers":[
-	  
+	 {
+            "name":"Seekei6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zbF40a5.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Seekei5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/erEDjJR.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Seekei4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QMTidlh.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Seekei3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u9bffFI.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Seekei2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jPJPjly.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
+            "name":"Seekei1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jp1wMeI.png",
+            "collections":"abstract,material",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	 {
+            "name":"Hallo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3EAhkvX.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },     
+	 {
+            "name":"GoldenGliter",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cSp7yKe.png",
+            "collections":"abstract",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	  {
+            "name":"PunkWhale",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yM2GQIQ.jpg",
+            "collections":"abstract,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	 {
+            "name":"PolkaDoted",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x1sQi8w.jpg",
+            "collections":"abstract,minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
 	 {
             "name":"Lorem6",
             "author":"Binod Ray",
