@@ -53,6 +53,33 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Stripes12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MuThjuW.png",
+            "collections":"Quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"Flowrel18",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dah4vxf.png",
+            "collections":"Flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"Flowrel19",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WZ788kQ.png",
+            "collections":"Flower" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },    
+	{
             "name":"Lorem12",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MvIq82x.png",
