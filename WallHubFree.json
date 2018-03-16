@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Madrid2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fxjMjiA.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Madrid3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6ZfWafl.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Sydny2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9KlrSID.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Rome1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hfL6bzP.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Toronto",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CHQNhFO.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+	    "downloadable":false,	
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"Flowrel22",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/wcAYEdG.png",
