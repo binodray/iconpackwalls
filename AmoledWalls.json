@@ -47,6 +47,56 @@
         }
     ],
     "Wallpapers":[
+	 {
+            "name":"BlueCone1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fPGVVQ4.png",
+            "collections":"quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"GoodDay",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bczeG2B.png",
+            "collections":"quote,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },  
+	{
+            "name":"Querky26",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QiFxeO3.png",
+            "collections":"quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },
+	{
+            "name":"Querky27",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8TnucKQ.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },  
+	{
+            "name":"Ready",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cXUeIAZ.png",
+            "collections":"quote,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,	
+            "copyright":"Personal Use"
+           
+        },    
 	{
             "name":"Wavy12",
             "author":"Binod Ray",
