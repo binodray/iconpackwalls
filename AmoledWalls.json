@@ -48,6 +48,46 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"TopoGraphy6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7vZZAsm.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"TopoGraphy7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nHQySJw.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"TopoGraphy8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/b0aQqWW.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"TopoGraphy1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/U1GhlvC.png",
+            "collections":"quirky,liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,	
+            "copyright":"Personal Use"
+           
+        },   
+	 {
             "name":"BlueCone1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/fPGVVQ4.png",
