@@ -48,6 +48,106 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"Flowral21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ztc7NGw.png",
+            "collections":"flower,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"Flowral20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yQKQGJ1.png",
+            "collections":"flower,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"QuirkyGradient6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/S93VtXg.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"JellyBean4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gVpy2uv.png",
+            "collections":"quirky,random,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },  
+	{
+            "name":"QuirkyGradient",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xbiKZr4.png",
+            "collections":"quirky,random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"Music1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cCO55M6.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },    
+	{
+            "name":"QuirkyGradient4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rZORUYR.png",
+            "collections":"random,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"QuirkyGradient2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gRjJZxP.png",
+            "collections":"random,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        }, 
+	{
+            "name":"QuirkyGradient3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YPtI6V1.png",
+            "collections":"random,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"QuirkyGradient1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XDX1vH1.png",
+            "collections":"random,simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	 {
             "name":"TopoGraphy6",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/7vZZAsm.png",
