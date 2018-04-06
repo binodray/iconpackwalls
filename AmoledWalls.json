@@ -47,6 +47,67 @@
         }
     ],
     "Wallpapers":[
+	    
+	 {
+            "name":"Stripes25",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/JWq4un9.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"Dreams1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yvcl9lA.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        }, 
+	{
+            "name":"Pipes2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ztc7NGw.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"Stripes24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Fx0pTkw.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        }, 
+	{
+            "name":"Stripes23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/R6Bswsd.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"
+           
+        },   
+	{
+            "name":"Pipes1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rirwiuD.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,	
+            "copyright":"Personal Use"
+           
+        },   
 	 {
             "name":"Flowral21",
             "author":"Binod Ray",
