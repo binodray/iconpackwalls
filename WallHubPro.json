@@ -32,7 +32,46 @@
         }
     ],
     "Wallpapers":[
-	    
+	 {
+            "name":"SunSets12",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pTtENB1.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"WorldMap",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FUCMD7l.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"SummerTime",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hCqiJxY.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Jhar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fqlKKT3.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Crafty",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cPv4ZEw.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
 	 {
             "name":"BoatJorney",
             "author":"Binod Ray",
