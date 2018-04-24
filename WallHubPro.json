@@ -33,6 +33,46 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"CloudySky24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mhbbHDa.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"CloudySky22",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Aj0RZwx.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"CloudySky23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rOYYjiC.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"CloudySky20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vThc8tf.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"CloudySky21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ab4WsYM.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	 {
             "name":"SunSets12",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/pTtENB1.png",
