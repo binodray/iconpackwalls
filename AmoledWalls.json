@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
 	  {
+            "name":"SummerMind",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9xMuVjV.png",
+            "collections":"simple,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use" 
+        }, 
+	{
+            "name":"AllYouNeed",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nvsvSKu.png",
+            "collections":"simple,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use" 
+        },
+	{
+            "name":"SweetSummer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kfhiojj.png",
+            "collections":"simple,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use" 
+        },
+	{
+            "name":"Vitamine",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y9oJgyV.png",
+            "collections":"simple,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use" 
+        },
+	{
+            "name":"BeginAdventure",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ee1lvki.png",
+            "collections":"simple,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use" 
+        },  
+	  {
             "name":"CloudySky24",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/mhbbHDa.png",
