@@ -32,7 +32,47 @@
         }
     ],
     "Wallpapers":[
-	  {
+	{
+            "name":"Colored26",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2hEzzG1.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Rainbows20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ezij3Rw.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"RainbowPlane",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HlMiFVE.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"RainbowsSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XKzzybR.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"RainbowsSun1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BW117zA.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"Shell",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/NYjb2vj.png",
