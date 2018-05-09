@@ -52,7 +52,39 @@
         }
     ],
     "Wallpapers":[
-	  {
+	{
+            "name":"Camp",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/cYt0PZn.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use" 
+        },
+	{
+            "name":"SummerGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GG25tT4.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use" 
+        },  
+	{
+            "name":"SummerGirl1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oOwazVF.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use" 
+        },   
+	{
+            "name":"Swag",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ekYJZEM.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use" 
+        },     
+	{
             "name":"Rainbows27",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/R8xzBFY.png",
