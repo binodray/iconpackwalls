@@ -53,6 +53,47 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Twirl32",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dNl7nle.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Twirl30",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/02Gr1Rq.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Twirl33",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mPzDlie.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Twirl31",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZOaKlDl.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Twirl34",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LAzsQ4P.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	    
+	{
             "name":"PolyCat",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/QdO1t9X.png",
