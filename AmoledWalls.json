@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Quirky31",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sC4kyge.png",
+            "collections":"simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },   
+	{
+            "name":"Quirky33",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7fHhNIm.png",
+            "collections":"simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Quirky34",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NGMgEfY.png",
+            "collections":"simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Quirky32",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u6wRKy5.png",
+            "collections":"simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Quirky30",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yz0SXgo.png",
+            "collections":"simple,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
             "name":"PapaBear",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/qz3saj8.png",
