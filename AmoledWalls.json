@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Rock5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MOfh45b.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Rock3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/m0RPoGp.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Rock2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/lt0qPB4.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Rock1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wC1TGCb.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Rock4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/txC2TMK.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
             "name":"Quirky31",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/sC4kyge.png",
