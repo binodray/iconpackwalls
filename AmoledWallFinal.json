@@ -53,6 +53,46 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Flair2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CYDFwQ4.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Flair5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BMYMMd2.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Flair7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DisHhSV.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Flair9",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CYyHJs5.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Flair8",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GwI9F7H.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+        },    
+	{
             "name":"Rock5",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MOfh45b.png",
