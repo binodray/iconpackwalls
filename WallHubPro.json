@@ -33,6 +33,46 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Flair1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DMaqnoj.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	{
+            "name":"Flair3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HoKAXFi.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Flair10",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/l0FMzP3.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Flair6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oIJWNov.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Flair4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6oZDBCc.png",
+            "collections":"random,abstract,xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"Cards",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/S05paKn.png",
