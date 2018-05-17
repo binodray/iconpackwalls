@@ -33,6 +33,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"AirBallon5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HGr2PRk.png",
+	    "thumbUrl": "https://i.imgur.com/IbiXNf4.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	{
+            "name":"AirBallon3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GWiTQsk.png",
+	    "thumbUrl": "https://i.imgur.com/XcAECWn.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	{
+            "name":"AirBallon1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/88g0tCs.png",
+	    "thumbUrl": "https://i.imgur.com/uNmwpGS.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	{
+            "name":"AirBallon4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/d2E0uNs.png",
+	    "thumbUrl": "https://i.imgur.com/i0tI8H8.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	{
+            "name":"AirBallon2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rV2EBdR.png",
+	    "thumbUrl": "https://i.imgur.com/wryXR6v.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },     
+	{
             "name":"Flair1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/DMaqnoj.png",
