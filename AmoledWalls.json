@@ -48,6 +48,46 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Neons1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tRNglji.png",
+	    "thumbUrl": "https://i.imgur.com/GSY0hTp.png",
+            "collections":"simple,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Neons2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GAJyQie.png",
+	    "thumbUrl": "https://i.imgur.com/pLXhzN4.png",
+            "collections":"simple,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Neons3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dlerec.png",
+	    "thumbUrl": "https://i.imgur.com/ojiHPAI.png",
+            "collections":"simple,quirky,random" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,
+	    "copyright":"Personal Use" 
+        },
+	{
+            "name":"Neons4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pMq5Lcn.png",
+	    "thumbUrl": "https://i.imgur.com/nwuCWNM.png",
+            "collections":"simple,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+        },    
+	{
             "name":"ColorfulCat",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/WlR25NS.png",
