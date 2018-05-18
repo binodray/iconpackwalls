@@ -33,6 +33,42 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Pastel21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/o47fkZX.png",
+	    "thumbUrl": "https://i.imgur.com/bIp4Wdl.png",
+            "collections":"xwalls,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },  
+	{
+            "name":"Pastel22",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pNVUCzV.png",
+	    "thumbUrl": "https://i.imgur.com/hD6qYPV.png",
+            "collections":"xwalls,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	{
+            "name":"Pastel23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HrPQRi1.png",
+	    "thumbUrl": "https://i.imgur.com/A9gSJfS.png",
+            "collections":"xwalls,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        }, 
+	{
+            "name":"Pastel24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OQVjZ6E.png",
+	    "thumbUrl": "https://i.imgur.com/sU5JXjE.png",
+            "collections":"xwalls,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"AirBallon5",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/HGr2PRk.png",
