@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"GradientEvnings",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9f8JvAA.png",
+	    "thumbUrl": "https://i.imgur.com/LRVv5Fb.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"MinimalSunSet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/utpCX88.png",
+	    "thumbUrl": "https://i.imgur.com/0riOiWe.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"MinimalNight",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6eOT6Ki.png",
+	    "thumbUrl": "https://i.imgur.com/fgftsnY.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"FlatBus",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZSnP3AV.png",
+	    "thumbUrl": "https://i.imgur.com/AlUuNg6.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"MinimalSummer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hDFg4pC.png",
+	    "thumbUrl": "https://i.imgur.com/uwfRCHo.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },   
+	{
             "name":"Pastel21",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/o47fkZX.png",
