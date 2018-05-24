@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Lorem31",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CzLTaHO.png",
+	    "thumbUrl": "https://i.imgur.com/tYcxeq2.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lorem30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wfxIUF4.png",
+	    "thumbUrl": "https://i.imgur.com/7PRyMql.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lorem34",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9ep5ekp.png",
+	    "thumbUrl": "https://i.imgur.com/OVbNWMz.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lorem33",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cZWe32G.png",
+	    "thumbUrl": "https://i.imgur.com/UlthukW.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lorem32",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/INbDvdN.png",
+	    "thumbUrl": "https://i.imgur.com/nL2eeE1.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"HelloSummers",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Azs4NIs.png",
