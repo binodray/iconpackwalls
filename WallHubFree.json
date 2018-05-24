@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
 	 {
+            "name":"Beach24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DDZXVyN.png",
+	    "thumbUrl": "https://i.imgur.com/qnOzixw.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Beach25",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YFsUFnJ.png",
+	    "thumbUrl": "https://i.imgur.com/KqyNWM4.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Beach21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NQoe4rI.png",
+	    "thumbUrl": "https://i.imgur.com/NSx3lOU.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Beach23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oEjJqro.png",
+	    "thumbUrl": "https://i.imgur.com/vdYOBIg.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Beach20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yM3LpLz.png",
+	    "thumbUrl": "https://i.imgur.com/EE4fCzz.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+            "copyright":"Personal Use"           
+        },    
+	 {
             "name":"GradientEvnings",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/9f8JvAA.png",
