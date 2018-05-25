@@ -47,7 +47,57 @@
         }
     ],
     "Wallpapers":[
-	{
+     {
+            "name":"Gradients1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uZ5ofcy.png",
+	    "thumbUrl": "https://i.imgur.com/tmMtbjX.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gradients13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Iz7TZLF.png",
+	    "thumbUrl": "https://i.imgur.com/fpdEUbC.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Flat11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lu0olp0.png",
+	    "thumbUrl": "https://i.imgur.com/qp3krQ7.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Flat12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gdk1YpA.png",
+	    "thumbUrl": "https://i.imgur.com/UNps8kK.png",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gradients11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UMdbDpR.png",
+	    "thumbUrl": "v",
+            "collections":"quriky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"Lorem31",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/CzLTaHO.png",
