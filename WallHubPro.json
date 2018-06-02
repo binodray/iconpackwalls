@@ -33,6 +33,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"Stipes18",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wZiTKgO.png",
+	    "thumbUrl": "https://i.imgur.com/MFQMdvK.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Stipes15",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6aSftIz.png",
+	    "thumbUrl": "https://i.imgur.com/uXXUMpf.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Stripes19",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/TjNvoyJ.png",
+	    "thumbUrl": "https://i.imgur.com/lnG8xNx.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Stipes16",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DFdwGK9.png",
+	    "thumbUrl": "https://i.imgur.com/FS9q3ZL.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"Stipes17",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4q4jBTe.png",
+	    "thumbUrl": "https://i.imgur.com/EHxPkhG.png",
+            "collections":"abstract,random",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"Pastle21",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/4OYs5XU.png",
