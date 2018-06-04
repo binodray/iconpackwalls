@@ -48,6 +48,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"HelloSummer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M5mmUtO.png",
+	    "thumbUrl": "https://i.imgur.com/druHFAk.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OnMyMind",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BpzkchI.png",
+	    "thumbUrl": "https://i.imgur.com/or6NuRd.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SunPlease",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9uvKKFb.png",
+	    "thumbUrl": "https://i.imgur.com/G0B2TRS.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Weekend",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wqXWsOe.png",
+	    "thumbUrl": "https://i.imgur.com/xbws3SX.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Time",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fR8XU6m.png",
+	    "thumbUrl": "https://i.imgur.com/miD8LZ3.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WelcomeSummer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sJgB1DC.png",
+	    "thumbUrl": "https://i.imgur.com/dpRdSBF.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Summer23",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/6DoWCvD.png",
