@@ -33,6 +33,60 @@
     ],
     "Wallpapers":[
 	{
+            "name":"SunSet32",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QSnlNHW.png",
+	    "thumbUrl": "https://i.imgur.com/SaO5Pts.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"SunSet30",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wg5i6hS.png",
+	    "thumbUrl": "https://i.imgur.com/RGFs81s.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"SunSet33",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bhkco47.png",
+	    "thumbUrl": "https://i.imgur.com/PQZmTwX.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"SunSet34",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gkRDPzU.png",
+	    "thumbUrl": "https://i.imgur.com/3oCRu5c.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"SunSet31",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HvkiGKH.png",
+	    "thumbUrl": "https://i.imgur.com/yoesQRS.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"SunSet35",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yoesQRS.png",
+	    "thumbUrl": "https://i.imgur.com/tHa676o.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"Stipes18",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/wZiTKgO.png",
