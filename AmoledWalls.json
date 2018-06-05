@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"Liquids32",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iTLl31D.png",
+	    "thumbUrl": "https://i.imgur.com/16nyPic.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Liquids30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6btD9tO.png",
+	    "thumbUrl": "https://i.imgur.com/vKXC753.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Liquids31",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Uo0eS3F.png",
+	    "thumbUrl": "https://i.imgur.com/0Wfb9Jy.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Liquids33",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m93aedQ.png",
+	    "thumbUrl": "https://i.imgur.com/SV6ffyu.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Liquids34",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FtUNUGv.png",
+	    "thumbUrl": "https://i.imgur.com/MvEUpmC.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"HelloSummer",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/M5mmUtO.png",
