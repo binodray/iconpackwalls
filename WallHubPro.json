@@ -33,6 +33,51 @@
     ],
     "Wallpapers":[
 	{
+            "name":"AngryGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7ZpV3uM.png",
+	    "thumbUrl": "https://i.imgur.com/T4cIBXQ.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"FashionGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/SxZAfTi.png",
+	    "thumbUrl": "https://i.imgur.com/WpxxC6j.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"BikiniGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Q1ve9oA.png",
+	    "thumbUrl": "https://i.imgur.com/7U00a4U.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"ScooterGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YEAvWcR.png",
+	    "thumbUrl": "https://i.imgur.com/nGK196M.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"BikiniGirl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MEAQwra.png",
+	    "thumbUrl": "https://i.imgur.com/qwBPsmH.png",
+            "collections":"minimal",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },    
+	{
             "name":"SunSet32",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/QSnlNHW.png",
