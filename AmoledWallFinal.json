@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueBetta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ndKVjp6.png",
+	    "thumbUrl": "https://i.imgur.com/wdbvIdC.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedBetta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uEwlJ3e.png",
+	    "thumbUrl": "https://i.imgur.com/x8bsoGv.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeBett",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AB3BrBS.png",
+	    "thumbUrl": "https://i.imgur.com/D3gTr9b.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowBetta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Wn6G5ir.png",
+	    "thumbUrl": "https://i.imgur.com/QCprtcp.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBetta1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LbL99uF.png",
+	    "thumbUrl": "https://i.imgur.com/16nyPic.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Liquids32",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iTLl31D.png",
