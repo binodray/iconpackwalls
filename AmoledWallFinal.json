@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"RedGradients",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gRkSN5F.png",
+	    "thumbUrl": "https://i.imgur.com/yZKVRno.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleGradients",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7E3CpmK.png",
+	    "thumbUrl": "https://i.imgur.com/cbEdHx1.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueGradients",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/saEqFM9.png",
+	    "thumbUrl": "https://i.imgur.com/SubCrqR.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HoneyComb",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2m0yZIM.png",
+	    "thumbUrl": "https://i.imgur.com/gjC1fXE.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RoseGradients",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v22x2SO.png",
+	    "thumbUrl": "https://i.imgur.com/qtYutJB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueBetta",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ndKVjp6.png",
