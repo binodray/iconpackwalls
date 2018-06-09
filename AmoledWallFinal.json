@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"OrangeCone30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ukE0BB4.png",
+	    "thumbUrl": "https://i.imgur.com/SsXxBMQ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCone30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tpkq0fV.png",
+	    "thumbUrl": "https://i.imgur.com/6Xl6OLb.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueCone30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9TpFc7K.png",
+	    "thumbUrl": "https://i.imgur.com/N3ljZHE.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleGradient30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Rf5XECC.png",
+	    "thumbUrl": "https://i.imgur.com/cWHL4w4.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientCone30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dXD5r3t.png",
+	    "thumbUrl": "https://i.imgur.com/GIGW2Ke.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Games1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/eajFNT0.png",
