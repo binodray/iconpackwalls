@@ -32,7 +32,51 @@
         }
     ],
     "Wallpapers":[
-	    
+     {
+            "name":"Xwalls47",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PTJwpVV.png",
+	    "thumbUrl": "https://i.imgur.com/2hnk11I.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls46",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GLcsyf2.png",
+	    "thumbUrl": "https://i.imgur.com/WGbD8pL.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleAbstract",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OOr3KPW.png",
+	    "thumbUrl": "https://i.imgur.com/0aFupUT.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dr6gLNj.png",
+	    "thumbUrl": "https://i.imgur.com/C7k8ATU.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls45",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/40VqIF6.png",
+	    "thumbUrl": "https://i.imgur.com/mEAT9pz.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"Hiking3",
       	    "author":"Binod Ray",
