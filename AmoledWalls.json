@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"Bokeh2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h8BKg1K.png",
+	    "thumbUrl": "https://i.imgur.com/HA9xipy.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bokeh1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dd6L3n6.png",
+	    "thumbUrl": "https://i.imgur.com/I0zzcAf.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bokeh3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Oh4CAo.png",
+	    "thumbUrl": "https://i.imgur.com/KCwfFRe.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bokeh4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4gSqqa8.png",
+	    "thumbUrl": "https://i.imgur.com/th8Imb6.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bokeh5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vd45NEF.png",
+	    "thumbUrl": "https://i.imgur.com/n7xzVvO.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Blocks41",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/18P2Flx.png",
