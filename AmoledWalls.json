@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"Blocks28",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aDC9XyP.png",
+	    "thumbUrl": "https://i.imgur.com/JzbiauQ.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Blocks29",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kmzwW2a.png",
+	    "thumbUrl": "https://i.imgur.com/dhs6WEw.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+    {
+            "name":"Rainbows31",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mTu64di.png",
+	    "thumbUrl": "https://i.imgur.com/wNEMbH9.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GolenLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WtRAqBH.png",
+	    "thumbUrl": "https://i.imgur.com/vexAHrn.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Worms27",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vC01ryC.png",
+	    "thumbUrl": "https://i.imgur.com/HA9xipy.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Bokeh2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/h8BKg1K.png",
