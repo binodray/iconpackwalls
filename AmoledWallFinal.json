@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
       {
+            "name":"Musics26",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7oI2UeE.png",
+	    "thumbUrl": "https://i.imgur.com/vBHeafx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Musics25",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y290xmn.png",
+	    "thumbUrl": "https://i.imgur.com/41cWpER.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Musics28",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J5VVxMs.png",
+	    "thumbUrl": "https://i.imgur.com/LAiK03d.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AlienMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hy4zlJr.png",
+	    "thumbUrl": "https://i.imgur.com/oRssJHI.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Musics27",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nIXrvPe.png",
+	    "thumbUrl": "https://i.imgur.com/Ei7hYTZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"Blocks28",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/aDC9XyP.png",
