@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
       {
+            "name":"Diamods",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/x6tbEDd.png",
+	    "thumbUrl": "https://i.imgur.com/MOBU06Z.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Circles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lLzCnyk.png",
+	    "thumbUrl": "https://i.imgur.com/M0D90gk.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Centres",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IfgFe4G.png",
+	    "thumbUrl": "https://i.imgur.com/mgbXYYr.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Corners",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wnt3ybX.png",
+	    "thumbUrl": "https://i.imgur.com/Xth8wHC.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shapes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qgw8spf.png",
+	    "thumbUrl": "https://i.imgur.com/PsM39AJ.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"Musics26",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7oI2UeE.png",
