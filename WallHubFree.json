@@ -37,7 +37,87 @@
         }
     ],
     "Wallpapers":[
-       {
+     {
+            "name":"Cover3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DtCRtv8.png",
+	    "thumbUrl": "https://i.imgur.com/DtCRtv8.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SrOVyAe.jpg",
+	    "thumbUrl": "https://i.imgur.com/dq3Uv7B.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PdYUwJa.png",
+	    "thumbUrl": "https://i.imgur.com/0iDQWkN.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LX2sBch.png",
+	    "thumbUrl": "https://i.imgur.com/71ME684.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ywjB2x0.png",
+	    "thumbUrl": "https://i.imgur.com/cvvUR3F.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f6r2sTg.png",
+	    "thumbUrl": "https://i.imgur.com/3tGrCNW.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bM4q9K5.png",
+	    "thumbUrl": "https://i.imgur.com/9OfH7vn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ceqzyL8.png",
+	    "thumbUrl": "https://i.imgur.com/Avuh3dM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },  	    
+      {
             "name":"Brain",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/FrRTTiu.png",
