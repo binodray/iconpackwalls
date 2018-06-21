@@ -5,7 +5,7 @@
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
-        {
+         {
             "name":"Animal",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -41,25 +41,69 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"Twisted",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-        },
-        {
             "name":"Random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
-      
-      {
+     {
+            "name":"Bubbles20",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lUh7CZR.png",
+	    "thumbUrl": "https://i.imgur.com/MTJEnIz.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cover12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ub411S0.png",
+	    "thumbUrl": "https://i.imgur.com/hnF2fOq.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	     
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OldGame",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZRVe2hy.png",
+	    "thumbUrl": "https://i.imgur.com/O6daKTu.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	     
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Stripe23",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/s1E9FWq.png",
+	    "thumbUrl": "https://i.imgur.com/Ps7wRMB.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	     
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Stripe24",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yaplp35.png",
+	    "thumbUrl": "https://i.imgur.com/YDcv9xe.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	     
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Folds3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/oKqb8Pw.png",
 	    "thumbUrl": "https://i.imgur.com/5mYCGzZ.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -69,6 +113,7 @@
 	    "thumbUrl": "https://i.imgur.com/SGfZvSQ.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -78,6 +123,7 @@
 	    "thumbUrl": "https://i.imgur.com/t1q7qBw.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -87,6 +133,7 @@
 	    "thumbUrl": "https://i.imgur.com/650O2LR.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -96,15 +143,17 @@
 	    "thumbUrl": "https://i.imgur.com/qJFrRwe.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },	    
-      {
+     },		    
+     {
             "name":"Diamods",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/x6tbEDd.png",
 	    "thumbUrl": "https://i.imgur.com/MOBU06Z.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -114,6 +163,7 @@
 	    "thumbUrl": "https://i.imgur.com/M0D90gk.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -123,6 +173,7 @@
 	    "thumbUrl": "https://i.imgur.com/mgbXYYr.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -132,6 +183,7 @@
 	    "thumbUrl": "https://i.imgur.com/Xth8wHC.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -141,15 +193,17 @@
 	    "thumbUrl": "https://i.imgur.com/PsM39AJ.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },	    
-      {
+     {
             "name":"Musics26",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7oI2UeE.png",
 	    "thumbUrl": "https://i.imgur.com/vBHeafx.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -159,6 +213,7 @@
 	    "thumbUrl": "https://i.imgur.com/41cWpER.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -168,6 +223,7 @@
 	    "thumbUrl": "https://i.imgur.com/LAiK03d.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -177,6 +233,7 @@
 	    "thumbUrl": "https://i.imgur.com/oRssJHI.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -186,15 +243,17 @@
 	    "thumbUrl": "https://i.imgur.com/Ei7hYTZ.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },	    
-      {
+     }, 	    
+     {
             "name":"Blocks28",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/aDC9XyP.png",
 	    "thumbUrl": "https://i.imgur.com/JzbiauQ.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -204,6 +263,7 @@
 	    "thumbUrl": "https://i.imgur.com/lQFdILU.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
     {
@@ -213,6 +273,7 @@
 	    "thumbUrl": "https://i.imgur.com/wNEMbH9.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -222,6 +283,7 @@
 	    "thumbUrl": "https://i.imgur.com/vexAHrn.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -231,15 +293,17 @@
 	    "thumbUrl": "https://i.imgur.com/vC01ryC.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },	    
-      {
+     {
             "name":"Bokeh2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/h8BKg1K.png",
 	    "thumbUrl": "https://i.imgur.com/HA9xipy.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -249,6 +313,7 @@
 	    "thumbUrl": "https://i.imgur.com/I0zzcAf.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -258,6 +323,7 @@
 	    "thumbUrl": "https://i.imgur.com/KCwfFRe.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -267,6 +333,7 @@
 	    "thumbUrl": "https://i.imgur.com/th8Imb6.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -276,6 +343,7 @@
 	    "thumbUrl": "https://i.imgur.com/n7xzVvO.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },	    
      {
@@ -285,6 +353,7 @@
 	    "thumbUrl": "https://i.imgur.com/bbZMqZ2.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -294,6 +363,7 @@
 	    "thumbUrl": "https://i.imgur.com/TdY8IYS.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -303,6 +373,7 @@
 	    "thumbUrl": "https://i.imgur.com/ZtwDrOb.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -312,6 +383,7 @@
 	    "thumbUrl": "https://i.imgur.com/Wr8mCZY.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -321,8 +393,9 @@
 	    "thumbUrl": "https://i.imgur.com/GYaYXdm.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },	    
+     },	  	    
      {
             "name":"OrangeCone30",
       	    "author":"Binod Ray",
@@ -330,6 +403,7 @@
 	    "thumbUrl": "https://i.imgur.com/SsXxBMQ.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -339,6 +413,7 @@
 	    "thumbUrl": "https://i.imgur.com/6Xl6OLb.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -348,6 +423,7 @@
 	    "thumbUrl": "https://i.imgur.com/N3ljZHE.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -357,6 +433,7 @@
 	    "thumbUrl": "https://i.imgur.com/cWHL4w4.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -366,6 +443,7 @@
 	    "thumbUrl": "https://i.imgur.com/GIGW2Ke.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },	    
      {
@@ -375,6 +453,7 @@
 	    "thumbUrl": "https://i.imgur.com/DBUMzgs.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -384,6 +463,7 @@
 	    "thumbUrl": "https://i.imgur.com/DgJ2MvN.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -393,6 +473,7 @@
 	    "thumbUrl": "https://i.imgur.com/XpOI430.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -402,6 +483,7 @@
 	    "thumbUrl": "https://i.imgur.com/lOZiISb.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -411,8 +493,9 @@
 	    "thumbUrl": "https://i.imgur.com/HYw6JbF.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },	    
+     }, 	    
      {
             "name":"BlueBetta",
       	    "author":"Binod Ray",
@@ -420,6 +503,7 @@
 	    "thumbUrl": "https://i.imgur.com/wdbvIdC.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -429,6 +513,7 @@
 	    "thumbUrl": "https://i.imgur.com/x8bsoGv.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -438,6 +523,7 @@
 	    "thumbUrl": "https://i.imgur.com/D3gTr9b.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -447,6 +533,7 @@
 	    "thumbUrl": "https://i.imgur.com/QCprtcp.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -456,8 +543,9 @@
 	    "thumbUrl": "https://i.imgur.com/SEJEaQw.png",
             "collections":"animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     }, 	    
+     },	    
      {
             "name":"Liquids32",
       	    "author":"Binod Ray",
@@ -465,6 +553,7 @@
 	    "thumbUrl": "https://i.imgur.com/16nyPic.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -474,6 +563,7 @@
 	    "thumbUrl": "https://i.imgur.com/vKXC753.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -483,6 +573,7 @@
 	    "thumbUrl": "https://i.imgur.com/0Wfb9Jy.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -492,6 +583,7 @@
 	    "thumbUrl": "https://i.imgur.com/SV6ffyu.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -501,6 +593,7 @@
 	    "thumbUrl": "https://i.imgur.com/MvEUpmC.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },	    
      {
@@ -510,6 +603,7 @@
 	    "thumbUrl": "https://i.imgur.com/druHFAk.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -519,6 +613,7 @@
 	    "thumbUrl": "https://i.imgur.com/or6NuRd.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -528,6 +623,7 @@
 	    "thumbUrl": "https://i.imgur.com/G0B2TRS.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -537,6 +633,7 @@
 	    "thumbUrl": "https://i.imgur.com/xbws3SX.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -546,6 +643,7 @@
 	    "thumbUrl": "https://i.imgur.com/miD8LZ3.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -555,6 +653,7 @@
 	    "thumbUrl": "https://i.imgur.com/dpRdSBF.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	      
 	    "copyright":"Personal Use" 
      },	    
      {
@@ -564,6 +663,7 @@
 	    "thumbUrl": "https://i.imgur.com/UEj8x2E.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -573,6 +673,7 @@
 	    "thumbUrl": "https://i.imgur.com/edNkuH8.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -582,6 +683,7 @@
 	    "thumbUrl": "https://i.imgur.com/ukQo4lw.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -591,6 +693,7 @@
 	    "thumbUrl": "https://i.imgur.com/vgaRWoI.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -600,8 +703,9 @@
 	    "thumbUrl": "https://i.imgur.com/0t0y7Ux.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },   
+     },	    
      {
             "name":"Gradients1",
       	    "author":"Binod Ray",
@@ -609,6 +713,7 @@
 	    "thumbUrl": "https://i.imgur.com/tmMtbjX.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -618,6 +723,7 @@
 	    "thumbUrl": "https://i.imgur.com/fpdEUbC.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -627,6 +733,7 @@
 	    "thumbUrl": "https://i.imgur.com/qp3krQ7.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -636,6 +743,7 @@
 	    "thumbUrl": "https://i.imgur.com/UNps8kK.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -645,9 +753,9 @@
 	    "thumbUrl": "v",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     },	    
-	    
+     },		    
      {
             "name":"Lorem31",
       	    "author":"Binod Ray",
@@ -655,6 +763,7 @@
 	    "thumbUrl": "https://i.imgur.com/tYcxeq2.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -664,6 +773,7 @@
 	    "thumbUrl": "https://i.imgur.com/7PRyMql.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -673,6 +783,7 @@
 	    "thumbUrl": "https://i.imgur.com/OVbNWMz.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -682,6 +793,7 @@
 	    "thumbUrl": "https://i.imgur.com/UlthukW.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -691,8 +803,9 @@
 	    "thumbUrl": "https://i.imgur.com/nL2eeE1.png",
             "collections":"quriky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-     }, 	    
+     },    
      {
             "name":"HelloSummers",
       	    "author":"Binod Ray",
@@ -700,6 +813,7 @@
 	    "thumbUrl": "https://i.imgur.com/P7Y0Me7.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -709,6 +823,7 @@
 	    "thumbUrl": "https://i.imgur.com/FDjTofe.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
      },
      {
@@ -718,6 +833,7 @@
 	    "thumbUrl": "https://i.imgur.com/r6LSKR4.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
       },
       {
@@ -727,6 +843,7 @@
 	    "thumbUrl": "https://i.imgur.com/wWjvQRd.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	      
 	    "copyright":"Personal Use" 
        },
        {
@@ -736,8 +853,9 @@
 	    "thumbUrl": "https://i.imgur.com/CGlXFva.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	      
 	    "copyright":"Personal Use" 
-	},    
+	}, 
 	{
             "name":"Neons1",
             "author":"Binod Ray",
@@ -745,6 +863,7 @@
 	    "thumbUrl": "https://i.imgur.com/GSY0hTp.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -754,6 +873,7 @@
 	    "thumbUrl": "https://i.imgur.com/pLXhzN4.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -763,6 +883,7 @@
 	    "thumbUrl": "https://i.imgur.com/ojiHPAI.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+             
 	    "copyright":"Personal Use" 
         },
 	{
@@ -772,6 +893,7 @@
 	    "thumbUrl": "https://i.imgur.com/nwuCWNM.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },    
 	{
@@ -781,6 +903,7 @@
 	    "thumbUrl": "https://i.imgur.com/I9deau1.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -790,6 +913,7 @@
 	    "thumbUrl": "https://i.imgur.com/XmQeioC.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -799,6 +923,7 @@
 	    "thumbUrl": "https://i.imgur.com/23UzbBt.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -808,6 +933,7 @@
 	    "thumbUrl": "https://i.imgur.com/hR0tu6e.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },    
 	{
@@ -817,6 +943,7 @@
 	    "thumbUrl": "https://i.imgur.com/BivQbwa.png",
             "collections":"simple,quirky,random" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },    
 	{
@@ -825,6 +952,7 @@
             "url":"https://i.imgur.com/CYDFwQ4.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -833,6 +961,7 @@
             "url":"https://i.imgur.com/BMYMMd2.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -841,6 +970,7 @@
             "url":"https://i.imgur.com/DisHhSV.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -849,6 +979,7 @@
             "url":"https://i.imgur.com/CYyHJs5.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -857,6 +988,7 @@
             "url":"https://i.imgur.com/GwI9F7H.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },    
 	{
@@ -865,6 +997,7 @@
             "url":"https://i.imgur.com/MOfh45b.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -873,6 +1006,7 @@
             "url":"https://i.imgur.com/m0RPoGp.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -881,6 +1015,7 @@
             "url":"https://i.imgur.com/lt0qPB4.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -889,6 +1024,7 @@
             "url":"https://i.imgur.com/wC1TGCb.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -897,14 +1033,16 @@
             "url":"https://i.imgur.com/txC2TMK.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-        },    
+        },
 	{
             "name":"Quirky31",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/sC4kyge.png",
             "collections":"simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },   
 	{
@@ -913,6 +1051,7 @@
             "url":"https://i.imgur.com/7fHhNIm.png",
             "collections":"simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -921,6 +1060,7 @@
             "url":"https://i.imgur.com/NGMgEfY.png",
             "collections":"simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -929,6 +1069,7 @@
             "url":"https://i.imgur.com/u6wRKy5.png",
             "collections":"simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -937,14 +1078,16 @@
             "url":"https://i.imgur.com/yz0SXgo.png",
             "collections":"simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-        },    
+        },
 	{
             "name":"PapaBear",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/qz3saj8.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -953,6 +1096,7 @@
             "url":"https://i.imgur.com/KMuvXdc.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -961,6 +1105,7 @@
             "url":"https://i.imgur.com/syYJ5BF.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },    
 	{
@@ -969,6 +1114,7 @@
             "url":"https://i.imgur.com/83E7HoT.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -977,14 +1123,16 @@
             "url":"https://i.imgur.com/vlTAtyv.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-        },    
+        },
 	{
             "name":"Twirl32",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/dNl7nle.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+             
 	    "copyright":"Personal Use" 
         },
 	{
@@ -993,6 +1141,7 @@
             "url":"https://i.imgur.com/02Gr1Rq.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -1001,6 +1150,7 @@
             "url":"https://i.imgur.com/mPzDlie.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -1009,6 +1159,7 @@
             "url":"https://i.imgur.com/ZOaKlDl.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
         },
 	{
@@ -1017,23 +1168,25 @@
             "url":"https://i.imgur.com/LAzsQ4P.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
 	    "copyright":"Personal Use" 
-        },
-	    
-	{
+        },   
+	 {
             "name":"PolyCat",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/QdO1t9X.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-        },    
-	{
+	     
+            "copyright":"Personal Use" 
+        },   
+	 {
             "name":"Camp",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/cYt0PZn.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	{
@@ -1042,6 +1195,7 @@
             "url":"https://i.imgur.com/GG25tT4.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },  
 	{
@@ -1050,6 +1204,7 @@
             "url":"https://i.imgur.com/oOwazVF.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },   
 	{
@@ -1058,14 +1213,16 @@
             "url":"https://i.imgur.com/ekYJZEM.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
-        },     
+        },
 	{
             "name":"Rainbows27",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/R8xzBFY.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	 {
@@ -1074,6 +1231,7 @@
             "url":"https://i.imgur.com/Sbk6BEU.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	 {
@@ -1082,6 +1240,7 @@
             "url":"https://i.imgur.com/MXLSMHG.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	 {
@@ -1090,6 +1249,7 @@
             "url":"https://i.imgur.com/F9YOG0d.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	  {
@@ -1098,14 +1258,16 @@
             "url":"https://i.imgur.com/01eU9uX.png",
             "collections":"simple,quirky" ,
             "dimensions":"1440x2560",
+	       
             "copyright":"Personal Use" 
-        },   
+        },  
 	  {
             "name":"SummerMind",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/9xMuVjV.png",
             "collections":"simple,quote" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         }, 
 	{
@@ -1114,6 +1276,7 @@
             "url":"https://i.imgur.com/nvsvSKu.png",
             "collections":"simple,quote" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	{
@@ -1122,6 +1285,7 @@
             "url":"https://i.imgur.com/kfhiojj.png",
             "collections":"simple,quote" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	{
@@ -1130,6 +1294,7 @@
             "url":"https://i.imgur.com/Y9oJgyV.png",
             "collections":"simple,quote" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
         },
 	{
@@ -1138,14 +1303,62 @@
             "url":"https://i.imgur.com/Ee1lvki.png",
             "collections":"simple,quote" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use" 
-        },    
+        },  
+	  {
+            "name":"CloudySky24",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mhbbHDa.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	     
+            "copyright":"Personal Use"           
+        },
+	 {
+            "name":"CloudySky22",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Aj0RZwx.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	     
+            "copyright":"Personal Use"           
+        },
 	{
+            "name":"CloudySky23",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rOYYjiC.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	     
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"CloudySky20",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vThc8tf.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	     
+            "copyright":"Personal Use"           
+        },
+	{
+            "name":"CloudySky21",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ab4WsYM.png",
+            "collections":"minimal,random",
+            "dimensions":"1440x2560",
+	     
+            "copyright":"Personal Use"           
+        },  
+	    
+	  {
             "name":"Panther",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/nrkgo4Z.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1155,6 +1368,7 @@
             "url":"https://i.imgur.com/p1mgfKo.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1164,6 +1378,7 @@
             "url":"https://i.imgur.com/qYPDFsD.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1173,6 +1388,7 @@
             "url":"https://i.imgur.com/SUWd6rO.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1182,15 +1398,17 @@
             "url":"https://i.imgur.com/BkEIrti.png",
             "collections":"simple,animal" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },    
-	  {
+        },  
+	 {
             "name":"Flyer21",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/QYeHY44.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1200,6 +1418,7 @@
             "url":"https://i.imgur.com/O29hBcY.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1209,6 +1428,7 @@
             "url":"https://i.imgur.com/GOEEFNY.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1218,6 +1438,7 @@
             "url":"https://i.imgur.com/fYQUqHi.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1227,17 +1448,17 @@
             "url":"https://i.imgur.com/FR2A6XO.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
-        }, 
-	   
-	    
-	  {
+        },   
+	 {
             "name":"Goal2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/GSHJjjK.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1247,6 +1468,7 @@
             "url":"https://i.imgur.com/aKtMOyu.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1256,6 +1478,7 @@
             "url":"https://i.imgur.com/3wFYCPM.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1265,6 +1488,7 @@
             "url":"https://i.imgur.com/GuYO4az.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1274,15 +1498,17 @@
             "url":"https://i.imgur.com/PiN843y.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },    
+        },   
 	 {
             "name":"Rays10",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/csJ1dEb.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1292,6 +1518,7 @@
             "url":"https://i.imgur.com/BBpWRYt.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1301,6 +1528,7 @@
             "url":"https://i.imgur.com/wzobccl.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1310,6 +1538,7 @@
             "url":"https://i.imgur.com/SVs5LVq.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1319,6 +1548,7 @@
             "url":"https://i.imgur.com/Q9gdjtP.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1328,9 +1558,10 @@
             "url":"https://i.imgur.com/6tMCuHu.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },     
+        },   
 	    
 	 {
             "name":"Stripes25",
@@ -1338,6 +1569,7 @@
             "url":"https://i.imgur.com/JWq4un9.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1347,6 +1579,7 @@
             "url":"https://i.imgur.com/yvcl9lA.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         }, 
@@ -1356,6 +1589,7 @@
             "url":"https://i.imgur.com/ztc7NGw.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1365,6 +1599,7 @@
             "url":"https://i.imgur.com/Fx0pTkw.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         }, 
@@ -1374,6 +1609,7 @@
             "url":"https://i.imgur.com/R6Bswsd.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1383,15 +1619,17 @@
             "url":"https://i.imgur.com/rirwiuD.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
-        },     
+        },   
 	 {
             "name":"Flowral21",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/ztc7NGw.png",
             "collections":"flower,simple" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1401,6 +1639,7 @@
             "url":"https://i.imgur.com/yQKQGJ1.png",
             "collections":"flower,simple" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1410,6 +1649,7 @@
             "url":"https://i.imgur.com/S93VtXg.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1419,6 +1659,7 @@
             "url":"https://i.imgur.com/gVpy2uv.png",
             "collections":"quirky,random,simple,featured" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1428,6 +1669,7 @@
             "url":"https://i.imgur.com/xbiKZr4.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1437,6 +1679,7 @@
             "url":"https://i.imgur.com/cCO55M6.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1446,6 +1689,7 @@
             "url":"https://i.imgur.com/rZORUYR.png",
             "collections":"random,simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1455,6 +1699,7 @@
             "url":"https://i.imgur.com/gRjJZxP.png",
             "collections":"random,simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         }, 
@@ -1464,6 +1709,7 @@
             "url":"https://i.imgur.com/YPtI6V1.png",
             "collections":"random,simple,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1473,15 +1719,17 @@
             "url":"https://i.imgur.com/XDX1vH1.png",
             "collections":"random,simple,quirky,featured" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },    
-	{
+        },   
+	 {
             "name":"TopoGraphy6",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/7vZZAsm.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1491,6 +1739,7 @@
             "url":"https://i.imgur.com/nHQySJw.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1500,6 +1749,7 @@
             "url":"https://i.imgur.com/b0aQqWW.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1509,6 +1759,7 @@
             "url":"https://i.imgur.com/U1GhlvC.png",
             "collections":"quirky,liquid" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
         },   
@@ -1518,6 +1769,7 @@
             "url":"https://i.imgur.com/fPGVVQ4.png",
             "collections":"quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },   
@@ -1527,6 +1779,7 @@
             "url":"https://i.imgur.com/bczeG2B.png",
             "collections":"quote,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1536,6 +1789,7 @@
             "url":"https://i.imgur.com/QiFxeO3.png",
             "collections":"quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1545,6 +1799,7 @@
             "url":"https://i.imgur.com/8TnucKQ.png",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1554,15 +1809,17 @@
             "url":"https://i.imgur.com/cXUeIAZ.png",
             "collections":"quote,random" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
         },    
-	 {
+	{
             "name":"Wavy12",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/qZY6NIa.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1570,8 +1827,9 @@
             "name":"ShinySplash2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/cQvtzUK.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1579,8 +1837,9 @@
             "name":"ShinySplash1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MaRZqbW.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1588,8 +1847,9 @@
             "name":"RedPoly1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/HyQ9bOF.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1597,8 +1857,9 @@
             "name":"ShinyPoly1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/EXzueak.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1606,8 +1867,9 @@
             "name":"BluePoly1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/aKh39ja.png",
-            "collections":"quirky,abstract" ,
+            "collections":"Quirky,abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1615,8 +1877,9 @@
             "name":"Stripes12",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MuThjuW.png",
-            "collections":"quirky" ,
+            "collections":"Quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1624,8 +1887,9 @@
             "name":"Flowrel18",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/dah4vxf.png",
-            "collections":"flower" ,
+            "collections":"Flower" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1633,17 +1897,19 @@
             "name":"Flowrel19",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/WZ788kQ.png",
-            "collections":"flower" ,
+            "collections":"Flower" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
-        },    
+        },     
 	{
             "name":"Lorem12",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MvIq82x.png",
             "collections":"abstract,random,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1653,6 +1919,7 @@
             "url":"https://i.imgur.com/cxPOI9e.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },   
@@ -1662,15 +1929,17 @@
             "url":"https://i.imgur.com/ijHd6xi.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },   
+        },     
 	{
             "name":"PolkaDot11",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/K8rmtza.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },	    
@@ -1680,6 +1949,7 @@
             "url":"https://i.imgur.com/ZXkJ6MS.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },    
@@ -1689,14 +1959,16 @@
             "url":"https://i.imgur.com/AICThY3.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
-        },    
-        {
+        },
+	    {
             "name":"PinkBubble",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/nii8tYO.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -1706,6 +1978,7 @@
             "url":"https://i.imgur.com/hbFIetx.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1715,6 +1988,7 @@
             "url":"https://i.imgur.com/jZ5jhRN.png",
             "collections":"abstract,random,quriky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1724,6 +1998,7 @@
             "url":"https://i.imgur.com/8Gmz8IY.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1733,15 +2008,18 @@
             "url":"https://i.imgur.com/PgaN7i8.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
-	{
+	    {
             "name":"Geo3DLion",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/1BTEoM9.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
+             
             "copyright":"Personal Use"
            
         },
@@ -1751,6 +2029,7 @@
             "url":"https://i.imgur.com/4f90ttD.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1760,6 +2039,7 @@
             "url":"https://i.imgur.com/9smqT3E.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1769,6 +2049,7 @@
             "url":"https://i.imgur.com/o0dLkXo.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1778,6 +2059,7 @@
             "url":"https://i.imgur.com/1qfenk2.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1787,6 +2069,7 @@
             "url":"https://i.imgur.com/4iHrT0D.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -1796,16 +2079,17 @@
             "url":"https://i.imgur.com/Mdy9ld3.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
-       
 	   {
             "name":"Geo3DAquaman",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/iWTVUKG.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         }, 
@@ -1815,6 +2099,7 @@
             "url":"https://i.imgur.com/PbAqjjM.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1824,6 +2109,7 @@
             "url":"https://i.imgur.com/LpLzbET.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         }, 
@@ -1833,6 +2119,7 @@
             "url":"https://i.imgur.com/oLgKH6T.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1842,17 +2129,18 @@
             "url":"https://i.imgur.com/WyHGMfR.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     	
             "copyright":"Personal Use"
            
         },
-	 
-	 {
+	{
             "name":"ThinCurves",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/BHL7UIF.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	 {
@@ -1861,7 +2149,8 @@
             "url":"https://i.imgur.com/qW5ahFm.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	{
@@ -1870,7 +2159,8 @@
             "url":"https://i.imgur.com/XacLuYa.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	{
@@ -1879,7 +2169,8 @@
             "url":"https://i.imgur.com/VAYL1Ye.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	 {
@@ -1888,7 +2179,8 @@
             "url":"https://i.imgur.com/gqE9XjC.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	 {
@@ -1897,7 +2189,8 @@
             "url":"https://i.imgur.com/W3ZdgNf.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
-            "copyright":"Personal Use"
+             
+	    "copyright":"Personal Use"
            
         },
 	{
@@ -1905,7 +2198,8 @@
             "author":"Binod Ray",
             "url":"https://i.imgur.com/ugPtpFl.png",
             "collections":"abstract,quirky" ,
-            "dimensions":"1440x2560",
+             
+	    "dimensions":"1440x2560",
             "copyright":"Personal Use"
            
         },
@@ -1915,15 +2209,18 @@
             "url":"https://i.imgur.com/d9urMXA.png",
             "collections":"abstract,quirky" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
-	  {
+	    
+	 {
             "name":"Minimal5",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/q80toKd.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         }, 
@@ -1933,6 +2230,7 @@
             "url":"https://i.imgur.com/sLKKE3e.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },
@@ -1942,6 +2240,7 @@
             "url":"https://i.imgur.com/ghIFNWo.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
         },  
@@ -1949,6 +2248,7 @@
             "name":"Minimal2",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/HgPoqUJ.png",
+             
             "collections":"abstract" ,
             "dimensions":"1440x2560",
             "copyright":"Personal Use"
@@ -1960,15 +2260,17 @@
             "url":"https://i.imgur.com/8LEQ5QA.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+	     
             "copyright":"Personal Use"
            
-        },
+        },   
         {
             "name":"Material16",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/5CchWOI.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -1978,6 +2280,7 @@
             "url":"https://i.imgur.com/WTgyUH8.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -1987,6 +2290,7 @@
             "url":"https://i.imgur.com/07mSpt1.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -1996,6 +2300,7 @@
             "url":"https://i.imgur.com/mqiyhyx.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2005,6 +2310,7 @@
             "url":"https://i.imgur.com/Kubfflw.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2014,6 +2320,7 @@
             "url":"https://i.imgur.com/1K20vcr.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2023,6 +2330,7 @@
             "url":"https://i.imgur.com/HROhwvZ.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2032,6 +2340,7 @@
             "url":"https://i.imgur.com/e0n2MQq.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2041,6 +2350,7 @@
             "url":"https://i.imgur.com/BBdZBL1.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2050,6 +2360,7 @@
             "url":"https://i.imgur.com/38IOPMc.png",
             "collections":"abstract,featured" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2059,6 +2370,7 @@
             "url":"https://i.imgur.com/nt5zg4I.png",
             "collections":"abstract,featured" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2068,6 +2380,7 @@
             "url":"https://i.imgur.com/tyT9iIe.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2077,6 +2390,7 @@
             "url":"https://i.imgur.com/2aX9DgK.png",
             "collections":"liquid" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2086,6 +2400,7 @@
             "url":"https://i.imgur.com/wYV7ELU.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2095,6 +2410,7 @@
             "url":"https://i.imgur.com/AiZlQGy.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2104,6 +2420,7 @@
             "url":"https://i.imgur.com/f7MsXdW.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2113,6 +2430,7 @@
             "url":"hhttps://i.imgur.com/xGT922e.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2122,6 +2440,7 @@
             "url":"https://i.imgur.com/0K5SAEw.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2131,6 +2450,7 @@
             "url":"https://i.imgur.com/1tKlCp8.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2140,6 +2460,7 @@
             "url":"https://i.imgur.com/gObU8VS.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2149,6 +2470,7 @@
             "url":"https://i.imgur.com/mQUuyG5.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2158,6 +2480,7 @@
             "url":"https://i.imgur.com/7ZbatSc.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2167,6 +2490,7 @@
             "url":"https://i.imgur.com/yJblvwf.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2176,6 +2500,7 @@
             "url":"https://i.imgur.com/fOZFR4j.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2185,6 +2510,7 @@
             "url":"https://i.imgur.com/W9rk8Cf.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2194,6 +2520,7 @@
             "url":"https://i.imgur.com/DFn1yve.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2203,6 +2530,7 @@
             "url":"https://i.imgur.com/K366Rt4.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2212,6 +2540,7 @@
             "url":"https://i.imgur.com/TS8fkXe.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2221,6 +2550,7 @@
             "url":"https://i.imgur.com/fF62ZzY.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2230,6 +2560,7 @@
             "url":"https://i.imgur.com/X855yNL.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2239,6 +2570,7 @@
             "url":"https://i.imgur.com/N8ecwwg.png",
             "collections":"abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2248,6 +2580,7 @@
             "url":"https://i.imgur.com/h3GKv8P.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2257,6 +2590,7 @@
             "url":"https://i.imgur.com/FThu3V5.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2268,6 +2602,7 @@
             "url":"https://i.imgur.com/LcMXAQO.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2277,6 +2612,7 @@
             "url":"https://i.imgur.com/qJpg6Eh.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2286,6 +2622,7 @@
             "url":"https://i.imgur.com/M92UN76.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2295,6 +2632,7 @@
             "url":"https://i.imgur.com/mhyPukX.png",
             "collections":"abstract,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2304,6 +2642,7 @@
             "url":"https://i.imgur.com/rvFVsvi.png",
             "collections":"simple,abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2313,6 +2652,7 @@
             "url":"https://i.imgur.com/nUX1eFb.png",
             "collections":"simple,abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2322,15 +2662,17 @@
             "url":"https://i.imgur.com/A14FqDZ.png",
             "collections":"simple,abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
-		{
+	{
             "name":"ConeTri",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/0dbIUGX.png",
             "collections":"simple,abstract,featured" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2340,17 +2682,17 @@
             "url":"https://i.imgur.com/sN0DbNS.png",
             "collections":"simple,abstract" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
-		
-        
         {
             "name":"Twisted3",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/MHN44Iu.jpg",
             "collections":"twisted,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2360,6 +2702,7 @@
             "url":"https://i.imgur.com/OXv4Q7W.jpg",
             "collections":"twisted,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2369,6 +2712,7 @@
             "url":"https://i.imgur.com/OyAUzX3.jpg",
             "collections":"twisted,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2378,6 +2722,7 @@
             "url":"https://i.imgur.com/jKW0LVM.jpg",
             "collections":"twisted,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2388,6 +2733,7 @@
             "url":"https://i.imgur.com/y138Lm9.jpg",
             "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2395,8 +2741,9 @@
             "name":"Unicorn1",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/krrI89e.png",
-            "collections":"twisted,random" ,
+            "collections":"quirky,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2406,6 +2753,7 @@
             "url":"https://i.imgur.com/cTotvAQ.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2415,6 +2763,7 @@
             "url":"https://i.imgur.com/92O4Hos.png",
             "collections":"quote,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2424,6 +2773,7 @@
             "url":"https://i.imgur.com/mbHvV2i.png",
             "collections":"twisted,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2433,6 +2783,7 @@
             "url":"https://i.imgur.com/nV1Am5w.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2442,6 +2793,7 @@
             "url":"https://i.imgur.com/2gdj1mb.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2451,6 +2803,7 @@
             "url":"https://i.imgur.com/jBFeAvP.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2460,6 +2813,7 @@
             "url":"https://i.imgur.com/LWqyBH7.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2469,6 +2823,7 @@
             "url":"https://i.imgur.com/JpQTbLF.png",
             "collections":"twisted" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2478,6 +2833,7 @@
             "url":"https://i.imgur.com/KVUcXUa.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2487,6 +2843,7 @@
             "url":"https://i.imgur.com/NfrQorB.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2496,6 +2853,7 @@
             "url":"https://i.imgur.com/eteIUdO.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2505,6 +2863,7 @@
             "url":"https://i.imgur.com/Yg3Fwlv.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2514,6 +2873,7 @@
             "url":"https://i.imgur.com/xnpQk69.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2523,6 +2883,7 @@
             "url":"https://i.imgur.com/6bVS8iK.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2532,6 +2893,7 @@
             "url":"https://i.imgur.com/su0MsAb.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2541,6 +2903,7 @@
             "url":"https://i.imgur.com/CbYmQlW.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2550,6 +2913,7 @@
             "url":"https://i.imgur.com/WeJHRLC.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2559,6 +2923,7 @@
             "url":"https://i.imgur.com/aTuj7Ar.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2568,6 +2933,7 @@
             "url":"https://i.imgur.com/Z8jss4K.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2577,6 +2943,7 @@
             "url":"https://i.imgur.com/YDNtlLL.png",
             "collections":"quote,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2586,6 +2953,7 @@
             "url":"https://i.imgur.com/YDNtlLL.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2595,6 +2963,7 @@
             "url":"https://i.imgur.com/q6vUzRB.png",
             "collections":"liquid,featured" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2604,24 +2973,28 @@
             "url":"https://i.imgur.com/EYJNxsX.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
         {
-            "name":"Twirl5",
+            "name":"Twrilr5",
             "author":"Binod Ray",
-            "url":"https://i.imgur.com/EYJNxsX.png",
-            "collections":"quote,random,simple" ,
+            "url":"https://i.imgur.com/4Fev15y.png",
+            "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
+        
         {
             "name":"Twirl4",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/WZV74jm.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2631,6 +3004,7 @@
             "url":"https://i.imgur.com/QTPxYqG.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2640,6 +3014,7 @@
             "url":"https://i.imgur.com/Z7xCR0s.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2650,6 +3025,7 @@
             "url":"https://i.imgur.com/TXo5Adq.png",
             "collections":"quirky,random,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2659,6 +3035,7 @@
             "url":"https://i.imgur.com/qvm3e8z.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2668,6 +3045,7 @@
             "url":"https://i.imgur.com/8nd0P66.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2677,6 +3055,7 @@
             "url":"https://i.imgur.com/tgND5Eb.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2686,6 +3065,7 @@
             "url":"https://i.imgur.com/di9RrkH.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2695,6 +3075,7 @@
             "url":"https://i.imgur.com/r1sbsiR.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2704,6 +3085,7 @@
             "url":"https://i.imgur.com/0dAMzhU.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2713,6 +3095,7 @@
             "url":"https://i.imgur.com/EpAg070.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2722,6 +3105,7 @@
             "url":"https://i.imgur.com/9BDRIly.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2731,6 +3115,7 @@
             "url":"https://i.imgur.com/xSvVU05.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2740,6 +3125,7 @@
             "url":"https://i.imgur.com/or62BU4.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2749,6 +3135,7 @@
             "url":"https://i.imgur.com/hLvKmBO.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2758,6 +3145,7 @@
             "url":"https://i.imgur.com/gFptIFH.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2767,6 +3155,7 @@
             "url":"https://i.imgur.com/2ChpVtr.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2776,6 +3165,7 @@
             "url":"https://i.imgur.com/OTzfZIg.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2785,6 +3175,7 @@
             "url":"https://i.imgur.com/K3KuJ5w.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2794,6 +3185,7 @@
             "url":"https://i.imgur.com/XUCfHrH.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2803,6 +3195,7 @@
             "url":"https://i.imgur.com/b2RZ08g.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2812,6 +3205,7 @@
             "url":"https://i.imgur.com/c1psgTB.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2821,6 +3215,7 @@
             "url":"https://i.imgur.com/ZfNrk5H.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2830,6 +3225,7 @@
             "url":"https://i.imgur.com/T24EMyY.png",
             "collections":"liquid,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2839,6 +3235,7 @@
             "url":"https://i.imgur.com/xlK8E6f.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2848,6 +3245,7 @@
             "url":"https://i.imgur.com/5hnByKL.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+               
             "copyright":"Personal Use"
            
         },
@@ -2857,6 +3255,7 @@
             "url":"https://i.imgur.com/cRryo60.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2866,6 +3265,7 @@
             "url":"https://i.imgur.com/MSmOjpZ.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2875,6 +3275,7 @@
             "url":"https://i.imgur.com/pC4jKSw.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2884,6 +3285,7 @@
             "url":"https://i.imgur.com/sJ8GMnJ.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2893,6 +3295,7 @@
             "url":"https://i.imgur.com/QIRU49D.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2902,6 +3305,7 @@
             "url":"https://i.imgur.com/Nxz3c6B.png",
             "collections":"quirky,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2911,6 +3315,7 @@
             "url":"https://i.imgur.com/r3y9UeT.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2920,6 +3325,7 @@
             "url":"https://i.imgur.com/VYjyHOX.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2929,6 +3335,7 @@
             "url":"https://i.imgur.com/VG61ziS.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2938,6 +3345,7 @@
             "url":"https://i.imgur.com/w6JqZ69.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2947,6 +3355,7 @@
             "url":"https://i.imgur.com/ytbcIU0.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2956,6 +3365,7 @@
             "url":"https://i.imgur.com/q6jSr93.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2965,6 +3375,7 @@
             "url":"https://i.imgur.com/l8v3vM0.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2974,6 +3385,7 @@
             "url":"https://i.imgur.com/NnsNpqY.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -2983,6 +3395,7 @@
             "url":"https://i.imgur.com/kEnKlm8.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -2992,6 +3405,7 @@
             "url":"https://i.imgur.com/Z6PaoZv.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -3001,6 +3415,7 @@
             "url":"https://i.imgur.com/fBVBycB.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3010,6 +3425,7 @@
             "url":"https://i.imgur.com/aK8iCLg.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3019,6 +3435,7 @@
             "url":"https://i.imgur.com/r3NLPYG.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3028,6 +3445,7 @@
             "url":"https://i.imgur.com/NHQB3o7.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3037,6 +3455,7 @@
             "url":"https://i.imgur.com/7wNGwKw.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3046,6 +3465,7 @@
             "url":"https://i.imgur.com/FUTopES.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3055,6 +3475,7 @@
             "url":"https://i.imgur.com/ZsYNTm5.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3064,6 +3485,7 @@
             "url":"https://i.imgur.com/7EGwf8l.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3073,6 +3495,7 @@
             "url":"https://i.imgur.com/7takWgh.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3082,6 +3505,7 @@
             "url":"https://i.imgur.com/QZOYOwB.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3091,6 +3515,7 @@
             "url":"https://i.imgur.com/FTzbR4l.png",
             "collections":"animal,simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3100,6 +3525,7 @@
             "url":"https://i.imgur.com/7daSPyO.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3109,6 +3535,7 @@
             "url":"https://i.imgur.com/PLbSyMh.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3118,6 +3545,7 @@
             "url":"https://i.imgur.com/w4B7896.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3127,6 +3555,7 @@
             "url":"https://i.imgur.com/RUTmOSU.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3136,15 +3565,17 @@
             "url":"https://i.imgur.com/VhaeSzg.png",
             "collections":"simple" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
-         {
+        {
             "name":"Roads",
             "author":"Binod Ray",
             "url":"https://i.imgur.com/9VNlzOe.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3154,6 +3585,7 @@
             "url":"https://i.imgur.com/OS0vAOb.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -3163,6 +3595,7 @@
             "url":"https://i.imgur.com/KsLWuLF.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3172,6 +3605,7 @@
             "url":"https://i.imgur.com/yHC17Im.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3181,6 +3615,7 @@
             "url":"https://i.imgur.com/yS0jZPN.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -3190,6 +3625,7 @@
             "url":"https://i.imgur.com/9wuZGoU.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3199,6 +3635,7 @@
             "url":"https://i.imgur.com/SXrwMoy.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3208,6 +3645,7 @@
             "url":"https://i.imgur.com/FQ8NFvl.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3217,6 +3655,7 @@
             "url":"https://i.imgur.com/hKBnO5d.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -3226,6 +3665,7 @@
             "url":"https://i.imgur.com/G5BT8CA.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3235,6 +3675,7 @@
             "url":"https://i.imgur.com/aFQXYzY.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3244,6 +3685,7 @@
             "url":"https://i.imgur.com/CG54qqA.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3253,6 +3695,7 @@
             "url":"https://i.imgur.com/NM6yfna.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3262,6 +3705,7 @@
             "url":"https://i.imgur.com/R5HDuSN.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+              
             "copyright":"Personal Use"
            
         },
@@ -3271,6 +3715,7 @@
             "url":"https://i.imgur.com/2NjBKUj.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3280,6 +3725,7 @@
             "url":"https://i.imgur.com/ONbFngr.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3289,6 +3735,7 @@
             "url":"https://i.imgur.com/3hs9zkU.png",
             "collections":"simple,random" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3298,6 +3745,7 @@
             "url":"https://i.imgur.com/PYyvdM3.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3307,6 +3755,7 @@
             "url":"https://i.imgur.com/ba8biUE.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3316,6 +3765,7 @@
             "url":"https://i.imgur.com/1PP1xIq.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },
@@ -3325,6 +3775,7 @@
             "url":"https://i.imgur.com/AExh8Kb.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         }, 
@@ -3334,6 +3785,7 @@
             "url":"https://i.imgur.com/M0Ucf5d.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         }, 
@@ -3343,6 +3795,7 @@
             "url":"https://i.imgur.com/yhoNynL.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         }, 
@@ -3352,8 +3805,2254 @@
             "url":"https://i.imgur.com/V3vSma4.png",
             "collections":"heros" ,
             "dimensions":"1440x2560",
+             
             "copyright":"Personal Use"
            
         },        
         {
-            "name":"Superman
+            "name":"Superman2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3o3ISgJ.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ibo0NFA.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WonderWoman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LU9hLUb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Widow",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KQuMkLb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Warriors",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HHDAC62.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Thor",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/byTqsPz.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wonder1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/uePDAC0.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Superman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qUVUSih.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Spiderman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/WIYVgJx.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Logan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2OVV8Mf.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Jokar",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3mBGgRr.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Incrid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sda9HVh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Ironman",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/btqV4Eh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lovesa",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/l0DhLPO.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Hulk",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QPrvZQh.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Groot",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6oP1vJr.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Furry",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/01qp0xe.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Flash3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qc5aeiW.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Flash1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sOdP08B.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Flash2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/MWtYJM2.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"DeadPool",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6ccXC14.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Captain1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/16dhJE5.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Captain",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vnPXBiL.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BigHero",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KskkO68.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Bucky",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4ZjQDZK.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3F9oecA.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BatMan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/fnOhyJb.png",
+            "collections":"heros" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeHexa3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0hq5vRM.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedMat1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/p2WmRID.png",
+            "collections":"material,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeMat1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CgT5RyI.png",
+            "collections":"material,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeHexa4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/RLsZypM.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenMat1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yy5IvIQ.png",
+            "collections":"material,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientLine",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7o4qY0M.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueMat1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yD6k5n8.png",
+            "collections":"material,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeMat2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dhQ3AO9.png",
+            "collections":"material,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Baloonsz",
+            "author":"Binod Ray",
+            "url":"hhttps://i.imgur.com/XpIBoop.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        
+        {
+            "name":"OrangeGradient7",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/iCKNw6N.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeGradient2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ei47Zyt.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeGradient3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9wOsy6U.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeGradient4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/b7nJXpq.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeGradient6",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OO9WwtE.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"OrangeGradient5",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/oglZ4ZR.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenGradient4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ufTXmCe.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeGradient1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9CP4fNj.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenGradient3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/y3lfbwD.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenGradient2",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IYKxfV5.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenGradient1",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tSPBFrW.png",
+            "collections":"quirky,simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SaveLife",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OytBwes.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OnlyAdventure",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2zi6Fui.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MakeToday",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FSiJbz8.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"LiveLife",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8o7WKhG.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Nothing",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7xwMrfF.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WorkHard",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IWUpq9F.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Under",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/P6o9Emh.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Possible",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ld9bXln.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"MainThing",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/lHXG3zu.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Nature",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/T8dr7MD.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Listen",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/3qRrSVq.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Happy",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/iobniRE.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"IMustGo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NmNHACq.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Home",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/knGjYRM.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GoodThing",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GKJUnKy.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"God",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CaIljqi.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Change",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/psWURUL.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+            
+        {
+        
+            "name":"YouCan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nqCEtoC.png",
+            "collections":"simple,quote,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BiSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/lV0Fi5d.png",
+            "collections":"simple,splash" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ColoredSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zkfLVCB.png",
+            "collections":"simple,splash" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Blocks",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/m1p3xO2.png",
+            "collections":"simple,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4z1iWpw.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RajaWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/A1mnXU3.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Piller",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rhp7up9.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedCone",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/15iz1Bm.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PunkFlyer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BMNrDlt.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowPipe",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qMiJEow.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowBox",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7Q9saXN.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenStripeOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4Zg5vAd.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenStripe",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XRSJhxv.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"YellowAbstract",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tjFj0VW.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+               
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"GreenSheet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/icnSzf8.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+               
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCurveOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/uFBLVkK.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCurve",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x8bKbpU.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenCircle",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4bLXA4J.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NJvP8TL.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"AmoledSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BBLKvMl.png",
+            "collections":"featured,splash" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Begein",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dCbfxuN.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BegeinOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0it03R0.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlackWhite",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/5v31ojK.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Man",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/68vf4np.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"BlueRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dCNxZvI.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ColorfulFeather",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jRRdwpH.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Jora",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w3eafp1.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lilly",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GXS67Dt.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"MerryGold",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8W2V3zq.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"LyingRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/HU0XLVp.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"YellowSunThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eXmM6Nx.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/N7VYsFP.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedLillyThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/sE90Pa6.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OneRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4ToIwqA.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeLillyThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/c55pDe6.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedRose",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/obCwi4b.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ThreeRoses",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NCVXmSZ.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Reflection",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bhGRhqH.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PunkLillyOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FgYjcLy.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"RedSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/McBScCt.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"VioletOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NFaAb7c.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WhiteSun",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GXuO6Kw.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Violet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/X5glRr9.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowSunFive",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/5o91eQD.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WhiteSUnTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/2RY71BR.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7bT8NSr.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SpaceOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/L33offZ.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Cube",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bYBt80o.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RainbowRiver",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZdRwOFY.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeSkit",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/O2OKw0v.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"TriColor",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/e2YWPOO.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Curves",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/e3nvCDq.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VS21v8B.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SpaceTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/doOn27Z.png",
+            "collections":"featured,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YSWO380.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Force",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/u2tbr6I.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OneSide",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/UnjIzTq.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Road",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dbz6elw.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"AirBaloon",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/wMGOTMD.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Forget",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/KvhjzVG.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Adventurer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/yyQmAt2.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"InfraredTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/T6v3mSl.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"IsolatedTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/j8DigXi.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SoundWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DkiGDK9.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+          {
+            "name":"GradientSix",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/09FRXu6.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+              "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Trianle",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CJgrFzk.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Fire",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/OWAsgwj.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Infrared",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zD1GXiT.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueMarbleEight",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8HMCZ9G.png",
+            "collections":"featured,liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"WorldMapOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6ry0FKr.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenRing",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YPxRwZZ.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SoundWave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ehQ6db3.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Isolated",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/99UIlvl.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Rains",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/BqZ1fSC.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SpeechBubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qBc5VV0.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenGradient",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FJLOfme.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"InfraredOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gNMjpmQ.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"PaintSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xb6LkCo.png",
+            "collections":"splash,random" ,
+            "dimensions":"1440x2560",
+              
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PalmTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/tgoMJzb.png",
+            "collections":"simple,splash,random" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WorldMap",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QjVQVOv.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Polka",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eZOZGuJ.png",
+            "collections":"simple,random" ,
+             
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenmarbleFive",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/v1fTlik.png",
+            "collections":"featured,liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         
+         {
+            "name":"RedJungle",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/jpwGrz9.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedMarbleOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Tc6pbXK.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SplashThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dpzqNP.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PinkSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PvgraHp.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bUsI1UN.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"PurpleLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/us8n3dl.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PinkMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/LZSv5qP.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"River",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/E1zYvmk.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/YIWpDsk.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Love",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/QJAJDXD.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SmileOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/CyRybdc.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"SwirlMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4gNm3WB.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Smile",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/vPpIxQU.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedmarbleFive",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DT81r2o.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WoodMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7yeASe0.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"ILoveYou",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/pSQ9og3.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenLiquid",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1Pj82zL.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"RedMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GWQuHQ0.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/hsF0KFJ.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"PinkMarbleOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/waywKvk.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"GreenMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/7PwZeHM.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"GreenMarbleOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mGNgInd.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GrayMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/JHVNIeP.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientMarbleTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/xAJdbGh.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"OrangeCave",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0vDGi2i.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Owl",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bBhETpD.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"GradientMarbleOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Rjnc7uA.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"LiquidCircle",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zQKqji1.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Hexa",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/mYDkuCm.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+            
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GreenMarbleTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/6UoOh5a.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"RedPoly",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/adUpEHv.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Geomatry",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/10ysUh4.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+            
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientMarvel",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ep06Y59.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+            
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Palm",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4NGzxxe.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+            
+             "copyright":"Personal Use"
+           
+        },
+          {
+            "name":"RedSword",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/E3zZkd9.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+             
+              "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Explorer",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qULywnw.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Ring",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VBdaDzI.png",
+            "collections":"featured,random,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientMarvelThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/eQU9Cvb.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientThree",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hy6WYk8.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GradientFour",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/q6gKTgz.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"CaveOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/XukzUKk.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Curves",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/4bJI2DM.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YellowSplash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/qethlOb.png",
+            "collections":"splash,featured" ,
+            "dimensions":"1440x2560",
+              
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"GoodThings",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/x3HQTtj.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Coffee",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/THRFZ2Z.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"BlueMarbleFive",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nmyJs2f.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueMarbleTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ro7sX1U.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueMarbleOne",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/t2M2Xyf.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Namaste",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PD5L1v4.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueCurves",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/nmSL2Z7.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"ColorCloud",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/gsLuLLA.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"WormTwo",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IgycBNl.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Eight",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/9BwYyAs.png",
+            "collections":"featured,quirky,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"YouCan",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/khimc56.png",
+            "collections":"featured,quote,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Travel",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/5sAqoGw.png",
+            "collections":"featured,quote,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"BlueMarble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/bScQssI.png",
+            "collections":"featured,liquid" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        
+         {
+            "name":"Started",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zYw43Is.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Alian",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IaK0gco.png",
+            "collections":"featured,quirky,random,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"BlueCloud",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZBsoXu6.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Beautiful",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/DT7bvQR.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Beach",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/IffYc4V.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Balance",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/GryQFiA.png",
+            "collections":"quote,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Aroma",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kFmUNy3.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+         {
+            "name":"Alchemist",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/1HbrUWf.png",
+            "collections":"featured,simple" ,
+            "dimensions":"1440x2560",
+             
+             "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Adventure",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z0ubVq3.png",
+            "collections":"featured,quote,simple" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Cross",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rhYquJF.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Abstracty",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/dRPhb9h.png",
+            "collections":"featured,random" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Drops",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/rkXvZg8.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Wood",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/w6aK3Cl.png",
+            "collections":"featured,liquid" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Bubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Fuy3tBq.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Blue Bubble",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Omo7OfG.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Lines",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/8Lm3xMh.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        {
+            "name":"Worm",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/567WQY1.png",
+            "collections":"featured,quirky" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+           
+        },
+        
+        {
+            "name":"Splash",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/R99n8Gq.png",
+            "collections":"featured,splash" ,
+            "dimensions":"1440x2560",
+             
+            "copyright":"Personal Use"
+            
+        },
+        {
+            "name":"Rainbow",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/PprdVz7.png",
+            "dimensions":"1440x2560",
+            "collections":"featured,quirky" ,
+             
+            "copyright":"Personal Use"
+          
+        },
+        {
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/0v5zqh6.png",
+            "name":"leaks",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+             
+            "collections":"featured,quirky" 
+          
+        },
+        {
+            "name":"Sheet",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/kvf7OU7.png",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+            
+            "collections":"featured,quirky" 
+         
+        },
+              
+        {
+            "name":"Gradient",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/zUpN9kF.png",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use",
+             
+            "collections":"featured"
+         
+        }
+    ]
+}
