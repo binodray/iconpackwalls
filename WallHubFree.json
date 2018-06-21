@@ -38,6 +38,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"Stripe25",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yivXgn1.png",
+	    "thumbUrl": "https://i.imgur.com/VxHs1zN.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Stripe26",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qm8OACR.png",
+	    "thumbUrl": "https://i.imgur.com/5fAX5Ei.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bubbles21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cQ9YSQv.png",
+	    "thumbUrl": "https://i.imgur.com/qxK3sqT.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Stripe27",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Syn9Pa7.png",
+	    "thumbUrl": "https://i.imgur.com/DrCn7Hy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Waves2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dD4KNNL.png",
+	    "thumbUrl": "https://i.imgur.com/iBmFtS7.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Waves1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7Kgehua.png",
+	    "thumbUrl": "https://i.imgur.com/FAn3bPu.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Waves3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yz1K7yh.png",
+	    "thumbUrl": "https://i.imgur.com/vglhxLM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Waves4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AlpnK0L.png",
+	    "thumbUrl": "https://i.imgur.com/kbsbeHL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+    {
+            "name":"Folds1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u06jOHS.png",
+	    "thumbUrl": "https://i.imgur.com/qHat5uK.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Folds1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/u06jOHS.png",
