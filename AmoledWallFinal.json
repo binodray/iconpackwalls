@@ -52,51 +52,7 @@
         }
     ],
     "Wallpapers":[
-      {
-            "name":"Bubbles20",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/lUh7CZR.png",
-	    "thumbUrl": "https://i.imgur.com/MTJEnIz.png",
-            "collections":"quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Cover12",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/ub411S0.png",
-	    "thumbUrl": "https://i.imgur.com/hnF2fOq.png",
-            "collections":"quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"OldGame",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/ZRVe2hy.png",
-	    "thumbUrl": "https://i.imgur.com/O6daKTu.png",
-            "collections":"quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Stripe23",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/s1E9FWq.png",
-	    "thumbUrl": "https://i.imgur.com/Ps7wRMB.png",
-            "collections":"quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Stripe24",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/Yaplp35.png",
-	    "thumbUrl": "https://i.imgur.com/YDcv9xe.png",
-            "collections":"quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+      
       {
             "name":"Folds3",
       	    "author":"Binod Ray",
