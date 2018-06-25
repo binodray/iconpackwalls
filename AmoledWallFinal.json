@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Football",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sAdo2Zq.png",
+	    "thumbUrl": "https://i.imgur.com/hqZrdQc.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cafe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1CLeqDw.png",
+	    "thumbUrl": "https://i.imgur.com/h3802eL.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cocktail",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3V5RKnY.png",
+	    "thumbUrl": "https://i.imgur.com/wuPm0Aw.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Skate",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ABLxt0p.png",
+	    "thumbUrl": "https://i.imgur.com/OV5xYkN.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Sound",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WfF3b10.png",
+	    "thumbUrl": "https://i.imgur.com/H0RTIDP.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Bubbles20",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/lUh7CZR.png",
