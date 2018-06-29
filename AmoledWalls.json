@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"MinimalAmoled5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nCkS8CF.png",
+	    "thumbUrl": "https://i.imgur.com/T9EleiR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalAmoled1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GjjOXr3.png",
+	    "thumbUrl": "https://i.imgur.com/WhNnzeN.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalAmoled4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xVb1Efa.png",
+	    "thumbUrl": "https://i.imgur.com/Q3MCFBI.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalAmoled3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nNheZaY.png",
+	    "thumbUrl": "https://i.imgur.com/LzjKa6I.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalAmoled2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xvfcX1O.png",
+	    "thumbUrl": "https://i.imgur.com/AYhnUr8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Football",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sAdo2Zq.png",
