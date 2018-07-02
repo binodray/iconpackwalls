@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GoldFish2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UoGcIVw.png",
+	    "thumbUrl": "https://i.imgur.com/X7AyUR5.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrushPaint1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kv9nrYA.png",
+	    "thumbUrl": "https://i.imgur.com/PZNyp7l.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bubbles40",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7UjZCjs.png",
+	    "thumbUrl": "https://i.imgur.com/ZxpcENs.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldFish1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MS4T6jd.png",
+	    "thumbUrl": "https://i.imgur.com/k8VMpsx.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSmokes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/S6j2DEi.png",
+	    "thumbUrl": "https://i.imgur.com/yHYTP7m.png",
+            "collections":"animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MinimalAmoled5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/nCkS8CF.png",
