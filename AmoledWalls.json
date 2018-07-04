@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"Shower2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w6YDi5i.png",
+	    "thumbUrl": "https://i.imgur.com/mHI3gRl.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueHop1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CFVaORn.png",
+	    "thumbUrl": "https://i.imgur.com/Lcjb7dr.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shower1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tez6fGO.png",
+	    "thumbUrl": "https://i.imgur.com/t4Mh8W5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9uRUIHM.png",
+	    "thumbUrl": "https://i.imgur.com/Zj03OlY.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleHop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EUtxnwL.png",
+	    "thumbUrl": "https://i.imgur.com/2yl9oN9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Pattern53",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/vy6ULzT.png",
