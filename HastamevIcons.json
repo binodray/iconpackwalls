@@ -23,99 +23,275 @@
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people",
-      "downloadable": false
-    },
-    {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
-    {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
-    },
-    {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
-    },
-    {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
-    },
-    {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
-    },
-    {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
+            "name":"Gradient4",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/pmRwUdt.png",
+	          "thumbUrl": "https://i.imgur.com/l4R6vP4.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient3",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/CLorI45.png",
+	          "thumbUrl": "https://i.imgur.com/rXtN4bH.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient10",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/wZInXLT.png",
+	          "thumbUrl": "https://i.imgur.com/vZcANyn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient11",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/BAUAPLm.png",
+	          "thumbUrl": "https://i.imgur.com/JLlbIZM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient8",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/R0bc1e6.png",
+	          "thumbUrl": "https://i.imgur.com/wQVR9xv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient9",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/VacsReH.png",
+	          "thumbUrl": "https://i.imgur.com/oNX1GiZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient6",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/WnbyQsZ.png",
+	          "thumbUrl": "https://i.imgur.com/QBvoigo.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient1",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/yKa67Du.png",
+	          "thumbUrl": "https://i.imgur.com/UtZj3Or.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient7",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/em8Fh1g.png",
+	          "thumbUrl": "https://i.imgur.com/vXhvqBp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient12",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/R2x9YUa.png",
+	          "thumbUrl": "https://i.imgur.com/9PaBx2X.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient2",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/ikBNuc8.png",
+	          "thumbUrl": "https://i.imgur.com/zZFJezZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Gradient5",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/T8tfEbA.png",
+	          "thumbUrl": "https://i.imgur.com/QD76oY9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Bohmer",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/DfUKnU7.png",
+	          "thumbUrl": "https://i.imgur.com/CtQ4hSv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Basa",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/kvTdCCi.png",
+	          "thumbUrl": "https://i.imgur.com/Vx97vYq.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Baran",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/VV4Ihcx.jpg",
+	          "thumbUrl": "https://i.imgur.com/gus3kNB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Smith",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/ASKI43S.jpg",
+	          "thumbUrl": "https://i.imgur.com/jbtqxg3.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Pasco",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/I657RdB.png",
+	          "thumbUrl": "https://i.imgur.com/iJXh3N4.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Low",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/dYJn6YR.jpg",
+	          "thumbUrl": "https://i.imgur.com/VzukOFX.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Griest",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/dPqXXjM.png",
+	          "thumbUrl": "https://i.imgur.com/vOnHEzW.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Dooley",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/mhTzZtz.png",
+	          "thumbUrl": "https://i.imgur.com/4NUGGrX.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Tasin",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/qvJf02s.png",
+	          "thumbUrl": "https://i.imgur.com/W4k0H5x.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Oslan",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/KjvqEy4.jpg",
+	          "thumbUrl": "https://i.imgur.com/ShNtSbx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Layne",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/a8JtnAv.png",
+	          "thumbUrl": "https://i.imgur.com/p4U8PaB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Sjo",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/ipzM0nC.png",
+	          "thumbUrl": "https://i.imgur.com/0DLseSE.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Spratt",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/S1FDiQb.png",
+	          "thumbUrl": "https://i.imgur.com/9phhGAp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Brik",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/ouHf1za.png",
+	          "thumbUrl": "https://i.imgur.com/H3UHUgF.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Cata",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/i1NOy7T.jpg",
+	          "thumbUrl": "https://i.imgur.com/PHyWVll.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Klei",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/pk3Vxut.jpg",
+	          "thumbUrl": "https://i.imgur.com/yTBLT6b.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Dykes",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/JA64LQ4.png",
+	          "thumbUrl": "https://i.imgur.com/Zmh01mN.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+   },
+	 {
+            "name":"Basa",
+      	    "author":"Unknown",
+            "url":"https://i.imgur.com/8B71onN.png",
+	          "thumbUrl": "https://i.imgur.com/Vx97vYq.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	          "copyright":"Personal Use" 
+    
     }
   ]
 }
