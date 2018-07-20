@@ -48,6 +48,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Memphis24",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TONPq0P.png",
+	    "thumbUrl": "https://i.imgur.com/sMAL09N.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Likes1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8AGffU2.png",
+	    "thumbUrl": "https://i.imgur.com/CdA2GmF.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Polkas17",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OSKq4ii.png",
+	    "thumbUrl": "https://i.imgur.com/hKLbYFI.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gem10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kNAKbRG.png",
+	    "thumbUrl": "https://i.imgur.com/mTW2dpU.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gem6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JKlO7lS.png",
+	    "thumbUrl": "https://i.imgur.com/IQo5E7R.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Jyot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GJ0Gy5b.png",
+	    "thumbUrl": "https://i.imgur.com/WEV6CxY.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MinimalBlack21",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/a0q6Qcn.png",
