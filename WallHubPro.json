@@ -38,6 +38,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"Wavy41",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ntlm6Lb.png",
+	    "thumbUrl": "https://i.imgur.com/yZbORJq.png",
+            "collections":"random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gem9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4AdyIm4.png",
+	    "thumbUrl": "https://i.imgur.com/5ccENsZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lama",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7YR9MyJ.png",
+	    "thumbUrl": "https://i.imgur.com/HwS8g2B.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Polkas16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lhLWx9x.png",
+	    "thumbUrl": "https://i.imgur.com/YqUcED8.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Likes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/B2PYyQI.png",
+	    "thumbUrl": "https://i.imgur.com/jtILSNy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gem8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M7XyAs1.png",
+	    "thumbUrl": "https://i.imgur.com/Mmb1eaw.png",
+            "collections":"random,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gem7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r7ltbcu.png",
+	    "thumbUrl": "https://i.imgur.com/BwJHIG9.png",
+            "collections":"random,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Jambo",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/CLorI45.png",
