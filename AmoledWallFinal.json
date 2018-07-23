@@ -48,6 +48,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"Crystal2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SjWafqh.png",
+	    "thumbUrl": "https://i.imgur.com/QjkonYh.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Space12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rz5hu7Q.png",
+	    "thumbUrl": "https://i.imgur.com/YzxwRh7.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Topa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AZ1vjnU.png",
+	    "thumbUrl": "https://i.imgur.com/jgFs289.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Boat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AX6WQkD.png",
+	    "thumbUrl": "https://i.imgur.com/2jtyA4D.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Space13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sa3DdoZ.png",
+	    "thumbUrl": "https://i.imgur.com/MVSVenB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lips",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BQFm0rW.png",
+	    "thumbUrl": "https://i.imgur.com/BnRSdWQ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shell12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ejf2EII.png",
+	    "thumbUrl": "https://i.imgur.com/Ae6J5Vn.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Crystal1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JHojEz9.png",
+	    "thumbUrl": "https://i.imgur.com/loPAUz9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Beach21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qVMCP3l.png",
+	    "thumbUrl": "https://i.imgur.com/b3Crb6z.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Message",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vvKJbY0.png",
+	    "thumbUrl": "https://i.imgur.com/9T8G9QN.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Memphis24",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TONPq0P.png",
