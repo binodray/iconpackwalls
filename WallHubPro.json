@@ -38,6 +38,105 @@
     ],
     "Wallpapers":[
      {
+            "name":"Bubbles60",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xrEUh7q.png",
+	    "thumbUrl": "https://i.imgur.com/txfNFlI.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wMMTsdp.png",
+	    "thumbUrl": "https://i.imgur.com/GLESrdN.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QXyEGzn.png",
+	    "thumbUrl": "https://i.imgur.com/an26OLo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLeaf1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iOUhanA.png",
+	    "thumbUrl": "https://i.imgur.com/hKr27My.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert18",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0NvOgrV.png",
+	    "thumbUrl": "https://i.imgur.com/nOjAllB.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8Rb3V6Z.png",
+	    "thumbUrl": "https://i.imgur.com/xA4nRZq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rOY9Jhq.png",
+	    "thumbUrl": "https://i.imgur.com/94Cs2m1.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Geo9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YTTWjDv.png",
+	    "thumbUrl": "https://i.imgur.com/yjKgbAZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JlyqLTu.png",
+	    "thumbUrl": "https://i.imgur.com/y9v5xdK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Desert17",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8bfvoCm.png",
+	    "thumbUrl": "https://i.imgur.com/HorUtr9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Alone2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jMHYDZG.png",
+	    "thumbUrl": "https://i.imgur.com/MATFSix.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Xwalls4",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/5U8ddKz.png",
