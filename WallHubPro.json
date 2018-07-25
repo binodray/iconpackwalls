@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AirBaloons16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cgwNBWe.png",
+	    "thumbUrl": "https://i.imgur.com/7AUZbC1.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulBird1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kxyOKqY.png",
+	    "thumbUrl": "https://i.imgur.com/IfWhDOS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Garden",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v39zHdI.png",
+	    "thumbUrl": "https://i.imgur.com/U2QwFX6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Flemingos",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qQqToqp.png",
+	    "thumbUrl": "https://i.imgur.com/6mDAXRY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HappySquirrel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wCCjolf.png",
+	    "thumbUrl": "https://i.imgur.com/xodiP8B.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Bubbles60",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xrEUh7q.png",
