@@ -38,6 +38,150 @@
     ],
     "Wallpapers":[
      {
+            "name":"RGB16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zMqxyE8.png",
+	    "thumbUrl": "https://i.imgur.com/9rNVRgx.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c8dpaSR.png",
+	    "thumbUrl": "https://i.imgur.com/kfAN4wR.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yh45TTR.png",
+	    "thumbUrl": "https://i.imgur.com/K30jiQ1.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yu5a9ie.png",
+	    "thumbUrl": "https://i.imgur.com/0E9Rqya.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/o9BPaNy.png",
+	    "thumbUrl": "https://i.imgur.com/ZmQZ3Mt.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yKrdQPn.png",
+	    "thumbUrl": "https://i.imgur.com/CchMKG8.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q7JC6pR.png",
+	    "thumbUrl": "https://i.imgur.com/gPiGCVN.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Wvayfvi.png",
+	    "thumbUrl": "https://i.imgur.com/QvWBtjs.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FCC3nv0.png",
+	    "thumbUrl": "https://i.imgur.com/lm1NgUj.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Oppi41b.png",
+	    "thumbUrl": "https://i.imgur.com/nDgoMnN.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pO4brnL.png",
+	    "thumbUrl": "https://i.imgur.com/xjh8pmJ.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wUifmXc.png",
+	    "thumbUrl": "https://i.imgur.com/miYimIo.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AquB9LC.png",
+	    "thumbUrl": "https://i.imgur.com/8FtSFRQ.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GxHdByL.png",
+	    "thumbUrl": "https://i.imgur.com/KRkBIwh.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p3Eg7Lk.png",
+	    "thumbUrl": "https://i.imgur.com/EpRievh.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RGB1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ASy0eO7.png",
+	    "thumbUrl": "https://i.imgur.com/sntw0Jx.png",
+            "collections":"glith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AirBaloons16",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/cgwNBWe.png",
