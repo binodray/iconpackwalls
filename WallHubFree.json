@@ -38,6 +38,106 @@
     ],
     "Wallpapers":[
     {
+            "name":"Summer1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FPUJTpN.png",
+	    "thumbUrl": "https://i.imgur.com/A3DXFc2.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pYUbKcX.png",
+	    "thumbUrl": "https://i.imgur.com/1e5eB7T.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qqdVAsp.png",
+	    "thumbUrl": "https://i.imgur.com/IsLhNlc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kXCY8gz.png",
+	    "thumbUrl": "https://i.imgur.com/zR0AhT7.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oKqYCp3.png",
+	    "thumbUrl": "https://i.imgur.com/dcJOmjO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c3Isp6l.png",
+	    "thumbUrl": "https://i.imgur.com/LhYvM23.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+    {
+            "name":"Summer11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jHHSiYG.png",
+	    "thumbUrl": "https://i.imgur.com/JW5V0ch.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EGnSbv3.png",
+	    "thumbUrl": "https://i.imgur.com/Q6l89Y1.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XmTST8o.png",
+	    "thumbUrl": "https://i.imgur.com/btQxIyo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Summer6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sAkzVES.png",
+	    "thumbUrl": "https://i.imgur.com/L2dSKQF.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+    {
             "name":"RGB16",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/zMqxyE8.png",
