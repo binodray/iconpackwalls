@@ -37,6 +37,125 @@
         }
     ],
     "Wallpapers":[
+   {
+            "name":"BlueHexa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2tiXgi7.png",
+	    "thumbUrl": "https://i.imgur.com/hNLHQFd.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueMounts1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KGiqWBF.png",
+	    "thumbUrl": "https://i.imgur.com/NI8IbHi.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Memphis22",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r6AcUOF.png",
+	    "thumbUrl": "https://i.imgur.com/KXfBxcw.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DencedForest",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TW1zZGE.png",
+	    "thumbUrl": "https://i.imgur.com/ZnvFmyt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SleepingFox",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Kaqa5PZ.png",
+	    "thumbUrl": "https://i.imgur.com/ym05ZDQ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackBox1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mUYnbbM.png",
+	    "thumbUrl": "https://i.imgur.com/ZI0bNeZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Memphis21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zK7rKGi.png",
+	    "thumbUrl": "https://i.imgur.com/T30eWQC.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bubbles37",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hWPk8up.png",
+	    "thumbUrl": "https://i.imgur.com/V10H5xB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern31",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dGz6Euw.png",
+	    "thumbUrl": "https://i.imgur.com/jlpPd3P.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Memphis25",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dxtIB36.png",
+	    "thumbUrl": "https://i.imgur.com/wdNWMoJ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkLama",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h12hNeJ.png",
+	    "thumbUrl": "https://i.imgur.com/Q7NGHhP.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Vegies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cbXbibF.png",
+	    "thumbUrl": "https://i.imgur.com/g3UFbMU.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
     {
             "name":"Summer1",
       	    "author":"Binod Ray",
