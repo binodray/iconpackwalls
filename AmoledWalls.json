@@ -47,7 +47,117 @@
         }
     ],
     "Wallpapers":[
-       {
+        {
+            "name":"Memphis23",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0PeOtl2.png",
+	    "thumbUrl": "https://i.imgur.com/2fWU84h.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern29",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p7VNmgN.png",
+	    "thumbUrl": "https://i.imgur.com/LsGctYS.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Memphis27",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V6alLMI.png",
+	    "thumbUrl": "https://i.imgur.com/mpRxWj5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BullDog",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xlw56Pd.png",
+	    "thumbUrl": "https://i.imgur.com/zxp0YPp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrayTriangles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WrPsTBb.png",
+	    "thumbUrl": "https://i.imgur.com/lEeASGC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Worms13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zKQg0X4.png",
+	    "thumbUrl": "https://i.imgur.com/U0XjayW.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Clouds6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V6IUveJ.png",
+	    "thumbUrl": "https://i.imgur.com/0A5jwzX.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlowralFrame",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nmYxttg.png",
+	    "thumbUrl": "https://i.imgur.com/7YGfQEb.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ueLDCeg.png",
+	    "thumbUrl": "https://i.imgur.com/iY19J7Z.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern30",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6dd9hqT.png",
+	    "thumbUrl": "https://i.imgur.com/C5ptUiC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteTriangles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z5LQvVj.png",
+	    "thumbUrl": "https://i.imgur.com/3q6c2OE.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Maple1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/OMiuxuV.png",
