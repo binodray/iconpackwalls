@@ -37,7 +37,52 @@
         }
     ],
     "Wallpapers":[
-       {
+     {
+            "name":"BlueBacks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0RQ3gYD.png",
+	    "thumbUrl": "https://i.imgur.com/vx6j8Ur.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleBubbles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xmB53Qa.png",
+	    "thumbUrl": "https://i.imgur.com/5TqIA6M.png",
+            "collections":"random,abstract,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBubble",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yhin9Im.png",
+	    "thumbUrl": "https://i.imgur.com/ruW9ZUu.png",
+            "collections":"random,abstract,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBacks2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gJSKJU8.png",
+	    "thumbUrl": "https://i.imgur.com/yLazWVW.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBacks1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/s1TuC6x.png",
+	    "thumbUrl": "https://i.imgur.com/mMePt23.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueHexa",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2tiXgi7.png",
