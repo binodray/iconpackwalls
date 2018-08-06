@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"OrangeChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C42vrpt.png",
+	    "thumbUrl": "https://i.imgur.com/1j39eEA.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7oQTZW1.png",
+	    "thumbUrl": "https://i.imgur.com/09NTx89.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SkyBlueChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6TXLACP.png",
+	    "thumbUrl": "https://i.imgur.com/d609gt6.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z7xpKgb.png",
+	    "thumbUrl": "https://i.imgur.com/kOwG4ni.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DAv0Mqk.png",
+	    "thumbUrl": "https://i.imgur.com/pW3LlIt.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueShadow",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/78w0QdD.png",
