@@ -47,6 +47,51 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"BlueShadow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/78w0QdD.png",
+	    "thumbUrl": "https://i.imgur.com/uIJJFlm.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SeECp2c.png",
+	    "thumbUrl": "https://i.imgur.com/mXNdA3Q.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9FZtjga.png",
+	    "thumbUrl": "https://i.imgur.com/ydZBJV2.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m5xKZ1U.png",
+	    "thumbUrl": "https://i.imgur.com/pCU2bnw.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Leafs9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2QaLelW.png",
+	    "thumbUrl": "https://i.imgur.com/b8n1LP8.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"SeaWaves2",
       	    "author":"Binod Ray",
