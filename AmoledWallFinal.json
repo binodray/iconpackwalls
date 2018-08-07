@@ -47,6 +47,87 @@
         }
     ],
     "Wallpapers":[
+    {
+            "name":"Peacocks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jo8WKQf.png",
+	    "thumbUrl": "https://i.imgur.com/0ebqrUK.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HummingBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EUwTFGt.png",
+	    "thumbUrl": "https://i.imgur.com/w6BhflM.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Owls1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dx1VE1A.jpg",
+	    "thumbUrl": "https://i.imgur.com/ZfKYavS.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Owls3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/teDHrBP.png",
+	    "thumbUrl": "https://i.imgur.com/NtCgj9X.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BigBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pzHAjSb.png",
+	    "thumbUrl": "https://i.imgur.com/kURXp8g.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HummingBirds1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hEXiRPP.png",
+	    "thumbUrl": "https://i.imgur.com/rT3343i.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DreamCatches",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fCdmXas.png",
+	    "thumbUrl": "https://i.imgur.com/mQfL6AL.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowParrots",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u4qFfDE.png",
+	    "thumbUrl": "https://i.imgur.com/FDEr3yq.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Owls2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1TwQEJH.jpg",
+	    "thumbUrl": "https://i.imgur.com/ZbPP4rV.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
       {
             "name":"OrangeChita",
       	    "author":"Binod Ray",
