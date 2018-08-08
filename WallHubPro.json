@@ -38,6 +38,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"DabbingCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U8b1Dxc.png",
+	    "thumbUrl": "https://i.imgur.com/C9mNTZB.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lKm4tUk.png",
+	    "thumbUrl": "https://i.imgur.com/CBB2eBM.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowBubbles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g3OWCix.png",
+	    "thumbUrl": "https://i.imgur.com/xUL38q2.png",
+            "collections":"material,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q36FRpa.png",
+	    "thumbUrl": "https://i.imgur.com/jcIZYZq.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aBJ0hNl.png",
+	    "thumbUrl": "https://i.imgur.com/Do62oTg.png",
+            "collections":"material,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gjBTgP0.png",
+	    "thumbUrl": "https://i.imgur.com/doxEiu8.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yvKgcag.png",
+	    "thumbUrl": "https://i.imgur.com/CEAJPkt.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oALtjHu.png",
+	    "thumbUrl": "https://i.imgur.com/qpDjQMW.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLines3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Zzy97B8.png",
+	    "thumbUrl": "https://i.imgur.com/crmCt9J.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLines4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qbgb7Il.png",
+	    "thumbUrl": "https://i.imgur.com/qxf7kPd.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Pastle13",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/pmCQ20f.png",
