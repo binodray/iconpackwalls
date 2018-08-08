@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"RainbowLinnes5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kDoNUBy.png",
+	    "thumbUrl": "https://i.imgur.com/LEykxdW.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLine1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UnzU4w9.png",
+	    "thumbUrl": "https://i.imgur.com/jjvJKzC.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLines6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2YpqMjX.png",
+	    "thumbUrl": "https://i.imgur.com/9jq3sji.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrownBear",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VBKNXcA.png",
+	    "thumbUrl": "https://i.imgur.com/PQKLGrp.png",
+            "collections":"minimal,random,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DabbingCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kLJTz8A.png",
+	    "thumbUrl": "https://i.imgur.com/adZs9IT.png",
+            "collections":"minimal,random,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Peacocks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/jo8WKQf.png",
