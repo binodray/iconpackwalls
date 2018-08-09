@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Pattern2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2EoM7oP.png",
+	    "thumbUrl": "https://i.imgur.com/y3SAejw.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ym5QaXR.png",
+	    "thumbUrl": "https://i.imgur.com/z8JyikK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Taj",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/geMMZpP.png",
+	    "thumbUrl": "https://i.imgur.com/as9INrg.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MOGp28K.png",
+	    "thumbUrl": "https://i.imgur.com/dlgZuWG.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HoiSURD.png",
+	    "thumbUrl": "https://i.imgur.com/5hxdAdx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"RainbowLinnes5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/kDoNUBy.png",
