@@ -38,6 +38,76 @@
     ],
     "Wallpapers":[
      {
+            "name":"Landscape6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9GG3tjz.png",
+	    "thumbUrl": "https://i.imgur.com/XsYPjzG.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/itw1tOU.png",
+	    "thumbUrl": "https://i.imgur.com/RqQgcvN.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TcJ4oYB.png",
+	    "thumbUrl": "https://i.imgur.com/j4DHTdJ.png",
+            "collections":"material,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YRB7XYG.png",
+	    "thumbUrl": "https://i.imgur.com/d6tOwwE.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aeU7grr.png",
+	    "thumbUrl": "https://i.imgur.com/uxm98ym.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Landscape9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XkLOlip.png",
+	    "thumbUrl": "https://i.imgur.com/VNRcR4H.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pattern7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6P3lCj0.png",
+	    "thumbUrl": "https://i.imgur.com/9EbJibf.png",
+            "collections":"material,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DabbingCat",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/U8b1Dxc.png",
