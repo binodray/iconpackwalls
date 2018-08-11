@@ -38,6 +38,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Galaxy15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mSGfscJ.png",
+	    "thumbUrl": "https://i.imgur.com/1hChJWl.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Galaxy16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0U4EqY7.png",
+	    "thumbUrl": "https://i.imgur.com/qVsiEZy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Offices1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1jqYSoe.png",
+	    "thumbUrl": "https://i.imgur.com/fqO80RT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Bigmans1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6PET8ho.png",
+	    "thumbUrl": "https://i.imgur.com/xIHZoST.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Galaxy13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/43KHcA6.png",
+	    "thumbUrl": "https://i.imgur.com/dMx2CfO.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Offices2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RlKGpWD.png",
+	    "thumbUrl": "https://i.imgur.com/Bvb5KVc.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"Rocket5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iA6c69c.png",
