@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"Offices2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sZisPMy.png",
+	    "thumbUrl": "https://i.imgur.com/Orr8seB.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Galaxy11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9Y3vvNy.png",
+	    "thumbUrl": "https://i.imgur.com/10CcM9i.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Bigmans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cmoqdgu.png",
+	    "thumbUrl": "https://i.imgur.com/bqElzsD.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Galaxy12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sFc68hb.png",
+	    "thumbUrl": "https://i.imgur.com/lpFiw5p.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"Birdies18",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vj5Dk5K.png",
+	    "thumbUrl": "https://i.imgur.com/38fIftp.png",
+            "collections":"animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"Rocket3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/AEGBVbb.png",
