@@ -48,6 +48,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"BrownWavy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/97QlbxK.png",
+	    "thumbUrl": "https://i.imgur.com/rERgIwC.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"DarkGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JP3MUAV.png",
+	    "thumbUrl": "https://i.imgur.com/ufPF41c.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlosyRocket",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xhsrc6I.png",
+	    "thumbUrl": "https://i.imgur.com/w5g81Q5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/47KEI3W.png",
+	    "thumbUrl": "https://i.imgur.com/nicLyCP.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWavy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5ilgi6z.png",
+	    "thumbUrl": "https://i.imgur.com/7yd3YGc.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulEarth",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5Iz8tCk.png",
+	    "thumbUrl": "https://i.imgur.com/5S3Q2fP.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Offices2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sZisPMy.png",
