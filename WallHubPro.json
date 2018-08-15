@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Work",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G0LE22u.png",
+	    "thumbUrl": "https://i.imgur.com/sPniGig.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mbrtR6k.png",
+	    "thumbUrl": "https://i.imgur.com/0hnSQcj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Study",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JUCIloj.png",
+	    "thumbUrl": "https://i.imgur.com/F24NjCX.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueOffice",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AObnQzd.png",
+	    "thumbUrl": "https://i.imgur.com/pgO950X.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Chill",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lhaCvYs.png",
+	    "thumbUrl": "https://i.imgur.com/aD8oU9h.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Galaxy15",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mSGfscJ.png",
