@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Read",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ml7VKdo.png",
+	    "thumbUrl": "https://i.imgur.com/DWypslF.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"v",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AomXf7T.png",
+	    "thumbUrl": "https://i.imgur.com/i1rajeD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PartyScene",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HBbxiPr.png",
+	    "thumbUrl": "https://i.imgur.com/MMblUD8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Kidnapping",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rRgpEo2.png",
+	    "thumbUrl": "https://i.imgur.com/U8IpzTx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WaterSpread",
+      	    "author":"Binod Ray",
+            "url":"hthttps://i.imgur.com/kzJpsCV.png",
+	    "thumbUrl": "https://i.imgur.com/tL2JNcA.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Work",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/G0LE22u.png",
