@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlyingMan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C2SErje.png",
+	    "thumbUrl": "https://i.imgur.com/sLJhnel.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Riders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xDp499p.png",
+	    "thumbUrl": "https://i.imgur.com/pO0vDYt.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lobster",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ke9W11l.png",
+	    "thumbUrl": "https://i.imgur.com/ygdcczj.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"KillerBee",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/k8P9wiy.png",
+	    "thumbUrl": "https://i.imgur.com/0lmSnRF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MoreSpace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jk3auvd.png",
+	    "thumbUrl": "https://i.imgur.com/aFHdgrh.png",
+            "collections":"quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"Song",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/9QgsyWE.png",
