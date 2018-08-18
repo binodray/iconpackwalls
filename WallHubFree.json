@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lw4zMjp.png",
+	    "thumbUrl": "https://i.imgur.com/1Wb2JJJ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterCity1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MqfkQyJ.png",
+	    "thumbUrl": "https://i.imgur.com/pWWlzNz.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LittleBuddas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r8u3yD6.png",
+	    "thumbUrl": "https://i.imgur.com/9A3K9De.png",
+            "collections":"faith,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterCity",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f8cmfcU.png",
+	    "thumbUrl": "https://i.imgur.com/prCKrOS.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterCity2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/siqgtTL.png",
+	    "thumbUrl": "https://i.imgur.com/bZQ3PZW.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Read",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Ml7VKdo.png",
