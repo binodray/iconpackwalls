@@ -48,6 +48,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"HomeBlack",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FQtSl55.png",
+	    "thumbUrl": "https://i.imgur.com/M3ZjRbD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SittingBla",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A5KKkti.png",
+	    "thumbUrl": "https://i.imgur.com/iBPX0ei.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Flowers16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rbM8ETU.png",
+	    "thumbUrl": "https://i.imgur.com/Jlg7pJv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SleepingBoy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CM7FDJK.png",
+	    "thumbUrl": "https://i.imgur.com/rcGOIPD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Flowerss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6yCSWT2.png",
+	    "thumbUrl": "https://i.imgur.com/2Z2x6sO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Peepings",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OXh6LES.png",
+	    "thumbUrl": "https://i.imgur.com/HeS4sKJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FlyingMan",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/C2SErje.png",
