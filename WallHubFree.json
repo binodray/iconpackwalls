@@ -37,7 +37,57 @@
         }
     ],
     "Wallpapers":[
-	    {
+     {
+            "name":"PolkaLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SS4dw1v.png",
+	    "thumbUrl": "https://i.imgur.com/iiwtzDu.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Dolna",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yh91fip.png",
+	    "thumbUrl": "https://i.imgur.com/RGXJbou.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ListingMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BqKscZ2.png",
+	    "thumbUrl": "https://i.imgur.com/etXpBAv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DonutUnicorn",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gjIpg9p.png",
+	    "thumbUrl": "https://i.imgur.com/9wXQda9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Office13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/piyYob7.png",
+	    "thumbUrl": "https://i.imgur.com/IOh3lu0.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"Floats",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Rc5CahX.png",
