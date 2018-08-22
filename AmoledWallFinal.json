@@ -47,6 +47,69 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"PurpleFlower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/o4vDS87.png",
+	    "thumbUrl": "https://i.imgur.com/RduA7Iv.png",
+            "collections":"random,nature,flower" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Jungle1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/X68w2du.png",
+	    "thumbUrl": "https://i.imgur.com/c4It0g2.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Fighters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JQ8wlA8.png",
+	    "thumbUrl": "https://i.imgur.com/kNvVptR.png",
+            "collections":"random,animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ferns",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pdSeCNR.png",
+	    "thumbUrl": "https://i.imgur.com/kT1TLha.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrumpyCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SNQmNDR.png",
+	    "thumbUrl": "https://i.imgur.com/V87Vm4G.png",
+            "collections":"random,minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Trees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qwtgKod.png",
+	    "thumbUrl": "https://i.imgur.com/yAm95JD.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Caves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FeX9GVy.png",
+	    "thumbUrl": "https://i.imgur.com/7jhufji.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"DonutUnicon",
       	    "author":"Binod Ray",
