@@ -54,6 +54,7 @@
 	    "thumbUrl": "https://i.imgur.com/RduA7Iv.png",
             "collections":"random,nature,flower" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -63,6 +64,7 @@
 	    "thumbUrl": "https://i.imgur.com/c4It0g2.png",
             "collections":"random,nature" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -72,6 +74,7 @@
 	    "thumbUrl": "https://i.imgur.com/kNvVptR.png",
             "collections":"random,animal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -81,6 +84,7 @@
 	    "thumbUrl": "https://i.imgur.com/kT1TLha.png",
             "collections":"random,nature" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -90,6 +94,7 @@
 	    "thumbUrl": "https://i.imgur.com/V87Vm4G.png",
             "collections":"random,minimal,animal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -99,6 +104,7 @@
 	    "thumbUrl": "https://i.imgur.com/yAm95JD.png",
             "collections":"random,nature" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -108,6 +114,7 @@
 	    "thumbUrl": "https://i.imgur.com/7jhufji.png",
             "collections":"random,nature" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },	    
      {
