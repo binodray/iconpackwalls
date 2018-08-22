@@ -38,6 +38,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"AloneGirl1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LJ8L7zR.png",
+	    "thumbUrl": "https://i.imgur.com/BPvCEt8.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Smilingcat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qTg6448.png",
+	    "thumbUrl": "https://i.imgur.com/UhHW0vG.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LovemeCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LFqyivb.png",
+	    "thumbUrl": "https://i.imgur.com/UhrgiNi.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrumpyCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2fnRvKV.png",
+	    "thumbUrl": "https://i.imgur.com/wChwOvT.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteCat2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LF8BmvM.png",
+	    "thumbUrl": "https://i.imgur.com/HbPTNvL.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AloneGirl",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/90XHEbS.png",
+	    "thumbUrl": "https://i.imgur.com/frbNTIY.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteCat1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yxl49db.png",
+	    "thumbUrl": "https://i.imgur.com/JGJNY1H.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"PolkaLight",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/SS4dw1v.png",
