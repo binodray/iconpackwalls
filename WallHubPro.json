@@ -38,6 +38,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"CleanRoom",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CW9I4I3.png",
+	    "thumbUrl": "https://i.imgur.com/UAzxMnn.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSofa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q4gtnLx.png",
+	    "thumbUrl": "https://i.imgur.com/BND5nok.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatSofa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pVsNuri.png",
+	    "thumbUrl": "https://i.imgur.com/WTbnl9y.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MoonCrossing",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LJ8L7zR.png",
+	    "thumbUrl": "https://i.imgur.com/TsX22kn.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSpaceman",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NIVoJkK.png",
+	    "thumbUrl": "https://i.imgur.com/BPvCEt8.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DogFoods",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nRT4gjg.png",
+	    "thumbUrl": "https://i.imgur.com/sIquMST.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AloneGirl1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/LJ8L7zR.png",
