@@ -47,7 +47,88 @@
         }
     ],
     "Wallpapers":[
-    {
+     {
+            "name":"FlatOffice1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KLDhGBz.png",
+	    "thumbUrl": "https://i.imgur.com/D1bDG16.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMaple1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wsANM3W.png",
+	    "thumbUrl": "https://i.imgur.com/QRM1Lrf.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLeaf2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0rMf3GU.png",
+	    "thumbUrl": "https://i.imgur.com/IWWdiKz.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatOffice4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yVzyFko.png",
+	    "thumbUrl": "https://i.imgur.com/h0bYYRm.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimaTree2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wjRwKrb.png",
+	    "thumbUrl": "https://i.imgur.com/pq1128l.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MapleBlack",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SK4I3vR.png",
+	    "thumbUrl": "https://i.imgur.com/QXaylHr.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatOffice6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xlc4kN3.png",
+	    "thumbUrl": "https://i.imgur.com/cgP6kcn.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SleepingGirl",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6YvGFvs.png",
+	    "thumbUrl": "https://i.imgur.com/uRQhQP1.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteNIghts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/x3xOBx1.png",
+	    "thumbUrl": "https://i.imgur.com/Ea7ar5J.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientSpaceman",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/PGDI3jI.png",
