@@ -47,7 +47,186 @@
         }
     ],
     "Wallpapers":[
-         
+     {
+            "name":"Butterfly3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7Aj5ANE.png",
+	    "thumbUrl": "https://i.imgur.com/sycv8yG.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h8M17yr.png",
+	    "thumbUrl": "https://i.imgur.com/dJvbgF7.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ysjNjW7.png",
+	    "thumbUrl": "https://i.imgur.com/0614uSr.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Tl1YrbG.png",
+	    "thumbUrl": "https://i.imgur.com/kBhXVL0.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Snails",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IC2cSUy.png",
+	    "thumbUrl": "https://i.imgur.com/4p27K3O.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/piXhavZ.png",
+	    "thumbUrl": "https://i.imgur.com/r3zbmo5.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CYw5T0o.png",
+	    "thumbUrl": "https://i.imgur.com/vOudyuz.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KLDhGBz.png",
+	    "thumbUrl": "https://i.imgur.com/U7FcYkb.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vTiJgTu.png",
+	    "thumbUrl": "https://i.imgur.com/MxodndR.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pgjjEsb.png",
+	    "thumbUrl": "https://i.imgur.com/VQgXuAr.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/khl97j7.png",
+	    "thumbUrl": "https://i.imgur.com/B5RgHMs.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ifnSknl.png",
+	    "thumbUrl": "https://i.imgur.com/7ulD4sL.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Tq1CIIA.png",
+	    "thumbUrl": "https://i.imgur.com/Q3VfdJ6.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HwsbzO5.png",
+	    "thumbUrl": "https://i.imgur.com/MYiQwkY.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EHnMTKv.png",
+	    "thumbUrl": "https://i.imgur.com/fIBdrwP.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rfNo0u5.png",
+	    "thumbUrl": "https://i.imgur.com/RKZy5tg.png",
+            "collections":"quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Butterfly8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lk8vepH.png",
+	    "thumbUrl": "https://i.imgur.com/fJqGyG1.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cactus",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OJyTnfk.png",
+	    "thumbUrl": "https://i.imgur.com/d5WIuzc.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhite1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/55Lp37V.png",
+	    "thumbUrl": "https://i.imgur.com/SO7y1wt.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueDragonFly",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fcro2Y2.png",
+	    "thumbUrl": "https://i.imgur.com/dYApteO.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },    
      {
             "name":"FlatOffice1",
       	    "author":"Binod Ray",
