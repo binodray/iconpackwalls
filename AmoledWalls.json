@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"ColorfulCut7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tejsHBA.png",
+	    "thumbUrl": "https://i.imgur.com/JjL5wpk.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCut5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lh5YDoq.png",
+	    "thumbUrl": "https://i.imgur.com/wUkRblI.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCut10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N0k7ioe.png",
+	    "thumbUrl": "https://i.imgur.com/Bvqj9Lr.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCut3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aMCZa04.png",
+	    "thumbUrl": "https://i.imgur.com/UFsev6n.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCut1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PMz9lJj.png",
+	    "thumbUrl": "https://i.imgur.com/db15grL.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Butterfly3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7Aj5ANE.png",
