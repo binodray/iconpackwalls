@@ -37,7 +37,52 @@
         }
     ],
     "Wallpapers":[
-      {
+    {
+            "name":"ColorfulCurve6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2mGZPKa.png",
+	    "thumbUrl": "https://i.imgur.com/EJl0Rdr.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCurve2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AltT1m8.png",
+	    "thumbUrl": "https://i.imgur.com/ufqbREu.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCurve9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rNlUBNF.png",
+	    "thumbUrl": "https://i.imgur.com/xb6Ya20.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCurve4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WcBWFGM.png",
+	    "thumbUrl": "https://i.imgur.com/WdJgL1x.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCurve8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TE4dKyJ.png",
+	    "thumbUrl": "https://i.imgur.com/kGBNELM.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"OilWall1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/rDWaU7J.png",
