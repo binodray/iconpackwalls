@@ -38,6 +38,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlatWhale",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1uQzsY8e9SZrlQGshSPpB8cXQefv0nMEj",
+	    "thumbUrl": "https://drive.google.com/open?id=1ITiedAoe7WuC9sIuLgeYeqfcGdr2_ST-",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrayGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1NZbkIGtknoe5b6tobfDx85cD_cwW7y7k",
+	    "thumbUrl": "https://drive.google.com/open?id=1GlPuipYRBpa6-7PoK1iEedEINNWzcy3F",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=18aPkhXcc4orEavOWqSydnuHOJPd56Oyo",
+	    "thumbUrl": "https://drive.google.com/open?id=10dtcVetCUjWTr2Xts6BUKSYBleVxYKVI",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pealup1",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1LXx1vLhheDFtJuiqP9G8Fb-LTaTuxvB3",
+	    "thumbUrl": "https://drive.google.com/open?id=1RShsE9P051PcN7EIf5zMGL0wAVl1r2KC",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pealup3",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1MLTg2wsHTkQM0C9gXOdbhAv2NbHd5Smf",
+	    "thumbUrl": "https://drive.google.com/open?id=18mcWA3f6MCuc-D6HJMgddsDWBbt-ZXLD",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pealup2",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1N-CdfSX9jMwu43gp98mHnfh_WqOWBhDZ",
+	    "thumbUrl": "https://drive.google.com/open?id=1QyQjF3uEAbzuJ-83InLXa-IMNurvZA52",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PolkaGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1rfNDbUkEQTp7pP6NuNDJ_lP23LVtrGMJ",
+	    "thumbUrl": "https://drive.google.com/open?id=17JQ9KI8L4pKibsDw9gs6GQIT_YvAvAds",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1X0lps2oUPNkNEw-Jxjaa0zhUw2z1IE4L",
+	    "thumbUrl": "https://drive.google.com/open?id=1c86DlLb0ANGggcqTq9mRpb38L4U1dgo0",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowRockets",
+      	    "author":"Binod Ray",
+            "url":"https://drive.google.com/open?id=1MgeiAyrE3vYY-ZZS6fI_b9TBOajOSJR6",
+	    "thumbUrl": "https://drive.google.com/open?id=1sEqHw2Ojm1lLzu5zHZb6GvtDgPwVKIA3",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"ColorfulCurve6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2mGZPKa.png",
