@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"Grapes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RPKuaKI.png",
+	    "thumbUrl": "https://i.imgur.com/pKfYk7Y.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pomgranade1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OrB32S5.png",
+	    "thumbUrl": "https://i.imgur.com/sp7IVyj.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pear",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TYEBaJM.png",
+	    "thumbUrl": "https://i.imgur.com/ItbTvsk.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Strawberry",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yl7f6Lt.png",
+	    "thumbUrl": "https://i.imgur.com/H39kcZK.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Orange",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jJbGfjs.png",
+	    "thumbUrl": "https://i.imgur.com/oSg6EuM.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"ColorfulCut7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/tejsHBA.png",
