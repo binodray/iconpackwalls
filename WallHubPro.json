@@ -38,6 +38,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"SadFace2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LbesUTK.png",
+	    "thumbUrl": "https://i.imgur.com/xnhOQIx.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GirlFloat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MtCimuD.png",
+	    "thumbUrl": "https://i.imgur.com/Lu4k8cJ.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WomaFace1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/strSrqr.png",
+	    "thumbUrl": "https://i.imgur.com/mFI4C3j.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DeadLook",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zSkm8ej.png",
+	    "thumbUrl": "https://i.imgur.com/3AosMJQ.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Elf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NfSAHwY.png",
+	    "thumbUrl": "https://i.imgur.com/1laIVvL.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FantasyMermaid1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PHOAaqs.png",
+	    "thumbUrl": "https://i.imgur.com/gr2XrAm.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GrayGalaxy",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/JXwppLF.png",
