@@ -38,6 +38,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"HountedNight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q0KaLQY.png",
+	    "thumbUrl": "https://i.imgur.com/s5k0eZO.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedInidan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xyJ8oy9.png",
+	    "thumbUrl": "https://i.imgur.com/goP73bs.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Voyezs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SNbLy9O.png",
+	    "thumbUrl": "https://i.imgur.com/fGWbabk.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HountedNight1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vz3cyZY.png",
+	    "thumbUrl": "https://i.imgur.com/a43ohi5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AnimeGirl",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v6IFfsd.png",
+	    "thumbUrl": "https://i.imgur.com/jCxS90c.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AnimeLove",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oWGBRhv.png",
+	    "thumbUrl": "https://i.imgur.com/gln4Zth.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
             "name":"SadFace2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/LbesUTK.png",
