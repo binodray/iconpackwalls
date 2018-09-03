@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"Crackens",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/E0eBXC6.png",
+	    "thumbUrl": "https://i.imgur.com/H9QFIaQ.png",
+            "collections":"minima,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Winks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y37Djoy.png",
+	    "thumbUrl": "https://i.imgur.com/L71hqqB.png",
+            "collections":"minima,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Unicorn7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U1FLAfP.png",
+	    "thumbUrl": "https://i.imgur.com/uA7vCaM.png",
+            "collections":"minima,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AngryFello",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JpRHWlt.png",
+	    "thumbUrl": "https://i.imgur.com/9mT19Nk.png",
+            "collections":"minima,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Unicorn6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uzSl4mo.png",
+	    "thumbUrl": "https://i.imgur.com/zKZ35f5.png",
+            "collections":"minima,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"ClosedEyes",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/cb2TAQM.png",
