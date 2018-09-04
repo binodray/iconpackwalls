@@ -48,6 +48,226 @@
     ],
     "Wallpapers":[
       {
+            "name":"IphoneDesign4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PHa81iw.png",
+	    "thumbUrl": "https://i.imgur.com/o3p11fK.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign18",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p4FDbIM.png",
+	    "thumbUrl": "https://i.imgur.com/8cPfn4A.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YxI7qWt.png",
+	    "thumbUrl": "https://i.imgur.com/CFLdWMq.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VaIP6kc.png",
+	    "thumbUrl": "https://i.imgur.com/KbRPMiR.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign16",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wJCj6HE.png",
+	    "thumbUrl": "https://i.imgur.com/e6I6OEB.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LtTxioK.png",
+	    "thumbUrl": "https://i.imgur.com/ouzgHqe.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HGrjnvP.png",
+	    "thumbUrl": "https://i.imgur.com/7vglzkS.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nLt3I7h.png",
+	    "thumbUrl": "https://i.imgur.com/eNayu3D.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign17",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Zn5RR9l.png",
+	    "thumbUrl": "https://i.imgur.com/7TciDUR.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0aZZkor.png",
+	    "thumbUrl": "https://i.imgur.com/QnRkgu8.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hGwu1Xs.png",
+	    "thumbUrl": "https://i.imgur.com/yjCkxAw.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1si19Lz.png",
+	    "thumbUrl": "https://i.imgur.com/emQTVsu.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/14MiSc5.png",
+	    "thumbUrl": "https://i.imgur.com/hTvHFFp.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FtSDuu8.png",
+	    "thumbUrl": "https://i.imgur.com/VzGKPNS.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dbSoL1Y.png",
+	    "thumbUrl": "https://i.imgur.com/rnN2L3J.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign20",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kctPis5.png",
+	    "thumbUrl": "https://i.imgur.com/dwrpLxx.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8B6c0TT.png",
+	    "thumbUrl": "https://i.imgur.com/7FgICQX.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xv5cPCL.png",
+	    "thumbUrl": "https://i.imgur.com/01LyKmE.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign19",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gZmIhYD.png",
+	    "thumbUrl": "https://i.imgur.com/9EdeCYj.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign22",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Uh6QafS.png",
+	    "thumbUrl": "https://i.imgur.com/C3YMEdG.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZEoIyMI.png",
+	    "thumbUrl": "https://i.imgur.com/opUgmy9.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IphoneDesign11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lAEMUhM.png",
+	    "thumbUrl": "https://i.imgur.com/iH95BBX.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"Crackens",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/E0eBXC6.png",
