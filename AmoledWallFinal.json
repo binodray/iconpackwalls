@@ -48,6 +48,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Halloween1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/McRBEiO.png",
+	    "thumbUrl": "https://i.imgur.com/Dxhw68L.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Halloween2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/79uU3ZB.png",
+	    "thumbUrl": "https://i.imgur.com/z2qOfHJ.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MonekyBoss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ww1A09W.png",
+	    "thumbUrl": "https://i.imgur.com/ap0l0oe.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WarHero",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3xKU37N.png",
+	    "thumbUrl": "https://i.imgur.com/FKqi8pr.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AirStrike",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oN51c07.png",
+	    "thumbUrl": "https://i.imgur.com/MCRhlOK.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Kitty1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jc16IXz.png",
+	    "thumbUrl": "https://i.imgur.com/eYqTBO7.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BullDogs",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/OlYVmDC.png",
