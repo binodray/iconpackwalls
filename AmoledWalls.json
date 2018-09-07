@@ -47,7 +47,57 @@
         }
     ],
     "Wallpapers":[
-       {
+      {
+            "name":"Birdie2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/x4VegnB.png",
+	    "thumbUrl": "https://i.imgur.com/PrTc6Zq.png",
+            "collections":"minimal,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"KingFisher",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6fYiIHD.png",
+	    "thumbUrl": "https://i.imgur.com/7tTol3x.png",
+            "collections":"minimal,animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5mytnKk.png",
+	    "thumbUrl": "https://i.imgur.com/GIpcqjB.png",
+            "collections":"minimal,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteBirdie",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vn1qnlV.png",
+	    "thumbUrl": "https://i.imgur.com/CLAlJzp.png",
+            "collections":"minimal,animal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SaveWaters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/izsaoep.png",
+	    "thumbUrl": "https://i.imgur.com/kOjzeAs.png",
+            "collections":"minimal,simple,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Halloween1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/McRBEiO.png",
