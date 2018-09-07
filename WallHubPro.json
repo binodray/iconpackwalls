@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientGalaxy3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jGR2Pc8.png",
+	    "thumbUrl": "https://i.imgur.com/jOa0vqf.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenDesert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oOeMgOe.png",
+	    "thumbUrl": "https://i.imgur.com/6UkZyzY.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PolkaSpirals",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YG2HqGx.png",
+	    "thumbUrl": "https://i.imgur.com/JCB4Ezp.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeDeserts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4GXpItl.png",
+	    "thumbUrl": "https://i.imgur.com/Lb4w0Fa.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveTree",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KpY4d8c.png",
+	    "thumbUrl": "https://i.imgur.com/sHrVcne.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DradonRide",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/yvKO48S.png",
