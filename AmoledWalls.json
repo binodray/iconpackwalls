@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"MechTech",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0CJY8U9.png",
+	    "thumbUrl": "https://i.imgur.com/PWhNyTt.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmokingLion",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rY05ZRZ.png",
+	    "thumbUrl": "https://i.imgur.com/GtQ1URy.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BullDogs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CgHjHKs.png",
+	    "thumbUrl": "https://i.imgur.com/FlIptpD.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmartOwl",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/75bVsYG.png",
+	    "thumbUrl": "https://i.imgur.com/b1sQtLL.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RealMafia",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cskExdK.png",
+	    "thumbUrl": "https://i.imgur.com/4EJs4FA.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Birdie2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/x4VegnB.png",
