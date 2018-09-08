@@ -37,6 +37,56 @@
         }
     ],
     "Wallpapers":[
+    {
+            "name":"FatShoe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Q2zaxPY.png",
+	    "thumbUrl": "https://i.imgur.com/bTx1zq5.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NoRain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iuyJqcf.png",
+	    "thumbUrl": "https://i.imgur.com/VTuc8lz.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HelloBoy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G9xF3oD.png",
+	    "thumbUrl": "https://i.imgur.com/PB4dNqN.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LetsRide",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QJ2GfSV.png",
+	    "thumbUrl": "https://i.imgur.com/jsIvglk.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SummerFood",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JS2DyD7.png",
+	    "thumbUrl": "https://i.imgur.com/lfqITv5.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	 
      {
             "name":"GradientGalaxy3",
       	    "author":"Binod Ray",
