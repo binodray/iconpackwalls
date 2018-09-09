@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"Musics1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TukmDZJ.png",
+	    "thumbUrl": "https://i.imgur.com/1ZvrfpQ.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulMaple",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cBC4UKN.png",
+	    "thumbUrl": "https://i.imgur.com/81KJ9mA.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Musics2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RKFlnL0.png",
+	    "thumbUrl": "https://i.imgur.com/Sz6Pqmy.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"StatusDrop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w38VhlA.png",
+	    "thumbUrl": "https://i.imgur.com/ViJo302.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"StatusDrop1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0Jdn7vO.png",
+	    "thumbUrl": "https://i.imgur.com/weMGiEC.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MechTech",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/0CJY8U9.png",
