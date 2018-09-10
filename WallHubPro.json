@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"SoftFlower3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RlcN9Q1.png",
+	    "thumbUrl": "https://i.imgur.com/eKP3Qde.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftFlower1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QCmZvJi.png",
+	    "thumbUrl": "https://i.imgur.com/G3Hjfq1.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftFlower2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vLRL6q8.png",
+	    "thumbUrl": "https://i.imgur.com/0xPsn1F.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Jhaow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sr4HWzJ.png",
+	    "thumbUrl": "https://i.imgur.com/Xcb2uXO.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftFlowers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yYcpdkA.png",
+	    "thumbUrl": "https://i.imgur.com/qnyJy47.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FlatNuts",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GVKvqQB.png",
