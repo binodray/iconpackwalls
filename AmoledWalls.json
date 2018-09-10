@@ -48,12 +48,63 @@
     ],
     "Wallpapers":[
       {
+            "name":"FogyMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7kEyTkI.png",
+	    "thumbUrl": "https://i.imgur.com/V0fND4g.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Window",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ee3VX4G.png",
+	    "thumbUrl": "https://i.imgur.com/24Svwob.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shores",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d7O9QTm.png",
+	    "thumbUrl": "https://i.imgur.com/D1YS6kJ.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hopes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/trJGmqQ.png",
+	    "thumbUrl": "https://i.imgur.com/SqrRtHT.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"StarTrails",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eZydFPI.png",
+	    "thumbUrl": "https://i.imgur.com/HvcqBrI.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Musics1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TukmDZJ.png",
 	    "thumbUrl": "https://i.imgur.com/1ZvrfpQ.png",
             "collections":"random,simple,minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
