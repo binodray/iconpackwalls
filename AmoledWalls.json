@@ -48,6 +48,46 @@
     ],
     "Wallpapers":[
       {
+            "name":"CuteCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WvnIHhw.png",
+	    "thumbUrl": "https://i.imgur.com/o8uFfKW.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLineX",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8nCHqO6.png",
+	    "thumbUrl": "https://i.imgur.com/7hbgq5W.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackAnstrnot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HMbqkuw.png",
+	    "thumbUrl": "https://i.imgur.com/20CwDKb.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Polkadark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HGgAsCp.png",
+	    "thumbUrl": "https://i.imgur.com/7C5uYZA.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"FogyMount",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7kEyTkI.png",
