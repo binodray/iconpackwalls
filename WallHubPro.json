@@ -38,6 +38,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"Rips",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JQ51jFv.png",
+	    "thumbUrl": "https://i.imgur.com/v8Nodzn.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Anstronot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2jKCi12.png",
+	    "thumbUrl": "https://i.imgur.com/Ayw3KTS.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 
+     {
+            "name":"MaterialX1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/s3Xk8QF.png",
+	    "thumbUrl": "https://i.imgur.com/lCdS5Aq.png",
+            "collections":"random,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWavesX1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NCc89zW.png",
+	    "thumbUrl": "https://i.imgur.com/Vvb5J1I.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MaterialX2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WvGed1U.png",
+	    "thumbUrl": "https://i.imgur.com/e5H56Jx.png",
+            "collections":"random,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cutecat1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JqzEMfL.png",
+	    "thumbUrl": "https://i.imgur.com/WW9cRu3.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWavesX",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wIkE4rM.png",
+	    "thumbUrl": "https://i.imgur.com/3aWQq5G.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SoftFlower3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/RlcN9Q1.png",
