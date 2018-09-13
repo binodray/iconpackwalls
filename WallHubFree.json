@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LooksUps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zjhbpNx.png",
+	    "thumbUrl": "https://i.imgur.com/uIMzjBh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LinePolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/unf1BQK.png",
+	    "thumbUrl": "https://i.imgur.com/tkug5mB.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ufos",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AqoQkaq.png",
+	    "thumbUrl": "https://i.imgur.com/lB9Yf0d.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Grave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xo8BCAe.png",
+	    "thumbUrl": "https://i.imgur.com/UZaGZ4z.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Halloween7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZTeDjrH.png",
+	    "thumbUrl": "https://i.imgur.com/MGUwWuu.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Rips",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/JQ51jFv.png",
