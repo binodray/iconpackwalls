@@ -37,6 +37,7 @@
         }
     ],
     "Wallpapers":[
+	    
      {
             "name":"LooksUps",
       	    "author":"Binod Ray",
@@ -44,6 +45,7 @@
 	    "thumbUrl": "https://i.imgur.com/uIMzjBh.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -53,6 +55,7 @@
 	    "thumbUrl": "https://i.imgur.com/tkug5mB.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -62,6 +65,7 @@
 	    "thumbUrl": "https://i.imgur.com/lB9Yf0d.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -71,6 +75,7 @@
 	    "thumbUrl": "https://i.imgur.com/UZaGZ4z.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -80,6 +85,7 @@
 	    "thumbUrl": "https://i.imgur.com/MGUwWuu.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },	    
      {
