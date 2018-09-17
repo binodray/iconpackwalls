@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"OrangePlanet1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UjVOzG7.png",
+	    "thumbUrl": "https://i.imgur.com/zQlAGUc.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangePlanet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J5cKUFc.png",
+	    "thumbUrl": "https://i.imgur.com/9XmwXAD.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedPlanets3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vGMTWr4.png",
+	    "thumbUrl": "https://i.imgur.com/Xbyimba.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientBat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rjxgNtF.png",
+	    "thumbUrl": "https://i.imgur.com/Tt4r7r5.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OfficeSetups",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Q1vgPd1.png",
+	    "thumbUrl": "https://i.imgur.com/HeZ7jy1.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"LooksUps",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/zjhbpNx.png",
