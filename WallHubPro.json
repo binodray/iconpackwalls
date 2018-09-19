@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenGrave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XidBLEY.png",
+	    "thumbUrl": "https://i.imgur.com/pKTtphh.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CutieCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EypkjhQ.png",
+	    "thumbUrl": "https://i.imgur.com/wSJY1qg.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Serpents",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cZ3Ljfc.png",
+	    "thumbUrl": "https://i.imgur.com/yynl2Da.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BatTree",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kuW0C2v.png",
+	    "thumbUrl": "https://i.imgur.com/LOE2YMu.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkEvening",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g8LWijy.png",
+	    "thumbUrl": "https://i.imgur.com/jbW2QcG.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"YellowPest",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/nnBePVV.png",
