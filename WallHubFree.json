@@ -37,6 +37,56 @@
         }
     ],
     "Wallpapers":[
+       {
+            "name":"BokehLight1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qj7GXHS.jpg",
+	    "thumbUrl": "https://i.imgur.com/Gf0fgcB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightLeaks03",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C27hxCi.jpg",
+	    "thumbUrl": "https://i.imgur.com/0Xo2kpS.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightLeaks02",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r7Rjj9l.jpg",
+	    "thumbUrl": "https://i.imgur.com/QzsTQ90.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qC23nFw.png",
+	    "thumbUrl": "https://i.imgur.com/AYcoS1A.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HappyBat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JHz0wJr.png",
+	    "thumbUrl": "https://i.imgur.com/MZ4DbS5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },		    
       {
             "name":"GreenGrave",
       	    "author":"Binod Ray",
