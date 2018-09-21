@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"GoldenArrow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wF2wfrl.png",
+	    "thumbUrl": "https://i.imgur.com/3pHUqZY.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YaningCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wcT0Goq.png",
+	    "thumbUrl": "https://i.imgur.com/Y9gdvq3.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Angrybat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tE2T0Xg.png",
+	    "thumbUrl": "https://i.imgur.com/JByHsft.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Fishmask",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bdflYZF.png",
+	    "thumbUrl": "https://i.imgur.com/5gSBeM8.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gNwQ8RB.png",
+	    "thumbUrl": "https://i.imgur.com/wVAoLkz.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"AmoledCat",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/0pMmkLh.png",
