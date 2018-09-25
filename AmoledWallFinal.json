@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"PeacockFeather",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iYcgPEX.png",
+	    "thumbUrl": "https://i.imgur.com/1Hd12sG.png",
+            "collections":"minimal,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EGpBs5L.png",
+	    "thumbUrl": "https://i.imgur.com/886uW03.png",
+            "collections":"minimal,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLeafs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vTX2Kr4.png",
+	    "thumbUrl": "https://i.imgur.com/L482df8.png",
+            "collections":"minimal,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreensLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ukyM0OK.png",
+	    "thumbUrl": "https://i.imgur.com/ldlaQm9.png",
+            "collections":"minimal,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedFlowers6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fWXko3Y.png",
+	    "thumbUrl": "https://i.imgur.com/GSrWKif.png",
+            "collections":"minimal,quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GoldenArrow",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/wF2wfrl.png",
