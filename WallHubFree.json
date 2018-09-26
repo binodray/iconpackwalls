@@ -107,69 +107,7 @@
 	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },	    
-     {
-            "name":"Buddhas1",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/eBLs6Al.png",
-	    "thumbUrl": "https://i.imgur.com/py6yQZU.png",
-            "collections":"minimal,random,faith" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PinkSunsets",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/FbTLVE0.png",
-	    "thumbUrl": "https://i.imgur.com/7JWy02B.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"MidEye",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/U78H5Nk.png",
-	    "thumbUrl": "https://i.imgur.com/UxqDyfw.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"LoneCycle",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/SD5YL6Z.png",
-	    "thumbUrl": "https://i.imgur.com/dOEms2w.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SmallBoats3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/urFbwky.png",
-	    "thumbUrl": "https://i.imgur.com/EWQRGVu.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SmallBoats2",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/gDfu4D4.png",
-	    "thumbUrl": "https://i.imgur.com/UkVNcuY.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SmallMoons",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/psSgkwM.png",
-	    "thumbUrl": "https://i.imgur.com/sOecbqk.png",
-            "collections":"minimal,random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+     	    
      {
             "name":"BlueWaters",
       	    "author":"Binod Ray",
