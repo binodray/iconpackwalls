@@ -48,6 +48,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenMonsters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WGT68GJ.png",
+			"thumbUrl": "https://i.imgur.com/Z3qkD0B.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"HornMonsters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4vTHnlF.png",
+			"thumbUrl": "https://i.imgur.com/uQBVdTO.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"MafiaMonsters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fPjKz6d.png",
+			"thumbUrl": "https://i.imgur.com/I3gyTfG.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"Crusify",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yBKcxmJ.png",
+			"thumbUrl": "https://i.imgur.com/hwTmILE.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"Killers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vuhTDIm.png",
+			"thumbUrl": "https://i.imgur.com/pZr1fSX.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"TVmonsters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kEUBG7Q.png",
+			"thumbUrl": "https://i.imgur.com/iOzdFmb.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
+            "name":"BatMonster",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1gxbiAf.png",
+			"thumbUrl": "https://i.imgur.com/QIWCnV7.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+			"copyright":"Personal Use" 
+     },
+     {
             "name":"PeacockFeather",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iYcgPEX.png",
