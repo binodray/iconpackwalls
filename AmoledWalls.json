@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"Zombie7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ouYrgXr.png",
+	    "thumbUrl": "https://i.imgur.com/oXJI9b1.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLedLights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hetMoHd.png",
+	    "thumbUrl": "https://i.imgur.com/8m3Rk7x.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Rocketlaunched",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IDEAVEk.png",
+	    "thumbUrl": "https://i.imgur.com/IPyVKNR.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePixles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4zSAojO.png",
+	    "thumbUrl": "https://i.imgur.com/hI2RHCc.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Zombie6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/P5V1N0f.png",
+	    "thumbUrl": "https://i.imgur.com/QdWR0yv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     }	    
+     {
             "name":"PinkTrees",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TdMoesh.png",
