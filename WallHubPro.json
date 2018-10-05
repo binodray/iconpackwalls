@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlatPeacock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/frbc8UO.png",
+	    "thumbUrl": "https://i.imgur.com/c7YuXd6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkPeacock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/giHSB94.png",
+	    "thumbUrl": "https://i.imgur.com/Ck0U6k9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Poodles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qydGaDo.png",
+	    "thumbUrl": "https://i.imgur.com/O6CZtC0.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatPlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5dHJQLe.png",
+	    "thumbUrl": "https://i.imgur.com/h6riMHj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedPeacock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Tbpph5Z.png",
+	    "thumbUrl": "https://i.imgur.com/IA3mDvf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"ScaryBallon",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TASA3vd.png",
