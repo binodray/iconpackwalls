@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"BlueBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nvbBd0f.png",
+	    "thumbUrl": "https://i.imgur.com/HlYSX1S.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GardientBird",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KEylkRC.png",
+	    "thumbUrl": "https://i.imgur.com/iTfQcNw.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WholePeacock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wj7IVRA.png",
+	    "thumbUrl": "https://i.imgur.com/cjTLhal.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pariss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ga5fZnL.png",
+	    "thumbUrl": "https://i.imgur.com/bRPADBS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PeacockDance",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vPYBCvr.png",
+	    "thumbUrl": "https://i.imgur.com/1J6xl8s.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"AnstronotHi",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xV7UuRh.png",
