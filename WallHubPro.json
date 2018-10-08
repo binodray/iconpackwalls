@@ -38,6 +38,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"SoftGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dPub7Ef.png",
+	    "thumbUrl": "https://i.imgur.com/ZvdHO8l.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Crystalss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xCde9ne.png",
+	    "thumbUrl": "https://i.imgur.com/TyoOMXp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FarGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eVhps0r.png",
+            "thumbUrl": "https://i.imgur.com/2PtIT7f.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastalCurve",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wSdbhv6.png",
+	    "thumbUrl": "https://i.imgur.com/lXwF6KL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenJungles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BRR2kPV.png",
+	    "thumbUrl": "https://i.imgur.com/nkAu8Jh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FlatPeacock",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/frbc8UO.png",
