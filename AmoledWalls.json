@@ -47,7 +47,46 @@
         }
     ],
     "Wallpapers":[
-         
+     {
+            "name":"BlueSkies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kG65n5c.png",
+	    "thumbUrl": "https://i.imgur.com/B9PzXJW.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BIzS2A7.png",
+	    "thumbUrl": "https://i.imgur.com/BX7oKzE.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowLion",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vOiDp6l.png",
+	    "thumbUrl": "https://i.imgur.com/QY3cI28.png",
+            "collections":"random,quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LargeMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/e7PxogR.png",
+	    "thumbUrl": "https://i.imgur.com/HprYNyH.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },  
      {
             "name":"Charcoal",
       	    "author":"Binod Ray",
