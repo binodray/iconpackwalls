@@ -38,6 +38,95 @@
     ],
     "Wallpapers":[
       {
+            "name":"FlatCows",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mS3xBd9.png",
+	    "thumbUrl": "https://i.imgur.com/2mOevOt.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatDuck",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3zVBiEE.png",
+	    "thumbUrl": "https://i.imgur.com/prd6zp0.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatDogs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OovwJJ7.png",
+	    "thumbUrl": "https://i.imgur.com/GNjIbGz.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatDogs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/idklxeO.png",
+	    "thumbUrl": "https://i.imgur.com/CZMf3aV.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C7oFPeK.png",
+	    "thumbUrl": "https://i.imgur.com/yclCc7D.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatGiraffe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wVf4UgQ.png",
+	    "thumbUrl": "https://i.imgur.com/ZjSTCrU.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatMonkey",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G6howAe.png",
+	    "thumbUrl": "https://i.imgur.com/kr4x2vc.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HDmO50q.png",
+	    "thumbUrl": "https://i.imgur.com/hXEcGd7.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatBirds1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rWf9lLt.png",
+	    "thumbUrl": "https://i.imgur.com/wTLdE2Y.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SoftGalaxy",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/dPub7Ef.png",
