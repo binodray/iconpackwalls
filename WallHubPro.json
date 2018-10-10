@@ -1,3 +1,4 @@
+
 {
     "Collections":[
         {
@@ -37,6 +38,51 @@
         }
     ],
     "Wallpapers":[
+     {
+            "name":"CurvyShadow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jchxao2.png",
+	    "thumbUrl": "https://i.imgur.com/VbJx63R.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CurvyShadow1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kREeqFA.png",
+	    "thumbUrl": "https://i.imgur.com/uK5tute.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CurvyShadow2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1YiN8wa.png",
+	    "thumbUrl": "https://i.imgur.com/QyvDlmw.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gradients11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BBLcP9Z.png",
+	    "thumbUrl": "https://i.imgur.com/r5Tcezg.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9Sw3m6O.png",
+	    "thumbUrl": "https://i.imgur.com/kE5sVoL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"FlatCows",
       	    "author":"Binod Ray",
