@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueFluid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qgi4yWO.png",
+	    "thumbUrl": "https://i.imgur.com/moVRQjv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gems2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FsG6k4U.png",
+	    "thumbUrl": "https://i.imgur.com/J3VKIkf.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gems1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hx02Aaw.png",
+	    "thumbUrl": "https://i.imgur.com/sduzjpt.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WatchDog",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IuLAe5I.png",
+	    "thumbUrl": "https://i.imgur.com/zXtiALi.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Captain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IpRs0T0.png",
+	    "thumbUrl": "https://i.imgur.com/dOLpb5K.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CurvyShadow",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Jchxao2.png",
