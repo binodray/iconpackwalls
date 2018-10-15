@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueBirdie",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MNjpHSb.png",
+	    "thumbUrl": "https://i.imgur.com/25lsy1a.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qO8Ey3i.png",
+	    "thumbUrl": "https://i.imgur.com/AFwvyeO.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueHomes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/o4Rh33M.png",
+	    "thumbUrl": "https://i.imgur.com/s2Gc4NQ.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowHome",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OJs3x3b.png",
+	    "thumbUrl": "https://i.imgur.com/zMcz9za.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"OrangeFruits",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oJN3c0q.png",
+	    "thumbUrl": "https://i.imgur.com/P0XGOKG.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"YellowFluids1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/YpzJtQN.png",
