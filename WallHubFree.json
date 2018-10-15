@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"MerryChrisas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qiSNRc4.png",
+	    "thumbUrl": "https://i.imgur.com/tcLdmuT.png",
+            "collections":"minimal,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkStreak1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dsLOM8.png",
+	    "thumbUrl": "https://i.imgur.com/AlFGrfR.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteDogo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Uy0eTHp.png",
+	    "thumbUrl": "https://i.imgur.com/CF2L6cH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkStreak",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hHmzXzF.png",
+	    "thumbUrl": "https://i.imgur.com/5vfJ1y4.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Snow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eZJ1E8t.png",
+	    "thumbUrl": "https://i.imgur.com/8vgTYGD.png",
+            "collections":"minimal,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"BlueFluid",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Qgi4yWO.png",
