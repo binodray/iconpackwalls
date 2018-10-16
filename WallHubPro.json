@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AirBaloons2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bNj9bG0.png",
+	    "thumbUrl": "https://i.imgur.com/wtrlFeI.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatSolders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QruuI3S.png",
+	    "thumbUrl": "https://i.imgur.com/f4OKZsj.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ClearWater",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y6SQRCN.png",
+	    "thumbUrl": "https://i.imgur.com/A4Ym9xI.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MountainSolders1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/khrJFxC.png",
+	    "thumbUrl": "https://i.imgur.com/fMDOUbN.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FoggyMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Oh2iu3p.png",
+	    "thumbUrl": "https://i.imgur.com/TziyWKQ.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"MerryChrisas",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/qiSNRc4.png",
