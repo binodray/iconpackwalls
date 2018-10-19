@@ -39,6 +39,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlackLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iUEfZjl.png",
+	    "thumbUrl": "https://i.imgur.com/jQESxQ4.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ERDAIV9.png",
+	    "thumbUrl": "https://i.imgur.com/T9SglrX.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CyanLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VIuet7i.png",
+	     "thumbUrl": "https://i.imgur.com/Dczp75Q.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ytCwho7.png",
+	     "thumbUrl": "https://i.imgur.com/WHFCavp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NctBrvX.png",
+	    "thumbUrl": "https://i.imgur.com/TT2hnxo.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Nj2iXQE.png",
+	    "thumbUrl": "https://i.imgur.com/x7ZoDVv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLightning1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fkfEW9Y.png",
+	     "thumbUrl": "https://i.imgur.com/fgGSEVL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p7miml2.png",
+	    "thumbUrl": "https://i.imgur.com/1EtCK9K.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+           "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GmVWWIc.png",
+	    "thumbUrl": "https://i.imgur.com/f1ygvKv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MRko5d3.png",
+	    "thumbUrl": "https://i.imgur.com/gm0YwQK.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AirBaloons2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bNj9bG0.png",
