@@ -48,6 +48,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"CyanSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IAAMfGY.png",
+	    "thumbUrl": "https://i.imgur.com/dHAPjel.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSpark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8wvKXXM.png",
+	    "thumbUrl": "https://i.imgur.com/5tpjj2G.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FadedSpark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NzSrvTt.png",
+	    "thumbUrl": "https://i.imgur.com/3f16b5y.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleSpark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r0U0Uiq.png",
+	    "thumbUrl": "https://i.imgur.com/S7UYvje.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+    {
+            "name":"PinkSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vcky39o.png",
+	    "thumbUrl": "https://i.imgur.com/LHBk10X.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowSpark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/afzdihF.png",
+	    "thumbUrl": "https://i.imgur.com/fcD5M7k.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RaniSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RejYVMe.png",
+	    "thumbUrl": "https://i.imgur.com/nTbpZr2.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9p9IC4O.png",
+	    "thumbUrl": "https://i.imgur.com/LZot40W.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/snNC8Vw.png",
+	    "thumbUrl": "https://i.imgur.com/mXgq9no.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeSparks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t9xMb0f.png",
+	    "thumbUrl": "https://i.imgur.com/ShcGYLq.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlackUnicorn",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/1GCHc7l.png",
