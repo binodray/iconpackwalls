@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
        {
+            "name":"SoftColors",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c4ezrYP.png",
+	    "thumbUrl": "https://i.imgur.com/P9uJarN.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WolfHowls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/x89oZZn.png",
+	    "thumbUrl": "https://i.imgur.com/SPhZtiT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4gWhwzh.png",
+	    "thumbUrl": "https://i.imgur.com/lXJWHwh.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueGhost",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PosQJen.png",
+	    "thumbUrl": "https://i.imgur.com/bGH00gu.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMaterial",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8scoZHS.png",
+	    "thumbUrl": "https://i.imgur.com/iZiA3sS.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlackLightning",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iUEfZjl.png",
