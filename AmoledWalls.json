@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueCosta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yRdjgQs.png",
+	     "thumbUrl": "https://i.imgur.com/vaD3OqH.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenTrianle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CK85cG2.png",
+	    "thumbUrl": "https://i.imgur.com/Paw6hCO.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSquare",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XoSB11U.png",
+	    "thumbUrl": "https://i.imgur.com/f0EQtgY.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSplashs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f4BHkYg.png",
+	    "thumbUrl": "https://i.imgur.com/q3yobdE.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSpiral",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/36PLO8d.png",
+	    "thumbUrl": "https://i.imgur.com/jerRJ5A.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CyanSparks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/IAAMfGY.png",
