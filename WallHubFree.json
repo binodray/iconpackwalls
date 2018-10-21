@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
        {
+            "name":"ClearLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vVRzyoO.png",
+	    "thumbUrl": "https://i.imgur.com/ewtSbCF.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSpiral",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HTeCNHH.png",
+	    "thumbUrl": "https://i.imgur.com/6DCpLTS.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ssxFSYd.png",
+	    "thumbUrl": "https://i.imgur.com/dknwglc.png",
+            "collections":"random,minimal,abstract,fetured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientsLightning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pYJtGrY.png",
+	    "thumbUrl": "https://i.imgur.com/LXdeboQ.png",
+            "collections":"random,minimal,fetured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Molecules",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BENuDXr.png",
+	    "thumbUrl": "https://i.imgur.com/l3H8I34.png",
+            "collections":"random,material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"SoftColors",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/c4ezrYP.png",
