@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlackSpiral",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DbnyBqQ.png",
+	    "thumbUrl": "https://i.imgur.com/dnIsA6F.png",
+            "collections":"twisted" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueSplash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/86OpNTQ.png",
+	    "thumbUrl": "https://i.imgur.com/0lNq5S0.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeLava",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/z46KUx8.png",
+	    "thumbUrl": "https://i.imgur.com/b9aZUXD.png",
+            "collections":"random,liquid" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSprirals",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3OyByek.png",
+	    "thumbUrl": "https://i.imgur.com/R00PUXk.png",
+            "collections":"random,twisted,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLava",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z7BbiNB.png",
+	    "thumbUrl": "https://i.imgur.com/jQazgCy.png",
+            "collections":"random,liquid" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueCosta",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/yRdjgQs.png",
