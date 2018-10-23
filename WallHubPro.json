@@ -45,7 +45,7 @@
             "thumbUrl": "https://i.imgur.com/cWe1Pip.png",
             "collections":"material" ,
             "dimensions":"1440x2560",
-		"copyright":"Personal Use" 
+	    "copyright":"Personal Use" 
      },
      {
             "name":"SoftMotion5",
@@ -101,26 +101,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-	
-     {
-            "name":"SoftMotion4",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/BsOqHpF.png",
-		"thumbUrl": "https://i.imgur.com/m2ya5qa.png",
-            "collections":"material" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SoftMotion6",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/UsLoxE5.png",
-		"thumbUrl": "https://i.imgur.com/3RBl6ct.png",
-            "collections":"material" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-	 	    
+		    
      {
             "name":"ClearLines",
       	    "author":"Binod Ray",
