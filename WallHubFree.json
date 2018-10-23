@@ -38,6 +38,76 @@
     ],
     "Wallpapers":[
        {
+            "name":"SoftMotion",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JObPcnC.png",
+            "thumbUrl": "https://i.imgur.com/cWe1Pip.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kzXHApz.png",
+            "thumbUrl": "https://i.imgur.com/aWMVS1Z.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6znYxKh.png",
+            "thumbUrl": "https://i.imgur.com/n3o5gQs.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vv9ZLYI.png",
+            "thumbUrl": "https://i.imgur.com/QQL8wZY.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lQN5Wml.png",
+            "thumbUrl": "https://i.imgur.com/9Q6qkV5.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BsOqHpF.png",
+            "thumbUrl": "https://i.imgur.com/m2ya5qa.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftMotion6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UsLoxE5.png",
+            "thumbUrl": "https://i.imgur.com/3RBl6ct.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ClearLines",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/vVRzyoO.png",
