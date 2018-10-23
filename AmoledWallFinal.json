@@ -48,6 +48,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"RoseGoldPolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lif7bsX.png",
+	    "thumbUrl": "https://i.imgur.com/kVrTAi5.pnga",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MillionGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/K3ZPXYf.png",
+	   "thumbUrl": "https://i.imgur.com/RKDmJDh.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowDrop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ajm7B0M.png",
+	    "thumbUrl": "https://i.imgur.com/Yoxxqth.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pipe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HeX6QCB.png",
+	    "thumbUrl": "https://i.imgur.com/NeoBF8U.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HqnCE4c.png",
+	    "thumbUrl": "https://i.imgur.com/GSc80fU.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSplas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jw187vd.png",
+	    "thumbUrl": "https://i.imgur.com/WAEsoQx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulLeaf1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rv4KgJM.png",
+	    "thumbUrl": "https://i.imgur.com/3BQG2Tp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	   	    
+     {
             "name":"BlackSpiral",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/DbnyBqQ.png",
