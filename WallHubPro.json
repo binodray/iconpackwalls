@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"SmallGalaxy1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/62gs8bI.png",
+	    "thumbUrl": "https://i.imgur.com/NVGNNt3.png",
+            "collections":"minimal,material,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrayCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EUTaGRa.png",
+	    "thumbUrl": "https://i.imgur.com/DcUjCVd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangePlanets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QAbmyeU.png",
+	    "thumbUrl": "https://i.imgur.com/qJZIdWI.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/i929PFm.png",
+	    "thumbUrl": "https://i.imgur.com/C8CIuYZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Mushrooms",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f9KoofB.png",
+	    "thumbUrl": "https://i.imgur.com/632f4wg.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SoftMotion",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/JObPcnC.png",
