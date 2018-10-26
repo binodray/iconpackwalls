@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueRoad",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v80K7xd.png",
+	    "thumbUrl": "https://i.imgur.com/JDNu91s.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelHexa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qYSEcxM.png",
+	    "thumbUrl": "https://i.imgur.com/jobNZqp.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spartas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JhAnaDJ.png",
+	    "thumbUrl": "https://i.imgur.com/u4fCgz9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spartas1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Bou9h83.png",
+	    "thumbUrl": "https://i.imgur.com/32yhVVO.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SquareBox",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3w0vNcH.png",
+	    "thumbUrl": "https://i.imgur.com/6KHyGSa.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SmallGalaxy1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/62gs8bI.png",
