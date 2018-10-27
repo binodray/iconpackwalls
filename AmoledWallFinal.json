@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"RedGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BxhewjN.png",
+	    "thumbUrl": "https://i.imgur.com/AGw98rd.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5iDcW4m.png",
+	    "thumbUrl": "https://i.imgur.com/T0rJ4bf.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AdJuQVB.png",
+	    "thumbUrl": "https://i.imgur.com/pRJFYsr.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MultiGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kPnNFYI.png",
+	    "thumbUrl": "https://i.imgur.com/D4QBgm4.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q1YlSSO.png",
+	    "thumbUrl": "https://i.imgur.com/cxjBPcV.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"SexyGirls1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GqqXIlz.png",
