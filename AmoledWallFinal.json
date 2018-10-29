@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"Autumn6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LNIdtDp.png",
+	    "thumbUrl": "https://i.imgur.com/zfJGdTO.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"House",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aehQD6L.png",
+	    "thumbUrl": "https://i.imgur.com/kKStyYx.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Dandiya2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/15qb9Ez.png",
+	    "thumbUrl": "https://i.imgur.com/wFAL9fL.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"House1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JlcnnBN.png",
+	    "thumbUrl": "https://i.imgur.com/NIcizs6.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkPlanet1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MOi7ARl.png",
+	    "thumbUrl": "https://i.imgur.com/OkIAC8p.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"RedGeo",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/BxhewjN.png",
