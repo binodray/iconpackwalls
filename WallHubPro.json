@@ -39,6 +39,60 @@
     ],
     "Wallpapers":[
       {
+            "name":"Diwali1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8ZRGDwM.png",
+	    "thumbUrl": "https://i.imgur.com/IuWMuIl.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Diwali3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JRhgrEu.png",
+	    "thumbUrl": "https://i.imgur.com/l50CuUT.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenGrades",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/puSnAas.png",
+	    "thumbUrl": "https://i.imgur.com/Pf78i4Y.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueChristmas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JjB9hxO.png",
+	    "thumbUrl": "https://i.imgur.com/VUgpFrS.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Diwali4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RjCu1oA.png",
+	    "thumbUrl": "https://i.imgur.com/6Knn905.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenChristmas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rKRlUiA.jpg",
+	    "thumbUrl": "https://i.imgur.com/hVmq5xJ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueDeer",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ZEW16uR.png",
