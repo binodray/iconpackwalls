@@ -48,6 +48,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"CodeFlow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mqr5eES.png",
+	    "thumbUrl": "https://i.imgur.com/FsC8IrE.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteCones",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zbs7HUq.png",
+	    "thumbUrl": "https://i.imgur.com/uhdM5gW.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Diwali2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MnWcXr6.png",
+	    "thumbUrl": "https://i.imgur.com/E6KqkPz.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenDip1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Geq2Nt8.png",
+	    "thumbUrl": "https://i.imgur.com/4flOSjg.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColoredHexa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YgNfRlO.png",
+	    "thumbUrl": "https://i.imgur.com/WuOleSC.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenDip",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PHblMWX.png",
+	    "thumbUrl": "https://i.imgur.com/WkUZ66z.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Autumn6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/LNIdtDp.png",
