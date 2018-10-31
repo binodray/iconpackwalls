@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenCones",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gPexqxk.png",
+	    "thumbUrl": "https://i.imgur.com/GmkVkCB.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenPolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CcLD2fk.png",
+	    "thumbUrl": "https://i.imgur.com/veM5pAM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Abs3D",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oLVcbOd.png",
+	    "thumbUrl": "https://i.imgur.com/TKS3o1e.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBatsman",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8T2eibV.png",
+	    "thumbUrl": "https://i.imgur.com/ukik6V6.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SplashBatsman",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8KnklSG.png",
+	    "thumbUrl": "https://i.imgur.com/l2kUOs3.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CodeFlow",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mqr5eES.png",
