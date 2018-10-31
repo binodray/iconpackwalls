@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"PolkaWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IHV7S3E.png",
+	    "thumbUrl": "https://i.imgur.com/P6qWxBn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWorms",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6C7ORzf.png",
+	    "thumbUrl": "https://i.imgur.com/e29oUKs.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PupleFlats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8WNPtVZ.png",
+	    "thumbUrl": "https://i.imgur.com/aWfVVd0.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonCircut",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CA8v1nc.png",
+	    "thumbUrl": "https://i.imgur.com/8UdADRK.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleSuit",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jdRC0K3.png",
+	    "thumbUrl": "https://i.imgur.com/fdyMtkT.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Diwali1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/8ZRGDwM.png",
