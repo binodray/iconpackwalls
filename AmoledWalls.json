@@ -48,6 +48,66 @@
     ],
     "Wallpapers":[
       {
+            "name":"LipsBites",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zODthV2.png",
+	    "thumbUrl": "https://i.imgur.com/wJy7lVw.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HuntedCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2Crmtrt.png",
+	    "thumbUrl": "https://i.imgur.com/VNmeUg6.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeFellow1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BCCoMHr.png",
+	    "thumbUrl": "https://i.imgur.com/Wv6VKEp.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BatCat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cEkg4Oe.png",
+	    "thumbUrl": "https://i.imgur.com/7Yk119K.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DeMuertos",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XUDsmFA.png",
+	    "thumbUrl": "https://i.imgur.com/eayTBWO.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
+            "name":"BadassBiker1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NeeT1Q8.png",
+	    "thumbUrl": "https://i.imgur.com/3IWTl8Z.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BadassBiker1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/NeeT1Q8.png",
