@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"WinterFell",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u7FOv6v.png",
+	    "thumbUrl": "https://i.imgur.com/Q1YI5dH.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Loved2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9jH75Yz.png",
+	    "thumbUrl": "https://i.imgur.com/E7xBT7k.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterFell1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/txNRFax.png",
+	    "thumbUrl": "https://i.imgur.com/s3bRL5V.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Loved1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZCtWG8D.png",
+	    "thumbUrl": "https://i.imgur.com/F58DDtq.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Partitions",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Sj5qS1z.png",
+	    "thumbUrl": "https://i.imgur.com/DjBkgXf.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+      {
             "name":"SexyGirl5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/pDw8pie.png",
