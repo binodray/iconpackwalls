@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"WhiteUnicorn",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/X6FTZ6m.png",
+	    "thumbUrl": "https://i.imgur.com/l6Lj4bs.png",
+            "collections":"minimal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Loved",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XEO79Ui.png",
+	    "thumbUrl": "https://i.imgur.com/IOTxjXB.png",
+            "collections":"minimal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Explorer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kYvJzar.png",
+	    "thumbUrl": "https://i.imgur.com/2ZJzppq.png",
+            "collections":"minimal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Catch",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1npuAU0.png",
+	    "thumbUrl": "https://i.imgur.com/nQkBotg.png",
+            "collections":"minimal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMonster",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VY6qpI9.png",
+	    "thumbUrl": "https://i.imgur.com/OcbciRL.png",
+            "collections":"minimal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"SexyGirl7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/hMX27Lj.png",
