@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"BlueBoard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ypsspTO.png",
+	    "thumbUrl": "https://i.imgur.com/OD6cIWu.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedBoard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zxSYKbQ.png",
+	    "thumbUrl": "https://i.imgur.com/10QgyUK.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkBlueBoaods",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4TFSYQw.png",
+	    "thumbUrl": "https://i.imgur.com/GmJXmxx.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenBoard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yPqkwLx.png",
+	    "thumbUrl": "https://i.imgur.com/LWAaYZ6.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrayBoard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6JUEXed.png",
+	    "thumbUrl": "https://i.imgur.com/CnObsPR.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },		    
+     {
             "name":"WinterFell",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/u7FOv6v.png",
