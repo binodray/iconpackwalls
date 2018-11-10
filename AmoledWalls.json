@@ -48,13 +48,63 @@
     ],
     "Wallpapers":[
       {
+            "name":"RedFrackles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/o0V1R8k.png",
+	    "thumbUrl": "https://i.imgur.com/G4vmyRn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3y68ukn.png",
+	    "thumbUrl": "https://i.imgur.com/CR7PfGC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PapaBears",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UPQ9wyg.png",
+	    "thumbUrl": "https://i.imgur.com/tioeHIf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueRiver",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/B8iUeSA.png",
+	    "thumbUrl": "https://i.imgur.com/5W9fIBI.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonChristmas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FWoEbnC.png",
+	    "thumbUrl": "https://i.imgur.com/chVNAbY.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PaintShape2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/zBMvY3M.png",
 	    "thumbUrl": "https://i.imgur.com/K92EnZm.png",
             "collections":"random,simple" ,
             "dimensions":"1440x2560",
-	     "downloadable":false, 
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
