@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"PaintShape7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w9tTfvc.png",
+	    "thumbUrl": "https://i.imgur.com/D5S22Rd.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaintShape9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DvjeWgZ.png",
+	    "thumbUrl": "https://i.imgur.com/zfyO2y1.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaintShape8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DYq70ZT.png",
+	    "thumbUrl": "https://i.imgur.com/O6M6Y2n.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaintShape5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8mZVnMm.png",
+	    "thumbUrl": "https://i.imgur.com/PnbC8FP.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaintShape6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NVNKeud.png",
+	    "thumbUrl": "https://i.imgur.com/vu9Atnt.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"RedFrackles",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/o0V1R8k.png",
