@@ -47,7 +47,57 @@
         }
     ],
     "Wallpapers":[
-       {
+     {
+            "name":"DJBear",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/puBqTXl.png",
+	    "thumbUrl": "https://i.imgur.com/6HZUNj9.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CutePuppy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sqxkBDA.png",
+	    "thumbUrl": "https://i.imgur.com/dllJ2yj.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DJBear2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OAgRHDG.png",
+	    "thumbUrl": "https://i.imgur.com/TlhQ3VY.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DJBear1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aFpOt5K.png",
+	    "thumbUrl": "https://i.imgur.com/2Cr7U8w.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SketShark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/k2Z2ZnB.png",
+	    "thumbUrl": "https://i.imgur.com/YsKWCzA.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Boxings",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3xZy34L.png",
