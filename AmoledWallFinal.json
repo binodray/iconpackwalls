@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"PhotoGhraper",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EKRgeiF.png",
+	    "thumbUrl": "https://i.imgur.com/KwoZlMy.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BaseBaalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mnzfc7k.png",
+	    "thumbUrl": "https://i.imgur.com/wUPmyIA.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gym",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YOGoOul.png",
+	    "thumbUrl": "https://i.imgur.com/JchmH5T.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SportsShoe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QUNANsN.png",
+	    "thumbUrl": "https://i.imgur.com/Pkaqhf3.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cunstructions",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4NkF7hZ.png",
+	    "thumbUrl": "https://i.imgur.com/6QTwNkJ.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"CutieFox",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bI1hxA4.png",
