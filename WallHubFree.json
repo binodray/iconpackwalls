@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
     {
+            "name":"GreenIsland",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fXJkQbU.png",
+	    "thumbUrl": "https://i.imgur.com/GcC2B6J.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ModernBuilng",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LXcQC2v.png",
+	    "thumbUrl": "https://i.imgur.com/uhxYrPf.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Woods",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7ck5Xku.png",
+	    "thumbUrl": "https://i.imgur.com/k57CfZ7.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MountainBiker",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tCPfCVY.png",
+	    "thumbUrl": "https://i.imgur.com/uyuv4mI.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4K3mGJU.png",
+	    "thumbUrl": "https://i.imgur.com/WEhiXep.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AbstractGate",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/y8nx7D7.png",
