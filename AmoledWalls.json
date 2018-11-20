@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"MinimalBear",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BzIbzUj.png",
+	    "thumbUrl": "https://i.imgur.com/zMgUimi.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	     "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalCiti",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WfkIVka.png",
+	    "thumbUrl": "https://i.imgur.com/77CcsZA.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalRides",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hKZbIvq.png",
+	    "thumbUrl": "https://i.imgur.com/Z8LrKvs.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalHome",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NX2eTVY.png",
+	    "thumbUrl": "https://i.imgur.com/1hR96pS.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FMXZW0b.png",
+	    "thumbUrl": "https://i.imgur.com/jovX6Dd.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+      {
             "name":"MusicControler",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xiUf7WW.png",
