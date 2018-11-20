@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"SimpleGreen",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qeYxUTB.png",
+	    "thumbUrl": "https://i.imgur.com/fDGGVq9.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LAUCWN5.png",
+	    "thumbUrl": "https://i.imgur.com/WiuGiYf.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleWaves1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2dPLiO4.png",
+	    "thumbUrl": "https://i.imgur.com/eAUQy6A.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleDesign",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GTiwa8e.png",
+	    "thumbUrl": "https://i.imgur.com/C9xdMeF.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleDesign2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hQt3n78.png",
+	    "thumbUrl": "https://i.imgur.com/YDQii1x.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueHoles1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/I3bYp8s.png",
