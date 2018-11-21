@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueFalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AYKaFKa.png",
+	    "thumbUrl": "https://i.imgur.com/oup4kuD.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkFalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HAuhOiH.png",
+	    "thumbUrl": "https://i.imgur.com/bVWyoYx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SideFalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LJdIZNZ.png",
+	    "thumbUrl": "https://i.imgur.com/t4LsKSA.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CyanFalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/e5SwWDo.png",
+	    "thumbUrl": "https://i.imgur.com/l0QhERn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FireFalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DrSeRIR.png",
+	    "thumbUrl": "https://i.imgur.com/u8yKVMm.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"MinimalBear",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/BzIbzUj.png",
