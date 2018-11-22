@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
     {
+            "name":"Ai",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bHnwzOy.png",
+	    "thumbUrl": "https://i.imgur.com/Aq51JOD.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines22",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9PqbeAJ.png",
+	    "thumbUrl": "https://i.imgur.com/wSTN7Jr.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines24",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/X9vFwMi.png",
+	    "thumbUrl": "https://i.imgur.com/CDxXfxk.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines23",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TvzckF0.png",
+	    "thumbUrl": "https://i.imgur.com/1jf6GM6.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oOlFTzt.png",
+	    "thumbUrl": "https://i.imgur.com/lNnZVzz.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"FadedLiquid",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xU2ZOwo.png",
