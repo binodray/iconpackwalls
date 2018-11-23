@@ -37,7 +37,57 @@
         }
     ],
     "Wallpapers":[
-    {
+     {
+            "name":"Dogss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1cbMmYV.png",
+	    "thumbUrl": "https://i.imgur.com/ce1bTXZ.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Birdiess",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ImIZgkJ.png",
+	    "thumbUrl": "https://i.imgur.com/u0iWy7p.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FolkSongs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/77c8Ee2.png",
+	    "thumbUrl": "https://i.imgur.com/nwWNZdP.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Foodss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2hzAKIc.png",
+	    "thumbUrl": "https://i.imgur.com/AV27Z6N.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Friend",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uob6H2w.png",
+	    "thumbUrl": "https://i.imgur.com/vHIhZl7.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Ai",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bHnwzOy.png",
