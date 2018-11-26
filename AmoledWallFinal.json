@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"ShyFox",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TISsiBS.png",
+	    "thumbUrl": "https://i.imgur.com/MAJ00yl.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShyMonkey",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r6nt1ib.png",
+	    "thumbUrl": "https://i.imgur.com/xxvu7pn.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TigerRoars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lz5yFzp.png",
+	    "thumbUrl": "https://i.imgur.com/qWarFU1.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PrideTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/otdJ4qK.png",
+	    "thumbUrl": "https://i.imgur.com/XX8fIM7.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TigerWalks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pCwSKWj.png",
+	    "thumbUrl": "https://i.imgur.com/Tba8Gi7.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CrystalsFive",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sfLvwW4.png",
