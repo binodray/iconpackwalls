@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"Beautifulmermaid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R015MC2.png",
+	    "thumbUrl": "https://i.imgur.com/JKY6Pja.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineCity",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vs7hnpK.png",
+	    "thumbUrl": "https://i.imgur.com/T9YcIrx.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalSatallite",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lsHY1sH.png",
+	    "thumbUrl": "https://i.imgur.com/OpXTpaU.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Wanderer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NgddWJx.png",
+	    "thumbUrl": "https://i.imgur.com/EpS8ohn.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hs4hkoq.png",
+	    "thumbUrl": "https://i.imgur.com/vm5AWe6.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"ShyFox",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TISsiBS.png",
