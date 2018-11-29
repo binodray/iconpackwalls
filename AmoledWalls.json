@@ -48,6 +48,61 @@
     ],
     "Wallpapers":[
       {
+            "name":"Flemingoss",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QT1q2P9.png",
+	    "thumbUrl": "https://i.imgur.com/AKrPukG.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BigsBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fZfuL8I.png",
+	    "thumbUrl": "https://i.imgur.com/SUn2byS.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/udcNlya.png",
+	    "thumbUrl": "https://i.imgur.com/aRFJbNp.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VibrantJunle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6hJpch3.png",
+	    "thumbUrl": "https://i.imgur.com/kF6Qdiu.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VibrantJungle2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sowrJS3.png",
+	    "thumbUrl": "https://i.imgur.com/m7hO8v6.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"BarikLines",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/XNvEedE.png",
