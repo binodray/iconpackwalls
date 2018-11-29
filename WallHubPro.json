@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"RedAbstracts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KJ2OIDI.png",
+	    "thumbUrl": "https://i.imgur.com/tRMOBeY.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VibrantJunle1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tLpKLQR.png",
+	    "thumbUrl": "https://i.imgur.com/3Qovz4L.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluesPastel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/O4uwz1d.png",
+	    "thumbUrl": "https://i.imgur.com/hxp0Zs5.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowSuns",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SlzwbVp.png",
+	    "thumbUrl": "https://i.imgur.com/plxwWGm.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KcvWZtN.png",
+	    "thumbUrl": "https://i.imgur.com/zA374nz.png",
+            "collections":"simple,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BigChrists",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/EVG2j2t.png",
