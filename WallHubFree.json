@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BigChrists",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EVG2j2t.png",
+	    "thumbUrl": "https://i.imgur.com/XxRS16x.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TiltedTower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p9uITeg.png",
+	    "thumbUrl": "https://i.imgur.com/NBnJMj9.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Kela",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bYWiwfG.png",
+	    "thumbUrl": "https://i.imgur.com/QdqHVu5.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatsEiffe",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DqpEQnU.png",
+	    "thumbUrl": "https://i.imgur.com/oVe4OGW.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatLiberty",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lO3Ofwi.png",
+	    "thumbUrl": "https://i.imgur.com/vgdfnRm.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AbstractsCubes",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/erGCOHB.png",
