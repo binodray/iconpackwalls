@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BarikLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XNvEedE.png",
+	    "thumbUrl": "https://i.imgur.com/tqb9QlG.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cerpent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pt5r7V7.png",
+	    "thumbUrl": "https://i.imgur.com/R3uZK3o.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MobileGeek",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SlcBhi5.png",
+	    "thumbUrl": "https://i.imgur.com/IRrHjiw.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MorePankh",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7MnPVNS.png",
+	    "thumbUrl": "https://i.imgur.com/q0bbC5y.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteParrot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SoCcJIR.png",
+	    "thumbUrl": "https://i.imgur.com/eGcSy1H.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Beautifulmermaid",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/R015MC2.png",
