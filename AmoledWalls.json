@@ -55,7 +55,6 @@
             "collections":"quirky,simple,random,minimal" ,
             "dimensions":"1440x2560",
 	    "downloadable":false, 
-	    "downloadable":false,  
 	    "copyright":"Personal Use" 
      },
      {
@@ -65,7 +64,6 @@
 	    "thumbUrl": "https://i.imgur.com/SUn2byS.png",
             "collections":"quirky,simple,random,minimal" ,
             "dimensions":"1440x2560",
-	    "downloadable":false, 
 	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
@@ -77,7 +75,6 @@
             "collections":"quirky,simple,random,minimal" ,
             "dimensions":"1440x2560",
 	    "downloadable":false,  
-	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -88,7 +85,6 @@
             "collections":"quirky,simple,random,minimal" ,
             "dimensions":"1440x2560",
 	    "downloadable":false,  
-	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -98,7 +94,6 @@
 	    "thumbUrl": "https://i.imgur.com/m7hO8v6.png",
             "collections":"quirky,simple,random,minimal" ,
             "dimensions":"1440x2560",
-	    "downloadable":false, 
 	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },	    
