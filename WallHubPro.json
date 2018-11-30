@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"InnocentTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/671n4Rm.png",
+	    "thumbUrl": "https://i.imgur.com/bcPOp95.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LiveTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3sJ71FY.png",
+	    "thumbUrl": "https://i.imgur.com/p7XL9Mp.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmazingLand",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vlr1PZT.png",
+	    "thumbUrl": "https://i.imgur.com/nu2gfyG.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChristmasGifts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LzOaNks.png",
+	    "thumbUrl": "https://i.imgur.com/WOq0qpb.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrnageTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aUrdlga.png",
+	    "thumbUrl": "https://i.imgur.com/7shH2pq.png",
+            "collections":"simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"RedAbstracts",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/KJ2OIDI.png",
