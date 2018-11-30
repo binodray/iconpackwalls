@@ -48,6 +48,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"ColorfulTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aMvBNap.png",
+	    "thumbUrl": "https://i.imgur.com/TsBD7zG.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SweetTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BmBfaXs.png",
+	    "thumbUrl": "https://i.imgur.com/LMCXPS3.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Infinities",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TJodiB9.png",
+	    "thumbUrl": "https://i.imgur.com/N9qGBH2.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Laptops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/S8uARxH.png",
+	    "thumbUrl": "https://i.imgur.com/dIPM26V.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Roars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MOHSsSR.png",
+	    "thumbUrl": "https://i.imgur.com/NzL7oc4.png",
+            "collections":"quirky,simple,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	     
+     {
             "name":"Flemingoss",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/QT1q2P9.png",
