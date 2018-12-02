@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LittleFoxs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9JK9WSh.png",
+	    "thumbUrl": "https://i.imgur.com/nkE4075.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelPandas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bPY7QQt.png",
+	    "thumbUrl": "https://i.imgur.com/yT3cMWJ.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenBulb",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bwPBYUy.png",
+	    "thumbUrl": "https://i.imgur.com/mCuFUbN.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlitterWorld",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fEgLCRo.png",
+	    "thumbUrl": "https://i.imgur.com/wwZ9OGL.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CrazySanta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XgTIMYO.png",
+	    "thumbUrl": "https://i.imgur.com/pC5ALLm.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorfulTiger",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/aMvBNap.png",
