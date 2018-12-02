@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlackTiger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JBwHGX2.png",
+	    "thumbUrl": "https://i.imgur.com/nuZdWgq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLines6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LVtif6o.png",
+	    "thumbUrl": "https://i.imgur.com/6D5t8gE.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueHue",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z2YgQFz.png",
+	    "thumbUrl": "https://i.imgur.com/rdbnlzW.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ImageGallrey",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4jqSOSo.png",
+	    "thumbUrl": "https://i.imgur.com/CV3yFfW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LittileUnicorn",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VxaYvVW.png",
+	    "thumbUrl": "https://i.imgur.com/cmXBckQ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"InnocentTiger",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/671n4Rm.png",
