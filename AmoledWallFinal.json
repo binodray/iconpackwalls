@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Church",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vuh4usd.png",
+	    "thumbUrl": "https://i.imgur.com/pvai36J.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Pyramid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4hgZxsw.png",
+	    "thumbUrl": "https://i.imgur.com/UixVZ7C.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Roman",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rkqSx6R.png",
+	    "thumbUrl": "https://i.imgur.com/G70bScG.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Asia",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SYqnJ8r.png",
+	    "thumbUrl": "https://i.imgur.com/lk8iW0I.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CityEscape",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/a29q8og.png",
+	    "thumbUrl": "https://i.imgur.com/OCtTz8h.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"LittleFoxs",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/9JK9WSh.png",
