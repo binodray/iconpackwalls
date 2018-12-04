@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"PastelsWaves3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4Vvv6Ao.png",
+	    "thumbUrl": "https://i.imgur.com/0KgiwAb.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dmT1yH.png",
+	    "thumbUrl": "https://i.imgur.com/TLMLwWp.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fL2hH1N.png",
+	    "thumbUrl": "https://i.imgur.com/PhQTgeA.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0rMt4GA.png",
+	    "thumbUrl": "https://i.imgur.com/bfIVq8I.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9kS927G.png",
+	    "thumbUrl": "https://i.imgur.com/cbcBa7m.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"WinterPaws",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/vUmb186.png",
