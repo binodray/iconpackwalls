@@ -48,6 +48,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AmoledBlue",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4fzLmGk.png",
+	    "thumbUrl": "https://i.imgur.com/6NhCO0a.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowCar",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LNGEv7N.png",
+	    "thumbUrl": "https://i.imgur.com/9bbUQVO.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"InfinityPastle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/53xPnSY.png",
+	    "thumbUrl": "https://i.imgur.com/0R67mB5.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenTree",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mif9tj7.png",
+	    "thumbUrl": "https://i.imgur.com/DeVFW4g.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackPlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GF0fVVi.png",
+	    "thumbUrl": "https://i.imgur.com/QXKtaXy.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Church",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Vuh4usd.png",
