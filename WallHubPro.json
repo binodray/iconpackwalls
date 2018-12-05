@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GamePlay7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/k1B3hgI.png",
+	    "thumbUrl": "https://i.imgur.com/9HdwW1F.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GameZone",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EJGQT84.png",
+	    "thumbUrl": "https://i.imgur.com/zPeG18c.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9ObAF7c.png",
+	    "thumbUrl": "https://i.imgur.com/H6KuoaP.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v4rCBeE.png",
+	    "thumbUrl": "https://i.imgur.com/3nYQJ5X.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nA2cvXT.png",
+	    "thumbUrl": "https://i.imgur.com/jpEUDxk.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PastelsWaves3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/4Vvv6Ao.png",
