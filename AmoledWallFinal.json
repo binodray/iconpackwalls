@@ -47,7 +47,51 @@
         }
     ],
     "Wallpapers":[
-     	    
+     {
+            "name":"GamePlay",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4bOmJ9K.png",
+	    "thumbUrl": "https://i.imgur.com/MzOeWCC.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/I76FqzU.png",
+	    "thumbUrl": "https://i.imgur.com/sb55rXG.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Zj57sEO.png",
+	    "thumbUrl": "https://i.imgur.com/wFqrFEr.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5Bmk6YQ.png",
+	    "thumbUrl": "https://i.imgur.com/yNCj9vh.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlay2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qSojLwh.png",
+	    "thumbUrl": "https://i.imgur.com/0FlwtRr.png",
+            "collections":"quirky,minimal,random,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"AmoledBlue",
       	    "author":"Binod Ray",
