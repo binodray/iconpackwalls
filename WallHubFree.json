@@ -38,6 +38,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"ChristmasDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MKLYqQ1.png",
+	    "thumbUrl": "https://i.imgur.com/jTNWVYY.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SepiaCity",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/s1PNpOU.png",
+	    "thumbUrl": "https://i.imgur.com/KFldwuL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlossySquare",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XO8kr0Q.png",
+	    "thumbUrl": "https://i.imgur.com/JarGAS9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Relaxation",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Idtacb1.png",
+	    "thumbUrl": "https://i.imgur.com/afIBJnZ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperPlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XEYpx7a.png",
+	    "thumbUrl": "https://i.imgur.com/UZAONeu.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GamePlay7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/k1B3hgI.png",
