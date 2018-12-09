@@ -22,6 +22,145 @@
     }
   ],
   "Wallpapers": [
+      {       
+            "name":"Infrared3",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/FEbbE0O.png",
+            "collections":"xwalls",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Infrared4",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/NMl3U6T.png",
+            "collections":"xwalls,random,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },	  
+      {       
+            "name":"Blured13",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/VGvNHrW.png",
+            "collections":"xwalls,random,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured14",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/83vOqyh.png",
+            "collections":"xwalls,random,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },
+        {       
+            "name":"Blured15",
+            "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ou6jAFI.png",
+            "collections":"xwalls,random,featured",
+            "dimensions":"1440x2560",
+            "copyright":"Personal Use"           
+        },	  
+     {
+            "name":"PastelsWaves3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4Vvv6Ao.png",
+	    "thumbUrl": "https://i.imgur.com/0KgiwAb.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0dmT1yH.png",
+	    "thumbUrl": "https://i.imgur.com/TLMLwWp.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fL2hH1N.png",
+	    "thumbUrl": "https://i.imgur.com/PhQTgeA.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0rMt4GA.png",
+	    "thumbUrl": "https://i.imgur.com/bfIVq8I.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelsWaves1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9kS927G.png",
+	    "thumbUrl": "https://i.imgur.com/cbcBa7m.png",
+            "collections":"material,xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	  
+     {
+            "name":"Xwalls6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kxor0Va.png",
+	    "thumbUrl": "https://i.imgur.com/ZSd1XTK.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d8UfCL4.png",
+	    "thumbUrl": "https://i.imgur.com/0BXIsx8.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qj65gMt.png",
+	    "thumbUrl": "https://i.imgur.com/A7nFZe4.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J6rIAy2.png",
+	    "thumbUrl": "https://i.imgur.com/Lv4waj7.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3XXk2cg.png",
+	    "thumbUrl": "https://i.imgur.com/HlU28x9.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AOn29yW.png",
+	    "thumbUrl": "https://i.imgur.com/xxDbnqo.png",
+            "collections":"xwalls,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	  
      {
             "name":"OrangeChita",
       	    "author":"Binod Ray",
