@@ -39,6 +39,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LightCurve",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WKhcomA.png",
+	    "thumbUrl": "https://i.imgur.com/xJnXP7K.png",
+            "collections":"random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls61",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uKkBvbf.png",
+	    "thumbUrl": "https://i.imgur.com/OwJM7FD.png",
+            "collections":"random,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls63",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9jtfFz8.png",
+	    "thumbUrl": "https://i.imgur.com/GPoifFo.png",
+            "collections":"random,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowGlitch",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R0VJKVU.png",
+	    "thumbUrl": "https://i.imgur.com/upljTN2.png",
+            "collections":"random,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls62",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HAtUBFv.png",
+	    "thumbUrl": "https://i.imgur.com/R9Jo5II.png",
+            "collections":"random,xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ChristmasDeer",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/MKLYqQ1.png",
