@@ -47,7 +47,57 @@
         }
     ],
     "Wallpapers":[
-      {
+       {
+            "name":"HowtoMen2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0xKKOTM.png",
+	    "thumbUrl": "https://i.imgur.com/NuQDe8h.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HowtoMen3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eUUFKaW.png",
+	    "thumbUrl": "https://i.imgur.com/H2pmI7Y.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HowtoMen1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SB3ygOu.png",
+	    "thumbUrl": "https://i.imgur.com/mRpoyyF.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HowtoMen5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sGtfeWq.png",
+	    "thumbUrl": "https://i.imgur.com/61eDS0A.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EzTech1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8sCq0wy.png",
+	    "thumbUrl": "https://i.imgur.com/xJqO5bD.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ChristmasLightChain",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Z5zSUV1.png",
