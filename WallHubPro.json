@@ -39,6 +39,42 @@
     ],
     "Wallpapers":[
      {
+            "name":"EzTech2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lJ1ZOgZ.png",
+	    "thumbUrl": "https://i.imgur.com/BHexsEn.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EzTech4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hzS8ymm.png",
+	    "thumbUrl": "https://i.imgur.com/suOmnaR.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EzTech3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RGR7RtN.png",
+	    "thumbUrl": "https://i.imgur.com/QS30ziz.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HowtoMen4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dJCSNmc.png",
+	    "thumbUrl": "https://i.imgur.com/r7mVXtc.png",
+            "collections":"youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BigSantas",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Zeh9ceu.png",
