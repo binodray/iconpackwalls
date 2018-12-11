@@ -48,6 +48,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"ChristmasLightChain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z5zSUV1.png",
+	    "thumbUrl": "https://i.imgur.com/V8oosWZ.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MerryChristmas3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/H9ppGCo.png",
+	    "thumbUrl": "https://i.imgur.com/F5qIMog.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MerryChristmas5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ivzymlU.png",
+	    "thumbUrl": "https://i.imgur.com/BhUv4hK.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MerryChristmas2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fnI2Nhu.png",
+	    "thumbUrl": "https://i.imgur.com/txZWnZ3.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MerryChristmas1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XSkVB1o.png",
+	    "thumbUrl": "https://i.imgur.com/bLdOWov.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MerryChristmas4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hcf7mnE.png",
+	    "thumbUrl": "https://i.imgur.com/02GzSbP.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChristmasTrees6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cMDzYw4.png",
+	    "thumbUrl": "https://i.imgur.com/N9yNefw.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonsChristmas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0esyGpY.png",
+	    "thumbUrl": "https://i.imgur.com/D9bcexS.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChristmasNeons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z5Mqm1q.png",
+	    "thumbUrl": "https://i.imgur.com/SRnt6iI.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChristmasBalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YSPFIOm.png",
+	    "thumbUrl": "https://i.imgur.com/cCycvZ3.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DarkJungle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/w2KkjVB.png",
