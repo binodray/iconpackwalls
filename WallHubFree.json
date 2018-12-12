@@ -37,6 +37,56 @@
         }
     ],
     "Wallpapers":[
+	{
+            "name":"MKBHD3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ypb9F8l.png",
+	    "thumbUrl": "https://i.imgur.com/6AtV5lr.png",
+            "collections":"minimal,simple,youtuber,featured" ,
+            "dimensions":"1440x2560",
+            "downloadable":false,		
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LittleMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cBJnqki.png",
+	    "thumbUrl": "https://i.imgur.com/eQNkQfe.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CleanBridge",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/H2aQYyZ.png",
+	    "thumbUrl": "https://i.imgur.com/E2LQ9mY.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ClearSkyCamp",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pbvLXDr.png",
+	    "thumbUrl": "https://i.imgur.com/ngVYOjc.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientGraveYard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PFVtx1M.png",
+	    "thumbUrl": "https://i.imgur.com/sgmheo0.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },     
        {
             "name":"EzTech2",
       	    "author":"Binod Ray",
