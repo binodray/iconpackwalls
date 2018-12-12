@@ -36,10 +36,15 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"Flower",
+            "name":"Youtubers",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
+	{
+            "name":"Flower",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },    
         {
             "name":"Random",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
@@ -52,7 +57,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/tlFxNWn.png",
 	    "thumbUrl": "https://i.imgur.com/G6Q12yz.png",
-            "collections":"minimal,simple,youtuber" ,
+            "collections":"minimal,simple,youtubers" ,
             "dimensions":"1440x2560",
 	    "downloadable":false,  
 	    "copyright":"Personal Use" 
@@ -62,7 +67,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/PuIycNS.png",
 	    "thumbUrl": "https://i.imgur.com/X9cr3wV.png",
-            "collections":"minimal,simple,youtuber,featured" ,
+            "collections":"minimal,simple,youtubers,featured" ,
             "dimensions":"1440x2560",
 	    "downloadable":false, 
 	    "copyright":"Personal Use" 
@@ -72,7 +77,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/dKsghcF.png",
 	    "thumbUrl": "https://i.imgur.com/FSyoaMd.png",
-            "collections":"minimal,simple,youtuber" ,
+            "collections":"minimal,simple,youtubers" ,
             "dimensions":"1440x2560",
 	    "downloadable":false, 
 	    "copyright":"Personal Use" 
