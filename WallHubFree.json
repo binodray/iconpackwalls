@@ -25,6 +25,11 @@
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
+	{
+            "name":"Youtubers",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },    
         {
             "name":"Liquid",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
@@ -42,7 +47,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Ypb9F8l.png",
 	    "thumbUrl": "https://i.imgur.com/6AtV5lr.png",
-            "collections":"minimal,simple,youtuber,featured" ,
+            "collections":"minimal,simple,youtubers,featured" ,
             "dimensions":"1440x2560",
             "downloadable":false,		
 	    "copyright":"Personal Use" 
