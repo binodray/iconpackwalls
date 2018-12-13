@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
 	{
+            "name":"GoldenTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HigOJhR.png",
+	    "thumbUrl": "https://i.imgur.com/AXAOs5m.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,	
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pLO83Yk.png",
+	    "thumbUrl": "https://i.imgur.com/jTewO2C.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveTreess",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5Bejz6c.png",
+	    "thumbUrl": "https://i.imgur.com/RXVhMlf.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenGradient",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sRZ1cmy.png",
+	    "thumbUrl": "https://i.imgur.com/GdK8Yb5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MilindGoel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IbOnHZ4.png",
+	    "thumbUrl": "https://i.imgur.com/0c9VeZ4.png",
+            "collections":"minimal,simple,youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"MKBHD3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Ypb9F8l.png",
