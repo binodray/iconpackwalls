@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LaserCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NylCXRS.png",
+	    "thumbUrl": "https://i.imgur.com/uhB0ycL.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteTeddys",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rIFYe8z.png",
+	    "thumbUrl": "https://i.imgur.com/jtKyLrP.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WInterHere",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LU0Y4DF.png",
+	    "thumbUrl": "https://i.imgur.com/0NNqIBQ.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MilindGoel1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t12eAzx.png",
+	    "thumbUrl": "https://i.imgur.com/cuy9EOJ.png",
+            "collections":"minimal,simple,youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WintersDeers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KfHDnam.png",
+	    "thumbUrl": "https://i.imgur.com/9HqH8F2.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"HowtoMen6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/tlFxNWn.png",
