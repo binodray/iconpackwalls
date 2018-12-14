@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AndroidAuthority",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZwGhfuP.png",
+	    "thumbUrl": "https://i.imgur.com/skiSiJW.png",
+            "collections":"minimal,simple,featured,youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spirals18",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dzT9CsI.png",
+	    "thumbUrl": "https://i.imgur.com/sqANyX7.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spirals19",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hRMDqHT.png",
+	    "thumbUrl": "https://i.imgur.com/OYUSDBQ.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spirals20",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zEidm1W.png",
+	    "thumbUrl": "https://i.imgur.com/kwupROI.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeeenNets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oHj6I2e.png",
+	    "thumbUrl": "https://i.imgur.com/Dkxph2w.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"LaserCats",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/NylCXRS.png",
