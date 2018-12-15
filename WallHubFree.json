@@ -42,7 +42,57 @@
         }
     ],
     "Wallpapers":[
-	{
+     {
+            "name":"ColorfulBrains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sTBnmeO.png",
+	    "thumbUrl": "https://i.imgur.com/wGXcKnd.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+    {
+            "name":"ColorfulMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TKhSeIt.png",
+	    "thumbUrl": "https://i.imgur.com/XkQME8r.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceMonsters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yDPfTdG.png",
+	    "thumbUrl": "https://i.imgur.com/L8oRPoc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MoonRides",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dyk1Rga.png",
+	    "thumbUrl": "https://i.imgur.com/pLGSkgn.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AHpBOD4.png",
+	    "thumbUrl": "https://i.imgur.com/b3rQ13O.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AbstractCircle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/4eQzHzo.png",
