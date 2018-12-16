@@ -42,6 +42,56 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"AndroidPolice1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A3CiXRq.png",
+	    "thumbUrl": "https://i.imgur.com/044ciXd.png",
+            "collections":"minimal,random,feature" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BoringHomescreen1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u4nhE4M.png",
+	    "thumbUrl": "https://i.imgur.com/HDXnXJZ.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMountain1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ni7HDUV.png",
+	    "thumbUrl": "https://i.imgur.com/2RPPwkY.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"UnboxTherapy2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/63rgaiy.png",
+	    "thumbUrl": "https://i.imgur.com/bNh9pSO.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalChristmas2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3dcjJff.png",
+	    "thumbUrl": "https://i.imgur.com/67AyuIM.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"ColorfulBrains",
       	    "author":"Binod Ray",
@@ -52,7 +102,7 @@
 	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
-    {
+     {
             "name":"ColorfulMaps",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TKhSeIt.png",
