@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AndroidPolice2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/i7dUMVR.png",
+	    "thumbUrl": "https://i.imgur.com/VWa8Ivl.png",
+            "collections":"minimal,random,feature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalChrishtmas1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BAV1wgL.png",
+	    "thumbUrl": "https://i.imgur.com/UZOJwUD.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"UnboxTherapy3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XDLeT0P.png",
+	    "thumbUrl": "https://i.imgur.com/UZOJwUD.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BoringHomescreen2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oNYreUv.png",
+	    "thumbUrl": "https://i.imgur.com/sEAoAfM.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"UnboxTherapy1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/y7P0BFZ.png",
+	    "thumbUrl": "https://i.imgur.com/oLOVix8.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"SpaceWaves",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bBt2JYz.png",
