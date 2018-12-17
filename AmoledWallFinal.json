@@ -53,11 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenLizzard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yZyPzMi.png",
+	    "thumbUrl": "https://i.imgur.com/MjSxGfY.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalDragon1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t1QSpMk.png",
+	    "thumbUrl": "https://i.imgur.com/toPWJZT.png",
+            "collections":"minimal,random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Flokdx.png",
+	    "thumbUrl": "https://i.imgur.com/AmwOeGm.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeBetta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R9eA8oH.png",
+	    "thumbUrl": "https://i.imgur.com/VNZYARv.png",
+            "collections":"minimal,random.nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ScaryCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3o2vJ1X.png",
+	    "thumbUrl": "https://i.imgur.com/eA5EasK.png",
+            "collections":"minimal,random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },  	    
+     {
             "name":"AndroidPolice2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/i7dUMVR.png",
 	    "thumbUrl": "https://i.imgur.com/VWa8Ivl.png",
-            "collections":"minimal,random,feature" ,
+            "collections":"minimal,random,featured" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
