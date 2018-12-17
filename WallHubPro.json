@@ -44,11 +44,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"CuteFox2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0hMgFCX.png",
+	    "thumbUrl": "https://i.imgur.com/Y3EufAQ.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalDragons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RJH6LC0.png",
+	    "thumbUrl": "https://i.imgur.com/b3JHxUW.png",
+            "collections":"minimal,random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ScaryMan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d6QjhWW.png",
+	    "thumbUrl": "https://i.imgur.com/1WX5T3c.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CutePupper",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3HVpxfP.png",
+	    "thumbUrl": "https://i.imgur.com/eFFMT0q.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ou0OgEd.png",
+	    "thumbUrl": "https://i.imgur.com/JUxTPgs.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },  	    
+     {
             "name":"AndroidPolice1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/A3CiXRq.png",
 	    "thumbUrl": "https://i.imgur.com/044ciXd.png",
-            "collections":"minimal,random,feature" ,
+            "collections":"minimal,random,featured" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
