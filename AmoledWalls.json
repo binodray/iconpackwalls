@@ -52,6 +52,56 @@
         }
     ],
     "Wallpapers":[
+       {
+            "name":"WavyPolkas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yuu4LP1.png",
+	    "thumbUrl": "https://i.imgur.com/Q0IXxCk.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Watchers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4BlXRob.png",
+	    "thumbUrl": "https://i.imgur.com/2jvJZUd.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CockTailParty",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ia09Bu9.png",
+	    "thumbUrl": "https://i.imgur.com/lawfW7C.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulSpirals",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7iL56J6.png",
+	    "thumbUrl": "https://i.imgur.com/YclhL1W.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MusicalNight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3SF3YyT.png",
+	    "thumbUrl": "https://i.imgur.com/JH9Jz0j.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
       {
             "name":"GreenLizzard",
       	    "author":"Binod Ray",
