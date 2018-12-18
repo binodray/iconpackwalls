@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LovelyOwls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2LN8CWl.png",
+	    "thumbUrl": "https://i.imgur.com/LK9L0TR.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LovelyFlemingo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9IKaPpF.png",
+	    "thumbUrl": "https://i.imgur.com/77miNP6.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LovelyPandas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6vnNFMd.png",
+	    "thumbUrl": "https://i.imgur.com/vbRAQq4.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SantaKnowcking",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7fcxh47.png",
+	    "thumbUrl": "https://i.imgur.com/niM1wWG.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LovelyPeagon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pT3eVjF.png",
+	    "thumbUrl": "https://i.imgur.com/4odMyJH.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"CuteFox2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/0hMgFCX.png",
