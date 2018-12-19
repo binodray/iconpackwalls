@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
        {
+            "name":"BrightBubbles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XYwAqxP.png",
+	    "thumbUrl": "https://i.imgur.com/vaUL25I.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lJEEZ1b.png",
+	    "thumbUrl": "https://i.imgur.com/lwy4bEC.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientLeaf20",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vfQUYVL.png",
+	    "thumbUrl": "https://i.imgur.com/lYToixq.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelGradent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R9pi3lz.png",
+	    "thumbUrl": "https://i.imgur.com/eeQ5iSL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Defocused",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PLJWxWh.png",
+	    "thumbUrl": "https://i.imgur.com/sYXJAaK.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"LovelyOwls",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2LN8CWl.png",
