@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueStars1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ll4Zso7.png",
+	    "thumbUrl": "https://i.imgur.com/B9S3YIH.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalFlakes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/raPVn2U.png",
+	    "thumbUrl": "https://i.imgur.com/hV3t3mR.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LinesWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yWx8yVx.png",
+	    "thumbUrl": "https://i.imgur.com/a90B68o.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WQbIH50.png",
+	    "thumbUrl": "https://i.imgur.com/9fGAN9X.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLines4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v7nLDG2.png",
+	    "thumbUrl": "https://i.imgur.com/5ikcx89.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"WavyPolkas",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/yuu4LP1.png",
