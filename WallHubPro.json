@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"DayTimes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/83bPGfZ.png",
+	    "thumbUrl": "https://i.imgur.com/UU1H5uK.png",
+            "collections":"simple,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Jumps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VoobcU6.png",
+	    "thumbUrl": "https://i.imgur.com/fj95BRr.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalJungle1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yjFw59d.png",
+	    "thumbUrl": "https://i.imgur.com/ay8zelE.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMountain1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9AqGcuw.png",
+	    "thumbUrl": "https://i.imgur.com/6QyKlbu.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLakes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/46LMf9j.png",
+	    "thumbUrl": "https://i.imgur.com/lBrILQV.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NightTimes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zWbOEOX.png",
+	    "thumbUrl": "https://i.imgur.com/uFrMJnv.png",
+            "collections":"simple,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BrightBubbles",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/XYwAqxP.png",
