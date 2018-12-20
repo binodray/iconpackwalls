@@ -52,7 +52,57 @@
         }
     ],
     "Wallpapers":[
-        {
+      {
+            "name":"BlueMountaain3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZdOKRQS.png",
+	    "thumbUrl": "https://i.imgur.com/0ArgGNw.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hungers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FMkdZzW.png",
+	    "thumbUrl": "https://i.imgur.com/fsTWqjT.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ElephantHurd",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YGhm2B2.png",
+	    "thumbUrl": "https://i.imgur.com/4ajTjqd.png",
+            "collections":"nature,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowMountain3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ObVv4lV.png",
+	    "thumbUrl": "https://i.imgur.com/uAr31jp.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Whales",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WCMnAhh.png",
+	    "thumbUrl": "https://i.imgur.com/7rMJ2Kn.png",
+            "collections":"random,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueStars1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ll4Zso7.png",
