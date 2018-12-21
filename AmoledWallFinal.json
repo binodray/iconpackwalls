@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"FireMelt",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ax6wMPC.png",
+	    "thumbUrl": "https://i.imgur.com/oXwWVQZ.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlowingPad",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UimK8Vw.png",
+	    "thumbUrl": "https://i.imgur.com/2A0LYEO.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePolkas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZC5uYJh.png",
+	    "thumbUrl": "https://i.imgur.com/tBDCsoh.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FireSides",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/H3MaGgr.png",
+	    "thumbUrl": "https://i.imgur.com/EybytMH.png",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSahdes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cZ9Z9L5.png",
+	    "thumbUrl": "https://i.imgur.com/CyHM0SX.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueMountaain3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ZdOKRQS.png",
