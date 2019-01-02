@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"CuteBirdie",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bIXdZ8w.png",
+	    "thumbUrl": "https://i.imgur.com/gpMYWQR.png",
+            "collections":"quirky,minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"KingFisher",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/idNlWEn.png",
+	    "thumbUrl": "https://i.imgur.com/FOdlCCE.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AngryShark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cAVu3nm.png",
+	    "thumbUrl": "https://i.imgur.com/enByC8l.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"colorfulFleaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0o9iFo3.png",
+	    "thumbUrl": "https://i.imgur.com/qD5kXZG.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Fires",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7DRtfVn.png",
+	    "thumbUrl": "https://i.imgur.com/sSDJl9M.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AmoledJhalar",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xIycz39.png",
