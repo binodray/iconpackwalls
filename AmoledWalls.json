@@ -53,6 +53,86 @@
     ],
     "Wallpapers":[
       {
+            "name":"MillionsStars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AqzJj6I.png",
+	    "thumbUrl": "https://i.imgur.com/cmQ18Fq.png",
+            "collections":"quirky,random,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteWomans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IFauWUW.png",
+	    "thumbUrl": "https://i.imgur.com/JEeuOno.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeoAmo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LoD5D4E.png",
+	    "thumbUrl": "https://i.imgur.com/H0aiuIn.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DJ2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ojqy6Kp.png",
+	    "thumbUrl": "https://i.imgur.com/XAy0O4f.png",
+            "collections":"minimal,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoTaj",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DOPsExg.png",
+	    "thumbUrl": "https://i.imgur.com/W8ut60x.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SayNo1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VmjlLkA.png",
+	    "thumbUrl": "https://i.imgur.com/t2ARwUY.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MusicLifes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XYiGn22.png",
+	    "thumbUrl": "https://i.imgur.com/wmGskNM.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MillionsStars1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kExBJj6.png",
+	    "thumbUrl": "https://i.imgur.com/lnSlH9O.png",
+            "collections":"quirky,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"Painters",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/9CKkCEG.png",
