@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Dj1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w56FXf3.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Done6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LoCs434.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradCity",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RpEskAa.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 
+     {
+            "name":"Evening7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q1dGTJC.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSun20",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hLbe0as.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SayNo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BYxIzpG.png",
+	    "thumbUrl": "xxxx",
+            "collections":"random,minimal,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AEX2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/A8iFdME.png",
