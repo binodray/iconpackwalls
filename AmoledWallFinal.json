@@ -53,6 +53,204 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueCaves1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ysnQHM3.png",
+	    "thumbUrl": "https://i.imgur.com/1hVAw64.png",
+            "collections":"nature,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"QuaterMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jLbpCbA.png",
+	    "thumbUrl": "https://i.imgur.com/sUr8ZXt.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackTree1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/za1Grmu.png",
+	    "thumbUrl": "https://i.imgur.com/yBjduHP.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BigSun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R6oSnnH.png",
+	    "thumbUrl": "https://i.imgur.com/8cPlgcN.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BatClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZER59lW.png",
+	    "thumbUrl": "https://i.imgur.com/zsFRbBT.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueMount3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oOztR6Y.png",
+	    "thumbUrl": "https://i.imgur.com/JXmw5P6.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aNCu4Ub.png",
+	    "thumbUrl": "https://i.imgur.com/otbe3Nj.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackBuck",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LcSmHxR.png",
+	    "thumbUrl": "https://i.imgur.com/g5zyOjq.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightExposer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LcDhXTN.png",
+	    "thumbUrl": "https://i.imgur.com/zXd8ASg.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6fVeGSO.png",
+	    "thumbUrl": "https://i.imgur.com/GyyDkcU.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackCamel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Djy20t6.png",
+	    "thumbUrl": "https://i.imgur.com/AS0tagJ.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBlackCow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1avPNPd.png",
+	    "thumbUrl": "https://i.imgur.com/D9q35mL.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HalfMoons1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t2X4zoa.png",
+	    "thumbUrl": "https://i.imgur.com/UXhwJPD.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChineseVillage18",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/S6tEzjv.png",
+	    "thumbUrl": "https://i.imgur.com/zsFRbBT.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WHiteStars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Yw2ER7h.png",
+	    "thumbUrl": "https://i.imgur.com/y7DJtil.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CHN8CGw.png",
+	    "thumbUrl": "https://i.imgur.com/ApWZmWt.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WindWings",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mNQuKyL.png",
+	    "thumbUrl": "https://i.imgur.com/qmFXfyR.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GalaxyVains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/W0eJjSS.png",
+	    "thumbUrl": "https://i.imgur.com/EVoHpDt.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HorseSun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/49dX0Qd.png",
+	    "thumbUrl": "https://i.imgur.com/QRr0RvS.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWind",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4hx7WrM.png",
+	    "thumbUrl": "https://i.imgur.com/VTVsn2v.png",
+            "collections":"nature,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WaterGame",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eETvqwJ.png",
+	    "thumbUrl": "https://i.imgur.com/tKg2DPs.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedRoses3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/85doN0X.png",
+	    "thumbUrl": "https://i.imgur.com/TxtnuJo.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MillionsStars",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/AqzJj6I.png",
