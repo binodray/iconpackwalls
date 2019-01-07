@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"FCBarcelona2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eAhaL0V.png",
+	    "thumbUrl": "https://i.imgur.com/WcYD77i.png",
+            "collections":"soccer,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ManchesterUnited1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M4khx95.png",
+	    "thumbUrl": "https://i.imgur.com/LJC0OS2.png",
+            "collections":"soccer,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FCBarcelona3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2AwYLVi.png",
+	    "thumbUrl": "https://i.imgur.com/MvnlVkO.png",
+            "collections":"soccer,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ManchesterUnited2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5pTQV6M.png",
+	    "thumbUrl": "https://i.imgur.com/IRUiW5k.png",
+            "collections":"soccer,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RealMadridCF3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ebCfue9.png",
+	    "thumbUrl": "https://i.imgur.com/i7Nmhpy.png",
+            "collections":"soccer,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueCaves1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ysnQHM3.png",
