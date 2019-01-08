@@ -42,7 +42,57 @@
         }
     ],
     "Wallpapers":[
-      {
+     {
+            "name":"MinimalRains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hnk0RBF.png",
+	    "thumbUrl": "https://i.imgur.com/N3lfxCK.png",
+            "collections":"abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMountain6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8MmHlh0.png",
+	    "thumbUrl": "https://i.imgur.com/eLx3Hdp.png",
+            "collections":"abstract,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractPaints2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QCMTluo.png",
+	    "thumbUrl": "https://i.imgur.com/v6wQeyM.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractFace4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uSCz0e5.png",
+	    "thumbUrl": "https://i.imgur.com/1qAHtao.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractFace3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/E7Uxwna.png",
+	    "thumbUrl": "https://i.imgur.com/nYBmKGX.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"RealMadridCF2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/N1MZBlk.png",
