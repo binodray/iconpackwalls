@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"MinimalParis",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8FUNExR.png",
+	    "thumbUrl": "https://i.imgur.com/bKq6RWh.png",
+            "collections":"abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractFace2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1hgk82q.png",
+	    "thumbUrl": "https://i.imgur.com/VZvXlUC.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractFace1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qcYErUN.png",
+	    "thumbUrl": "https://i.imgur.com/iK8cxLT.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ManyPlanets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lSxcaXv.png",
+	    "thumbUrl": "https://i.imgur.com/Oe4oJCN.png",
+            "collections":"abstract,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractGrids",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DFesAQB.png",
+	    "thumbUrl": "https://i.imgur.com/Ng2BGSU.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"FCBarcelona2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/eAhaL0V.png",
