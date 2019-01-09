@@ -43,7 +43,115 @@
         }
     ],
     "Wallpapers":[
-    {
+     {
+            "name":"BlueTech",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aVqfU2M.png",
+	    "thumbUrl": "https://i.imgur.com/kvNfQJV.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreatClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Njn8mx.png",
+	    "thumbUrl": "https://i.imgur.com/GDUncty.png",
+            "collections":"abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkStreak1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/icKQduA.png",
+	    "thumbUrl": "https://i.imgur.com/NMKAtQF.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueStreak1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1tY1R2b.png",
+	    "thumbUrl": "https://i.imgur.com/GabAN7d.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedTech",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/su69qDT.png",
+	    "thumbUrl": "https://i.imgur.com/bbwA2Nv.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedTech1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7FOE8bY.png",
+	    "thumbUrl": "https://i.imgur.com/vdEBhOF.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceFight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FBXdhkW.png",
+	    "thumbUrl": "https://i.imgur.com/lhHB1Hp.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenStreak1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8cB9Qya.png",
+	    "thumbUrl": "https://i.imgur.com/M2FwrVC.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceGifts1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DEgICg7.png",
+	    "thumbUrl": "https://i.imgur.com/FupetnR.png",
+            "collections":"abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceStation",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WqZczFf.png",
+	    "thumbUrl": "https://i.imgur.com/KOO8WB3.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleTech",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9i7Pg1D.png",
+	    "thumbUrl": "https://i.imgur.com/MT2qST2.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceThumbsUP",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/I5aeNq0.png",
+	    "thumbUrl": "https://i.imgur.com/s3KbFBL.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },   	    
+     {
             "name":"ManchesterUnited10",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/QudkqcF.png",
