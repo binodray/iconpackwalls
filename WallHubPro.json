@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Caravan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ektU9fu.png",
+	    "thumbUrl": "https://i.imgur.com/nY5HdUp.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalStars3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/blGIlnT.png",
+	    "thumbUrl": "https://i.imgur.com/gyfeMoP.png",
+            "collections":"featured,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HappyLady1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ST5OgiV.png",
+	    "thumbUrl": "https://i.imgur.com/S6mcTrg.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelAbstract",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LfwQbcr.png",
+	    "thumbUrl": "https://i.imgur.com/AJHk4is.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalJungle8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zjmfKty.png",
+	    "thumbUrl": "https://i.imgur.com/DX0d3fP.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueTech",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/aVqfU2M.png",
