@@ -53,6 +53,36 @@
     ],
     "Wallpapers":[
      {
+            "name":"Chelsea2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FTaeivJ.png",
+	    "thumbUrl": "https://i.imgur.com/IKNNYAX.png",
+            "collections":"soccer" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Chelsea1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GKoGakf.png",
+	    "thumbUrl": "https://i.imgur.com/Hgc08XI.png",
+            "collections":"soccer" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Chelsea3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RSUXNCJ.png",
+	    "thumbUrl": "https://i.imgur.com/1HOoFgF.png",
+            "collections":"soccer" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"YellowPaintLiquid",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/D9d5o08.png",
