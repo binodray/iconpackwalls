@@ -53,6 +53,15 @@
     ],
     "Wallpapers":[
      {
+            "name":"LawanChair2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hEvxaPx.png",
+	    "thumbUrl": "https://i.imgur.com/qGd6NUv.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Chelsea2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/FTaeivJ.png",
