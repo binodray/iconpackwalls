@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"YellowPaintLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D9d5o08.png",
+	    "thumbUrl": "https://i.imgur.com/2CRx5NP.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePaintLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JUiuzWm.png",
+	    "thumbUrl": "https://i.imgur.com/KVTqbie.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LiquidPaint4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hIPnCYL.png",
+	    "thumbUrl": "https://i.imgur.com/iTfwtUG.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkPaintLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PMtbTwH.png",
+	    "thumbUrl": "https://i.imgur.com/FwZ4enE.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulPaintLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9CyXbIk.png",
+	    "thumbUrl": "https://i.imgur.com/zxPNnpx.png",
+            "collections":"liquid,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Igyan1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/1AIaIuM.png",
