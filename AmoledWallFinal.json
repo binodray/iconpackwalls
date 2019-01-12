@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"GoldenFlower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UKSk3xP.png",
+	    "thumbUrl": "https://i.imgur.com/61k4o5O.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PJUsRHY.png",
+	    "thumbUrl": "https://i.imgur.com/r4I0qy8.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Beachlady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DRi6SDn.png",
+	    "thumbUrl": "https://i.imgur.com/m62I6uh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveHearts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sfmBNg6.png",
+	    "thumbUrl": "https://i.imgur.com/Ue5olvp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LionDance1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OjMU20P.png",
+	    "thumbUrl": "https://i.imgur.com/jOPZvOO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LionDance2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kTE510J.png",
+	    "thumbUrl": "https://i.imgur.com/w3Rgvgr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"LawanChair2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/EPGqlHU.png",
