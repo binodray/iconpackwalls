@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"MinimalChair",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/b0BtRhy.png",
+	    "thumbUrl": "https://i.imgur.com/VvoiHuc.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkDesk3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SXCGz6f.png",
+	    "thumbUrl": "https://i.imgur.com/5M4iZkB.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkDesk2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DAp0pvu.png",
+	    "thumbUrl": "https://i.imgur.com/njTjq6l.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalRooms",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c3yrEIy.png",
+	    "thumbUrl": "https://i.imgur.com/ciO28JV.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkDesk1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Me4hAyq.png",
+	    "thumbUrl": "https://i.imgur.com/7f5wImY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkDesk4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yEW0EGI.png",
+	    "thumbUrl": "https://i.imgur.com/x2v3B8R.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Chelsea5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/hEvxaPx.png",
