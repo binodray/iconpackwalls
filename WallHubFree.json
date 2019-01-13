@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"PaperAbstracts3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QV9xwid.png",
+	    "thumbUrl": "https://i.imgur.com/FInu5GT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperPlane6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ciey7oL.png",
+	    "thumbUrl": "https://i.imgur.com/SvIcHp4.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelBlur19",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ccuE1pR.png",
+	    "thumbUrl": "https://i.imgur.com/8KDiczK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperAbstracts1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EZBiCm3.png",
+	    "thumbUrl": "https://i.imgur.com/Sspwce3.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperAbstracts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ibFGwiH.png",
+	    "thumbUrl": "https://i.imgur.com/9PJcRaM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MinimalChair",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/b0BtRhy.png",
