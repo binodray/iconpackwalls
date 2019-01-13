@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"PaperAbstracts4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bewsgYN.png",
+	    "thumbUrl": "https://i.imgur.com/oyghQqK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperAbstracts2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YRiYJnR.png",
+	    "thumbUrl": "https://i.imgur.com/POS6Tdy.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteWoman2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vTyRTBg.png",
+	    "thumbUrl": "https://i.imgur.com/dM66VJv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteWoman1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dv8yeoW.png",
+	    "thumbUrl": "https://i.imgur.com/Crw3ytT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteWoman3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fCVIsbc.png",
+	    "thumbUrl": "https://i.imgur.com/1wOksAm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+      {
             "name":"GoldenFlower",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/UKSk3xP.png",
