@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"MinimalMoutain8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TveWEpK.png",
+	    "thumbUrl": "https://i.imgur.com/HwN7gka.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenValley6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8u0SQWE.png",
+	    "thumbUrl": "https://i.imgur.com/YGWBDPj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Valley6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6vRgv7F.png",
+	    "thumbUrl": "https://i.imgur.com/RcV58FX.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SunRise14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rgBtkbM.png",
+	    "thumbUrl": "https://i.imgur.com/IWREpHB.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelValley1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cSWNUpd.png",
+	    "thumbUrl": "https://i.imgur.com/L138K04.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMoutain9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Cy3CKIx.png",
+	    "thumbUrl": "https://i.imgur.com/nxrqwxE.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PaperAbstracts3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/QV9xwid.png",
