@@ -53,6 +53,66 @@
     ],
     "Wallpapers":[
       {
+            "name":"GentleMan1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GIjmMVb.png",
+	    "thumbUrl": "https://i.imgur.com/nidFnIT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Spartas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qqqGhRE.png",
+	    "thumbUrl": "https://i.imgur.com/T7Sm8s6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Free6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/paDBjKp.png",
+	    "thumbUrl": "https://i.imgur.com/DuW1hZr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gate",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5j6XT4N.png",
+	    "thumbUrl": "https://i.imgur.com/HnxOkNp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulJunle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SFluPrw.png",
+	    "thumbUrl": "https://i.imgur.com/qssl9ot.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackPlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4MNYXM8.png",
+	    "thumbUrl": "https://i.imgur.com/Eimc59J.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PaperAbstracts4",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bewsgYN.png",
