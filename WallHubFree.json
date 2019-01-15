@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientViews7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WEESh0W.png",
+	    "thumbUrl": "https://i.imgur.com/wiF7yw5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenHour9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8QcuhIk.png",
+	    "thumbUrl": "https://i.imgur.com/ssQP70k.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightNights3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lIyXhL9.png",
+	    "thumbUrl": "https://i.imgur.com/oUjjkIx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightShade6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4RVI8HN.png",
+	    "thumbUrl": "https://i.imgur.com/9DGDMPA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleCube9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xEoY489.png",
+	    "thumbUrl": "https://i.imgur.com/9DGDMPA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MinimalMoutain8",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TveWEpK.png",
