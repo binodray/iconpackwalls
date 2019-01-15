@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"Alonelady7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ALbgyUA.png",
+	    "thumbUrl": "https://i.imgur.com/loZSrGy.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowTent6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1ZWw5bH.png",
+	    "thumbUrl": "https://i.imgur.com/Pq7V4QP.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WindowSeat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kyEu0nQ.png",
+	    "thumbUrl": "https://i.imgur.com/xwhpkwH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Tears3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/udADDNE.png",
+	    "thumbUrl": "https://i.imgur.com/tulc20x.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SnowCamp",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/i0b1lGH.png",
+	    "thumbUrl": "https://i.imgur.com/NZgLhWm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GentleMan1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GIjmMVb.png",
