@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlatBoats6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rLXyZNE.png",
+	    "thumbUrl": "https://i.imgur.com/hJxjEIx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperCloud",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IMJJK2m.png",
+	    "thumbUrl": "https://i.imgur.com/2G3SwyV.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenRoads",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7j1ppQa.png",
+	    "thumbUrl": "https://i.imgur.com/oXOIstr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelSunRise",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qHpaSXT.png",
+	    "thumbUrl": "https://i.imgur.com/lsVUG8i.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WaveSurfing",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dtwMaSy.png",
+	    "thumbUrl": "https://i.imgur.com/QI1sBBR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientViews7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/WEESh0W.png",
