@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"ColorfulIsland1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/K49cP4U.png",
+	    "thumbUrl": "https://i.imgur.com/3ROyK32.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ConfusedFace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9xhs4ex.png",
+	    "thumbUrl": "https://i.imgur.com/tvPYUhb.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FunnyLove3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4xgnIh9.png",
+	    "thumbUrl": "https://i.imgur.com/f4d1tTn.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaintRainbow3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HT604Ad.png",
+	    "thumbUrl": "https://i.imgur.com/uQA09wL.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmartSuns",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/T9LkOnC.png",
+	    "thumbUrl": "https://i.imgur.com/K4nHYS9.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Liverpool4",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7vZufKm.png",
