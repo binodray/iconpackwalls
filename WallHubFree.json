@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlatClouds2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pgkzaGu.png",
+	    "thumbUrl": "https://i.imgur.com/vaUpihY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlassWaves12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ory35O6.png",
+	    "thumbUrl": "https://i.imgur.com/qzfso5d.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SunRises6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vPghA3X.png",
+	    "thumbUrl": "https://i.imgur.com/tpnB4Tu.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatBirds5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1TcWyNy.png",
+	    "thumbUrl": "https://i.imgur.com/fasVg0c.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SurfingTime",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mt4X1T3.png",
+	    "thumbUrl": "https://i.imgur.com/zW2awFb.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Liverpool1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/fok8tUz.png",
