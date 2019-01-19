@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"ColorfulHeart1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SRczBWU.png",
+	    "thumbUrl": "https://i.imgur.com/ZROyX3M.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SuperNet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nS49dI9.png",
+	    "thumbUrl": "https://i.imgur.com/skez9nH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientNets3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/efIz7sB.png",
+	    "thumbUrl": "https://i.imgur.com/OQvcQih.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientLines9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ryiA4zX.png",
+	    "thumbUrl": "https://i.imgur.com/QcHEfwS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientsBubbles6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QC2ORdv.png",
+	    "thumbUrl": "https://i.imgur.com/yBwOJKd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorfulIsland1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/K49cP4U.png",
