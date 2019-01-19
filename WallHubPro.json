@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientBeans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d7tiWpO.png",
+	    "thumbUrl": "https://i.imgur.com/ZQUF2Ph.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Colofulwaves11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OUU5Xao.png",
+	    "thumbUrl": "https://i.imgur.com/X1GUYFF.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientsWaves9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bm5MPDe.png",
+	    "thumbUrl": "https://i.imgur.com/X6zVwl4.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelWave12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DwTXDxr.png",
+	    "thumbUrl": "https://i.imgur.com/eToEZ5f.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalTakeoff",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/B8EqUub.png",
+	    "thumbUrl": "https://i.imgur.com/n79iX1K.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FlatClouds2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/pgkzaGu.png",
