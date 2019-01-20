@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"ValentinesDay",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DqihHAe.png",
+	    "thumbUrl": "https://i.imgur.com/O9sTR6t.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoveRocket",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zkIGZnv.png",
+	    "thumbUrl": "https://i.imgur.com/M3OW8o5.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Target3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JHfc1zn.png",
+	    "thumbUrl": "https://i.imgur.com/01XHYph.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceExplores",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sMgXna1.png",
+	    "thumbUrl": "https://i.imgur.com/TqRGtAD.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bullet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/br2lom7.png",
+	    "thumbUrl": "https://i.imgur.com/6gA4G6w.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
             "name":"GradientBeans",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/d7tiWpO.png",
