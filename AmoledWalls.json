@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"AbstarctMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qWMcUso.png",
+	    "thumbUrl": "https://i.imgur.com/apKRacC.png",
+            "collections":"simple,quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstarctMusics1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ol02b0I.png",
+	    "thumbUrl": "https://i.imgur.com/DSkeqlp.png",
+            "collections":"simple,quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OldMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PGoGenZ.png",
+	    "thumbUrl": "https://i.imgur.com/EDcO4hb.png",
+            "collections":"simple,quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CafeRacer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Uh5Nj3e.png",
+	    "thumbUrl": "https://i.imgur.com/wqogy3k.png",
+            "collections":"simple,quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeverGiveUp",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4FsTHtJ.png",
+	    "thumbUrl": "https://i.imgur.com/ZWkV0pa.png",
+            "collections":"simple,quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"ColorfulHeart1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/SRczBWU.png",
