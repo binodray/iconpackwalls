@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlackPaint1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/grQe2UH.png",
+	    "thumbUrl": "https://i.imgur.com/dE0rFFw.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DreamBig2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2b7bwxf.png",
+	    "thumbUrl": "https://i.imgur.com/UjrKlNW.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Colorfulowl",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YlOY1LB.png",
+	    "thumbUrl": "https://i.imgur.com/LIemY4Q.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackPaint2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OyvLnH4.png",
+	    "thumbUrl": "https://i.imgur.com/yERJ0Lt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DotedHoles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/igPYCRr.png",
+	    "thumbUrl": "https://i.imgur.com/jDPJNjB.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AbstarctMusics",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/qWMcUso.png",
