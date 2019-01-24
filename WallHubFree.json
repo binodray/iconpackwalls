@@ -43,6 +43,106 @@
     ],
     "Wallpapers":[
      {
+            "name":"AbstractsLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DtjxGBb.png",
+	    "thumbUrl": "https://i.imgur.com/pdlgmwP.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractsLines1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N685PKy.png",
+	    "thumbUrl": "https://i.imgur.com/VCJEDkM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalWhiteMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cp5hl29.png",
+	    "thumbUrl": "https://i.imgur.com/Kxk9Hv7.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4cYsV78.png",
+	    "thumbUrl": "https://i.imgur.com/s1bqtrb.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueRays",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7n8C9au.png",
+	    "thumbUrl": "https://i.imgur.com/oFidiHL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreensRays",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/j3syMSt.png",
+	    "thumbUrl": "https://i.imgur.com/Fay1Fl9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowAbstract2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8oy7u7v.png",
+	    "thumbUrl": "https://i.imgur.com/X7RNbI2.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Simplegradient1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pJnn5uN.png",
+	    "thumbUrl": "https://i.imgur.com/RauCxZl.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Simplegradient",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0lqUZcu.png",
+	    "thumbUrl": "https://i.imgur.com/2bbLlij.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowDots",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M1CRKof.png",
+	    "thumbUrl": "https://i.imgur.com/fGsBq1p.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"ColorfulWaves",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mtPBulI.png",
