@@ -53,6 +53,106 @@
     ],
     "Wallpapers":[
      {
+            "name":"AngryPanda",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZW4KXvJ.png",
+	    "thumbUrl": "https://i.imgur.com/LJeI3SG.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMonky",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vOzpJzw.png",
+	    "thumbUrl": "https://i.imgur.com/iX0a2yp.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Cheetah",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Th5Xdbz.png",
+	    "thumbUrl": "https://i.imgur.com/fRCMNom.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWolfs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3Hk7T1t.png",
+	    "thumbUrl": "https://i.imgur.com/4uN1vjT.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Sabertooth1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YElf9uC.png",
+	    "thumbUrl": "https://i.imgur.com/JZk6Pbl.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWolf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tzrxIMQ.png",
+	    "thumbUrl": "https://i.imgur.com/zEuirwz.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shifu",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DV0Skby.png",
+	    "thumbUrl": "https://i.imgur.com/9s83eOL.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Sabertooth2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fWbz7eZ.png",
+	    "thumbUrl": "https://i.imgur.com/8fWTicT.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Sabertooth3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r36yoGb.png",
+	    "thumbUrl": "https://i.imgur.com/KRtpOLO.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowCats",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TXHSip9.png",
+	    "thumbUrl": "https://i.imgur.com/krdUOZF.png",
+            "collections":"animal,quirky,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlackPaint1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/grQe2UH.png",
