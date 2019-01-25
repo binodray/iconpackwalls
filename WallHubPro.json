@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenDJ",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qencxPo.png",
+	    "thumbUrl": "https://i.imgur.com/9Uk9G8L.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Microphone",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lkbFuxG.png",
+	    "thumbUrl": "https://i.imgur.com/oOFMF1P.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MusicDesk",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VjzBCVv.png",
+	    "thumbUrl": "https://i.imgur.com/n2IT097.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkNights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oOUOoKM.png",
+	    "thumbUrl": "https://i.imgur.com/4FDSe8V.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PianoPlaye",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AR9WLKe.png",
+	    "thumbUrl": "https://i.imgur.com/H58adwH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AbstractsLines",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/DtjxGBb.png",
