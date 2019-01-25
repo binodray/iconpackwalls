@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LastLights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mFakjUB.png",
+	    "thumbUrl": "https://i.imgur.com/gk5eNLS.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LastRays",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Q4QFpae.png",
+	    "thumbUrl": "https://i.imgur.com/KQbcOHk.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSKies3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7B0pdcy.png",
+	    "thumbUrl": "https://i.imgur.com/Gy5aBUk.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteFish3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2e1RM0Q.png",
+	    "thumbUrl": "https://i.imgur.com/hAKxrAZ.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonGreens",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oJpEJ3C.png",
+	    "thumbUrl": "https://i.imgur.com/HQRg8dd.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AngryPanda",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ZW4KXvJ.png",
