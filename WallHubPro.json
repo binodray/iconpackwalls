@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BeautifulLady1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ssiSbhD.png",
+	    "thumbUrl": "https://i.imgur.com/qBhlkWv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatHalfMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/W02abiX.png",
+	    "thumbUrl": "https://i.imgur.com/eWuqU6r.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BusyNights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QfwJs0J.png",
+	    "thumbUrl": "https://i.imgur.com/7RXtRTq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatJungle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RVecM4A.png",
+	    "thumbUrl": "https://i.imgur.com/cfTtSEA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkFlatHill",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C3O1Xl8.png",
+	    "thumbUrl": "https://i.imgur.com/razCGFZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GreenDJ",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/qencxPo.png",
