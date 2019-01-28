@@ -51,7 +51,52 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
-    "Wallpapers":[ 	    
+    "Wallpapers":[ 
+     {
+            "name":"GradientMap",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ldQCj2u.png",
+	    "thumbUrl": "https://i.imgur.com/gEUamPz.png",
+            "collections":"minimal,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ap8qcyl.png",
+	    "thumbUrl": "https://i.imgur.com/NDwcS3i.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MountainBikes1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YWb8um1.png",
+	    "thumbUrl": "https://i.imgur.com/Sbp2vk8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4eAf92X.png",
+	    "thumbUrl": "https://i.imgur.com/GttXO0K.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMountain1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JtFryYt.png",
+	    "thumbUrl": "https://i.imgur.com/oA712PK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
      {
             "name":"Beautifullady3",
       	    "author":"Binod Ray",
