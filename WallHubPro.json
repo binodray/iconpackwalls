@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientMap1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/E6E9GcU.png",
+	    "thumbUrl": "https://i.imgur.com/S0e7gRG.png",
+            "collections":"minimal,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShinyWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KVpJKUE.png",
+	    "thumbUrl": "https://i.imgur.com/kpNQuOO.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedWavs6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/E7H6FQy.png",
+	    "thumbUrl": "https://i.imgur.com/xOWRNl5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/n7NaNBv.png",
+	    "thumbUrl": "https://i.imgur.com/paw2hwB.png",
+            "collections":"minimal,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pOFR4Qt.png",
+	    "thumbUrl": "https://i.imgur.com/ljvZ1Jl.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BeautifulLady1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ssiSbhD.png",
