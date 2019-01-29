@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
      {
+            "name":"BlueMaps6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xlFXgbm.png",
+	    "thumbUrl": "https://i.imgur.com/hj7QM3S.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainbowLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lxjwXzo.png",
+	    "thumbUrl": "https://i.imgur.com/O7hKaJF.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EggPoch",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QrCKSXG.png",
+	    "thumbUrl": "https://i.imgur.com/PqN4IUp.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Holi6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sBLsaqh.png",
+	    "thumbUrl": "https://i.imgur.com/YSA9Slp.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientTunnel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pxiJzcW.png",
+	    "thumbUrl": "https://i.imgur.com/OIuxdf8.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientMap",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ldQCj2u.png",
