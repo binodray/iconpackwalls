@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueAbs14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9GGdKxk.png",
+	    "thumbUrl": "https://i.imgur.com/91LN1yT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueAbs15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R3G4j5Y.png",
+	    "thumbUrl": "https://i.imgur.com/evo1m3L.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatBlues4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PyvL40z.png",
+	    "thumbUrl": "https://i.imgur.com/jSrDPBF.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteAbs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EnmuZe9.png",
+	    "thumbUrl": "https://i.imgur.com/gxmcPuR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradentBubbles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tn7NLJ7.png",
+	    "thumbUrl": "https://i.imgur.com/OPaeXxv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientMap1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/E6E9GcU.png",
