@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
      {
+            "name":"ColorfulAbtarct3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AkBr2Kj.png",
+	    "thumbUrl": "https://i.imgur.com/xBykYVw.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePlains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/08X4qdZ.png",
+	    "thumbUrl": "https://i.imgur.com/WzpDLUw.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulLines17",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N1j6ENl.png",
+	    "thumbUrl": "https://i.imgur.com/SR0A8dG.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uJuvJjA.png",
+	    "thumbUrl": "https://i.imgur.com/dpV7cIR.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeBalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YsoOeCu.png",
+	    "thumbUrl": "https://i.imgur.com/HisI10g.png",
+            "collections":"random,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
 	    "name": "BlueSportsCar",
 	    "author": "Binod Ray",
 	    "url": "https://i.imgur.com/YLZLPcB.png",
