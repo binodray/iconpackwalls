@@ -53,6 +53,96 @@
     ],
     "Wallpapers":[ 
      {
+            "name":"TreeBranch",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WhlDZ7j.png",
+	    "thumbUrl": "https://i.imgur.com/Pv1W7RQ.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackTree",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8BJF33E.png",
+	    "thumbUrl": "https://i.imgur.com/JZqcRhU.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightGalaxies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MISC2gj.png",
+	    "thumbUrl": "https://i.imgur.com/VqX7ANS.png",
+            "collections":"random,minimal,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BestSkaters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cWuR98F.png",
+	    "thumbUrl": "https://i.imgur.com/YmhNFJY.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceNBA",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uuopIRl.png",
+	    "thumbUrl": "https://i.imgur.com/3yfdPeK.png",
+            "collections":"random,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BestSurfer1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/300zoZX.png",
+	    "thumbUrl": "https://i.imgur.com/H2fjsld.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbastractPipes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/q5gZJ2f.png",
+	    "thumbUrl": "https://i.imgur.com/rm4GUOy.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BestSurfer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A7MBw5z.png",
+	    "thumbUrl": "https://i.imgur.com/p7WjnkN.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackEyes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JIyDjqy.png",
+	    "thumbUrl": "https://i.imgur.com/ihmbo8Z.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SwordMan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AjxZIVR.png",
+	    "thumbUrl": "https://i.imgur.com/kJZprwR.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"ColorfulAbtarct3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/AkBr2Kj.png",
