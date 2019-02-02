@@ -42,7 +42,57 @@
         }
     ],
     "Wallpapers":[
-       {
+    {
+            "name":"AbsCircles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9lfovP5.png",
+	    "thumbUrl": "https://i.imgur.com/3VSx94S.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedBuses",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gvVnB03.png",
+	    "thumbUrl": "https://i.imgur.com/fpXvmIL.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Saraswati1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U7zsTVZ.png",
+	    "thumbUrl": "https://i.imgur.com/4XcyHot.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NatureMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hCdoxrO.png",
+	    "thumbUrl": "https://i.imgur.com/9QAIL51.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MusicLover7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/McJsF7Z.png",
+	    "thumbUrl": "https://i.imgur.com/PzP1abB.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	           
+    {
             "name":"SkiBlueAbstract2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/BeQJFrt.png",
