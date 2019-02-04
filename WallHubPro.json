@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueChrist6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kszxnEN.png",
+	    "thumbUrl": "https://i.imgur.com/lmOpllU.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ClosedMinds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fOdSkcw.png",
+	    "thumbUrl": "https://i.imgur.com/pesCqn4.png",
+            "collections":"minimal,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientPiramids",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YFuPH4K.png",
+	    "thumbUrl": "https://i.imgur.com/xMJ6spG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenPiramids",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/F3XLqDr.png",
+	    "thumbUrl": "https://i.imgur.com/N1a2rHw.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TajMahal2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GMnJGMW.png",
+	    "thumbUrl": "https://i.imgur.com/wfBv2pU.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceShuttle3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ILnKqPV.png",
+	    "thumbUrl": "https://i.imgur.com/7SFnOvY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AbsCircles",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/9lfovP5.png",
