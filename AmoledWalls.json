@@ -52,7 +52,56 @@
         }
     ],
     "Wallpapers":[
-      	    
+      {
+            "name":"AdventureLife",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kEWc3Xh.png",
+	    "thumbUrl": "https://i.imgur.com/XmM5EVa.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BossALike",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DjZhE12.png",
+	    "thumbUrl": "https://i.imgur.com/yj3e9df.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWings2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8JgfZsq.png",
+	    "thumbUrl": "https://i.imgur.com/9rpZQJ9.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EveryLifes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uOdxmMy.png",
+	    "thumbUrl": "https://i.imgur.com/5RxKe74.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OneMores",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NMtD0NJ.png",
+	    "thumbUrl": "https://i.imgur.com/jZyjYSV.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
       {
             "name":"CycleRides6",
       	    "author":"Binod Ray",
