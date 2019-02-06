@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
     {
+            "name":"BlueCurves6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/scmVT9d.png",
+	    "thumbUrl": "https://i.imgur.com/BMK3qpO.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gemos11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/L0MhCbm.png",
+	    "thumbUrl": "https://i.imgur.com/y3yHPfS.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulsFluids3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LY6YbvG.png",
+	    "thumbUrl": "https://i.imgur.com/OTfMeMN.png",
+            "collections":"quirky,liquid" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientGalaxy8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PT5DV9Y.png",
+	    "thumbUrl": "https://i.imgur.com/1HUiGEr.png",
+            "collections":"quirky,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Transformer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/woA8v1X.png",
+	    "thumbUrl": "xxx",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AdventureLife",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/kEWc3Xh.png",
