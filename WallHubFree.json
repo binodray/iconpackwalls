@@ -42,6 +42,56 @@
         }
     ],
     "Wallpapers":[
+    {
+            "name":"GradientGalaxy9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OKQhGfP.png",
+	    "thumbUrl": "https://i.imgur.com/OQ0zUCf.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulsPlanet6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/onoJW2B.png",
+	    "thumbUrl": "https://i.imgur.com/DcrHueq.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangePinkSky",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gySi3Hh.png",
+	    "thumbUrl": "https://i.imgur.com/WAYJULq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls80",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IJ6qnEN.png",
+	    "thumbUrl": "https://i.imgur.com/fx1NBLk.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Xwalls81",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9AAvArv.png",
+	    "thumbUrl": "https://i.imgur.com/kKpeaTJ.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
      {
             "name":"GreenYellowLine2",
       	    "author":"Binod Ray",
