@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
     {
+            "name":"Licks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/No8Eq7F.png",
+	    "thumbUrl": "https://i.imgur.com/ek3GFpo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ai",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jwl7yHn.png",
+	    "thumbUrl": "https://i.imgur.com/jzsl5ec.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VR",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/11B8tfd.png",
+	    "thumbUrl": "https://i.imgur.com/xS2bxIY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jr6ifqE.png",
+	    "thumbUrl": "https://i.imgur.com/tDBAwHp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackJungle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2JaiSHC.png",
+	    "thumbUrl": "https://i.imgur.com/dqs9UrM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueCurves6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/scmVT9d.png",
