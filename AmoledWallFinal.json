@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
     {
+            "name":"Particales2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XaOqRi5.png",
+	    "thumbUrl": "https://i.imgur.com/qEzN3Eo.png",
+            "collections":"particles" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Particales1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/66LcrWF.png",
+	    "thumbUrl": "https://i.imgur.com/4eVK442.png",
+            "collections":"particles" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Particales3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3V4QAuj.png",
+	    "thumbUrl": "https://i.imgur.com/SHaQfJi.png",
+            "collections":"particles" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Particales5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wfzZ88k.png",
+	    "thumbUrl": "https://i.imgur.com/PA2OrrM.png",
+            "collections":"particles" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Particales",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Vaqf7R.png",
+	    "thumbUrl": "https://i.imgur.com/eEbSpp6.png",
+            "collections":"particles" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Licks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/No8Eq7F.png",
