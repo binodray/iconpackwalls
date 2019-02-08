@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
     {
+            "name":"CamelWalks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/utMZ3co.png",
+	    "thumbUrl": "https://i.imgur.com/qvrLAJ9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SkiBoys",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NsOBZO3.png",
+	    "thumbUrl": "https://i.imgur.com/LUzrzBn.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CoconutsTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uc0kUrn.png",
+	    "thumbUrl": "https://i.imgur.com/m0ZnASy.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenHour6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ckFvsNN.png",
+	    "thumbUrl": "https://i.imgur.com/vsnFz5t.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueTents3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PFaWr3Y.png",
+	    "thumbUrl": "https://i.imgur.com/5F77HhA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Temples",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/kJBWXKN.png",
