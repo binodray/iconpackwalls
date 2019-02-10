@@ -53,6 +53,24 @@
     ],
     "Wallpapers":[ 
     {
+            "name":"MiPowerBank GiveAway",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7daXVua.png",
+	    "thumbUrl": "https://i.imgur.com/7daXVua.png",
+            "collections":"giveaway" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MiPowerBank GiveAway",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/W5eWntE.png",
+	    "thumbUrl": "https://i.imgur.com/W5eWntE.png",
+            "collections":"giveaway" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Particales2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/XaOqRi5.png",
