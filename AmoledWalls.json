@@ -69,6 +69,56 @@
             "collections":"giveaway" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
+     },
+      {
+            "name":"ColorfulEye",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4qLzcuc.png",
+	    "thumbUrl": "https://i.imgur.com/UVbn7rF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightAmos",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EvoJkpy.png",
+	    "thumbUrl": "https://i.imgur.com/WdXO59o.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueCircuit",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iyHBPgx.png",
+	    "thumbUrl": "https://i.imgur.com/lYQyB4l.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JjfqQ5n.png",
+	    "thumbUrl": "https://i.imgur.com/sIyXW4S.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XCFXpCt.png",
+	    "thumbUrl": "https://i.imgur.com/cYcdrRh.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
      },	    
      {
             "name":"Particales2",
