@@ -59,8 +59,58 @@
             "collections":"giveaway" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
+     },	
+      {
+            "name":"BlueHoney",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FNXxieq.png",
+	    "thumbUrl": "https://i.imgur.com/4EzROnL.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimplesPatterns",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h0J2pUj.png",
+	    "thumbUrl": "https://i.imgur.com/ZDkGHKm.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Travelers5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/agDgeqA.png",
+	    "thumbUrl": "https://i.imgur.com/tyL6gIH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Gradient21",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UHlM7qZ.png",
+	    "thumbUrl": "https://i.imgur.com/ySVDdbb.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mr0nPvR.png",
+	    "thumbUrl": "https://i.imgur.com/yCnEy0B.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
      },	    
-    {
+     {
             "name":"CamelWalks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/utMZ3co.png",
