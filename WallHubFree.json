@@ -60,7 +60,57 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	
-      {
+     {
+            "name":"BrightMountains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A5FKU74.png",
+	    "thumbUrl": "https://i.imgur.com/ECOgniZ.png",
+            "collections":"minimal,random,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightsAbst",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2thKKD9.png",
+	    "thumbUrl": "https://i.imgur.com/kxHkIi5.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientLizard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2uRxJTk.png",
+	    "thumbUrl": "https://i.imgur.com/Z31k9uD.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenPlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5K39kwQ.png",
+	    "thumbUrl": "https://i.imgur.com/10vMuej.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WindBlow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3Fhfatw.png",
+	    "thumbUrl": "https://i.imgur.com/2mUfelx.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueHoney",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/FNXxieq.png",
