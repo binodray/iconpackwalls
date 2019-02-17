@@ -71,7 +71,57 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-      {
+     {
+            "name":"ImmortalFrame1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iNpL8fX.png",
+	    "thumbUrl": "https://i.imgur.com/KpiBCrP.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ImmortalFrame",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/j32KC3d.png",
+	    "thumbUrl": "https://i.imgur.com/eNlfABV.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SkulSharks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vpBfFGE.png",
+	    "thumbUrl": "https://i.imgur.com/L5nw4G2.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OldDrinker",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Mvksu3S.png",
+	    "thumbUrl": "https://i.imgur.com/lGvp8fC.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SkulSharks1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LkSC4hF.png",
+	    "thumbUrl": "https://i.imgur.com/9RPqLSI.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorfilChitas",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/8bPmhHC.png",
