@@ -52,7 +52,7 @@
         }
     ],
     "Wallpapers":[ 
-      	    
+     	    
      {
             "name":"MiPowerBank GiveAway",
       	    "author":"Binod Ray",
@@ -71,6 +71,51 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
+     {
+            "name":"AbstractsCircle3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GAgYZc7.png",
+	    "thumbUrl": "https://i.imgur.com/2q7NurH.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SuperGlows",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A76NXhf.png",
+	    "thumbUrl": "https://i.imgur.com/18bfwbL.png",
+            "collections":"minimal,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VintageCars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M2EOoCS.png",
+	    "thumbUrl": "https://i.imgur.com/1wx7WAA.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BettaDanceOrange",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gAsBfta.png",
+	    "thumbUrl": "https://i.imgur.com/FdsiJFt.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BettaDanceBlue",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZwCewEy.png",
+	    "thumbUrl": "https://i.imgur.com/MOrS5GR.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"EdgeRainbow1",
       	    "author":"Binod Ray",
