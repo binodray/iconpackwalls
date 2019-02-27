@@ -72,6 +72,56 @@
 	    "copyright":"Personal Use" 
      },
      {
+            "name":"BasketBall",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f59Apq7.png",
+	    "thumbUrl": "https://i.imgur.com/6u4Ll8q.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CycleRider",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tjARko1.png",
+	    "thumbUrl": "https://i.imgur.com/XLIhaGM.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BasketBall1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8e44Bsk.png",
+	    "thumbUrl": "https://i.imgur.com/jYJ6ySh.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FootBall1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sSelYvE.png",
+	    "thumbUrl": "https://i.imgur.com/7Rem5aq.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FootBall2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t8hj6J4.png",
+	    "thumbUrl": "https://i.imgur.com/XjhwXVW.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },    
+     {
             "name":"AbstractsCircle3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GAgYZc7.png",
