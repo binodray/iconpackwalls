@@ -44,21 +44,53 @@
     "Wallpapers":[
      	    
     {
-            "name":"MiPowerBank GiveAway",
+            "name":"BikerGirl7",
       	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/7daXVua.png",
-	    "thumbUrl": "https://i.imgur.com/7daXVua.png",
-            "collections":"giveaway" ,
+            "url":"https://i.imgur.com/Iqj3LuH.png",
+	    "thumbUrl": "https://i.imgur.com/LYPF98d.png",
+            "collections":"random,simple,featured" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
-            "name":"MiPowerBank GiveAway",
+            "name":"BikerGirl6",
       	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/RjCHh3T.png",
-	    "thumbUrl": "https://i.imgur.com/RjCHh3T.png",
-            "collections":"giveaway" ,
+            "url":"https://i.imgur.com/FRnc1aS.png",
+	    "thumbUrl": "https://i.imgur.com/97k23Rt.png",
+            "collections":"random,simple" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Yogas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LtdSAsV.png",
+	    "thumbUrl": "https://i.imgur.com/X8kGywB.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreatMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8CEDpCa.png",
+	    "thumbUrl": "https://i.imgur.com/EKBa3Vm.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatScooter",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rJdQVOz.png",
+	    "thumbUrl": "https://i.imgur.com/LqQuMb1.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },	
      {
