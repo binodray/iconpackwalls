@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"BigChrist6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ku9JsVO.png",
+	    "thumbUrl": "https://i.imgur.com/JZvMlFg.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrownDesert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u2LUGdH.png",
+	    "thumbUrl": "https://i.imgur.com/QpoF8SU.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightHouse5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8B7Eynb.png",
+	    "thumbUrl": "https://i.imgur.com/s1HNv1s.png",
+            "collections":"random,simple,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CanionCrossing",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QDvJhnM.png",
+	    "thumbUrl": "https://i.imgur.com/YkFzGj2.png",
+            "collections":"random,simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ActiveVolcano",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qiOa6GY.png",
+	    "thumbUrl": "https://i.imgur.com/bcj6nm8.png",
+            "collections":"random,simple,minimal,nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BikerGirl7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Iqj3LuH.png",
