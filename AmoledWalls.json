@@ -52,8 +52,67 @@
         }
     ],
     "Wallpapers":[
-	    
     {
+            "name":"BlackCuc",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IDMZrGT.png",
+	    "thumbUrl": "https://i.imgur.com/CF5XaGC.png",
+            "collections":"random,simple,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MyBikes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iaWWIzW.png",
+	    "thumbUrl": "https://i.imgur.com/2EvTnod.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MyCar",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fgeHcXI.png",
+	    "thumbUrl": "https://i.imgur.com/ohpLrlK.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LovelyCouple",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vGuGMvY.png",
+	    "thumbUrl": "https://i.imgur.com/OiUoGrm.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenHoneycomb",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LhqGuLb.png",
+	    "thumbUrl": "https://i.imgur.com/m3eErZR.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
+            "name":"MotorBikes6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/amOMQ74.png",
+	    "thumbUrl": "https://i.imgur.com/nhzjngh.png",
+            "collections":"random,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MotorBikes6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/amOMQ74.png",
