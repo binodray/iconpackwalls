@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[ 
      {
+            "name":"DarkPath",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KvfvCgt.png",
+	    "thumbUrl": "https://i.imgur.com/bdkcFhQ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Farmer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yEQm7Cr.png",
+	    "thumbUrl": "https://i.imgur.com/6qhR0mx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WithBaby",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jucNwkV.png",
+	    "thumbUrl": "https://i.imgur.com/w1lkayl.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedBlades",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vqNq8uX.png",
+	    "thumbUrl": "https://i.imgur.com/zr1X1dW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCuctus1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tmcYp2L.png",
+	    "thumbUrl": "https://i.imgur.com/HzaJyeg.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlackCuc",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/IDMZrGT.png",
