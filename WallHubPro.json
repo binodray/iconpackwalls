@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"LightNets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1C8x5FA.png",
+	    "thumbUrl": "https://i.imgur.com/GcUhCP8.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MotherBoards",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FdYpvyM.png",
+	    "thumbUrl": "https://i.imgur.com/zNPrUcj.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientBublles8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eXza7DQ.png",
+	    "thumbUrl": "https://i.imgur.com/76PMavc.png",
+            "collections":"random,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Error",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Oh4h3Bu.png",
+	    "thumbUrl": "https://i.imgur.com/sLVuKqr.png",
+            "collections":"random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CurvyGrades",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XiH9tgW.png",
+	    "thumbUrl": "https://i.imgur.com/50Cglct.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueishMount",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mN7b8tq.png",
