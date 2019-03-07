@@ -52,7 +52,57 @@
         }
     ],
     "Wallpapers":[
-    {
+     {
+            "name":"Punk",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3iGUMGA.png",
+	    "thumbUrl": "https://i.imgur.com/faXJrHQ.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSamurai",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ylOGvqV.png",
+	    "thumbUrl": "https://i.imgur.com/5AIke8q.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Sailor",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g7gH9DW.png",
+	    "thumbUrl": "https://i.imgur.com/l7QD24S.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SiningBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y7jVXtF.png",
+	    "thumbUrl": "https://i.imgur.com/LAWclsa.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CatAstro",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UKqW38h.png",
+	    "thumbUrl": "https://i.imgur.com/WesLfmF.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SlidingWindow",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TiA5l4l.png",
