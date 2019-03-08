@@ -53,6 +53,33 @@
     ],
     "Wallpapers":[ 
      {
+            "name":"Stairs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZO49vzW.png",
+	    "thumbUrl": "https://i.imgur.com/3Cz4IIN.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Anstronout8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xIfcgtc.png",
+	    "thumbUrl": "https://i.imgur.com/euuvS6V.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Anstronout9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eDCNctw.png",
+	    "thumbUrl": "https://i.imgur.com/oiXjN5J.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"HardBiker",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sehQ4p5.png",
