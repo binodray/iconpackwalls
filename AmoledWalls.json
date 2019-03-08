@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"HardBiker",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sehQ4p5.png",
+	    "thumbUrl": "https://i.imgur.com/EmrT6ZZ.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ThreeEyes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZpOSnBC.png",
+	    "thumbUrl": "https://i.imgur.com/jmrbgxc.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Deadline",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lm0tgGy.png",
+	    "thumbUrl": "https://i.imgur.com/8p0qL5w.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MorningBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sUs8vVO.png",
+	    "thumbUrl": "https://i.imgur.com/KYBRGar.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BeAVoice",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6gZOcmT.png",
+	    "thumbUrl": "https://i.imgur.com/bvmPM0C.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Punk",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3iGUMGA.png",
