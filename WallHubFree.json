@@ -43,6 +43,46 @@
     ],
     "Wallpapers":[
      {
+            "name":"Anstronout7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QCjN1tQ.png",
+	    "thumbUrl": "https://i.imgur.com/7Y4Ij3V.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Strais2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OjfdG0r.png",
+	    "thumbUrl": "https://i.imgur.com/Mszguhk.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Anstronout10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SuDBeh2.png",
+	    "thumbUrl": "https://i.imgur.com/ToDmOJS.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Anstronout6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6KILeIP.png",
+	    "thumbUrl": "https://i.imgur.com/Cp1EZmF.png",
+            "collections":"samsungS10,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MiniHulk",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/4hv8DXW.png",
