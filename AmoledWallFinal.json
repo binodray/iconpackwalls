@@ -51,13 +51,76 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
-    "Wallpapers":[ 
+    "Wallpapers":[
+     {
+            "name":"YellowPain2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gt8vK99.png",
+	    "thumbUrl": "https://i.imgur.com/8fr8Bum.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CameraClick1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EzhNQfW.png",
+	    "thumbUrl": "https://i.imgur.com/rGVvjBZ.png",
+            "collections":"s10series,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SleepTight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/quoofmC.png",
+	    "thumbUrl": "https://i.imgur.com/SyKkEwt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Musicians",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wkIa49w.png",
+	    "thumbUrl": "https://i.imgur.com/GjdX55t.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonWires",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SdKHVuz.png",
+	    "thumbUrl": "https://i.imgur.com/rHdEpjM.png",
+            "collections":"qirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SleepTight3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0zftgrQ.png",
+	    "thumbUrl": "https://i.imgur.com/IDL9j4U.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Score",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WRe9lKv.png",
+	    "thumbUrl": "https://i.imgur.com/qG2yWvy.png",
+            "collections":"s10series,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
      {
             "name":"Stairs1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ZO49vzW.png",
 	    "thumbUrl": "https://i.imgur.com/3Cz4IIN.png",
-            "collections":"samsungS10,minimal" ,
+            "collections":"s10series,minimal" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
@@ -66,7 +129,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xIfcgtc.png",
 	    "thumbUrl": "https://i.imgur.com/euuvS6V.png",
-            "collections":"samsungS10,minimal" ,
+            "collections":"s10series,minimal" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
@@ -75,7 +138,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/eDCNctw.png",
 	    "thumbUrl": "https://i.imgur.com/oiXjN5J.png",
-            "collections":"samsungS10,minimal" ,
+            "collections":"s10series,minimal" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	    
