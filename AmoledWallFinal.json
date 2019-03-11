@@ -53,6 +53,78 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradienDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MAGHFiH.png",
+	    "thumbUrl": "https://i.imgur.com/hpSQTEy.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradienParrot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NzOfaEn.png",
+	    "thumbUrl": "https://i.imgur.com/zsKDB4s.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteAstro",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/spHKUOz.png",
+	    "thumbUrl": "https://i.imgur.com/79EotQW.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradienLions",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kR8KPfU.png",
+	    "thumbUrl": "https://i.imgur.com/8IFGNml.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LunerEclips",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iTWQclE.png",
+	    "thumbUrl": "https://i.imgur.com/UySIIJo.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientRabbits",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r1vWKFi.png",
+	    "thumbUrl": "https://i.imgur.com/HNJNpfs.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradienBulls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZeOadhG.png",
+	    "thumbUrl": "https://i.imgur.com/Mw9e6NX.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedRockets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TrfCvgQ.png",
+	    "thumbUrl": "https://i.imgur.com/bAnnoHl.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"YellowPain2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/gt8vK99.png",
