@@ -43,6 +43,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"BrightWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hhYWDrV.png",
+	    "thumbUrl": "https://i.imgur.com/YntKDRI.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePinkWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SMJb8Xm.png",
+	    "thumbUrl": "https://i.imgur.com/0MG1mVs.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedGlitter",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YpROG1D.png",
+	    "thumbUrl": "https://i.imgur.com/oNbtyEM.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangesWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eU9fUnP.png",
+	    "thumbUrl": "https://i.imgur.com/GbG5D3m.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSuits",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VVqfEf6.png",
+	    "thumbUrl": "https://i.imgur.com/Ro0VjBN.png",
+            "collections":"minimal,s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkBlueWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y3mSpJk.png",
+	    "thumbUrl": "https://i.imgur.com/3XjW6do.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	     
+     {
             "name":"MusicCasset",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/kV9V2xb.png",
