@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Xwalls90",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A2LMSgO.png",
+	    "thumbUrl": "https://i.imgur.com/uPZvPDm.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSakura",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Vn6kDDh.png",
+	    "thumbUrl": "https://i.imgur.com/xFNT2Tf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GamePlayer1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/E4kGuDA.png",
+	    "thumbUrl": "https://i.imgur.com/jY7j6QE.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HotAirBall",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c7CN6Yg.png",
+	    "thumbUrl": "https://i.imgur.com/ASd9Npb.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VerticalSun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AgUU5zY.png",
+	    "thumbUrl": "https://i.imgur.com/bBQahg0.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Winner",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7kTQBYJ.png",
+	    "thumbUrl": "https://i.imgur.com/T0nEm42.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	     
+     {
             "name":"BrightWave",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/hhYWDrV.png",
