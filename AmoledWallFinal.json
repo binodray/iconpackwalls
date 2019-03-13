@@ -53,6 +53,78 @@
     ],
     "Wallpapers":[
      {
+            "name":"AmoledGalaxyVR",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mhPU11i.png",
+	    "thumbUrl": "https://i.imgur.com/GapXd1E.png",
+            "collections":"s10series,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledsWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KzAJQ9p.png",
+	    "thumbUrl": "https://i.imgur.com/SALiN0K.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledVR1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3hlxA01.png",
+	    "thumbUrl": "https://i.imgur.com/uIaPwkr.png",
+            "collections":"minimal,s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RunningFox",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NxwBuQM.png",
+	    "thumbUrl": "https://i.imgur.com/Rk6TD2W.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledVR2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jzFMTeF.png",
+	    "thumbUrl": "https://i.imgur.com/udekplw.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlowerPots",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/82Lh3Sm.png",
+	    "thumbUrl": "https://i.imgur.com/pZVhgek.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledSakua",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lbtBatZ.png",
+	    "thumbUrl": "https://i.imgur.com/if2xTby.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueFadedWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QZA5G0N.png",
+	    "thumbUrl": "https://i.imgur.com/f3Yhq1J.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GradienDeer",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/MAGHFiH.png",
