@@ -44,6 +44,78 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueGlasse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iM0h7Hn.png",
+	    "thumbUrl": "https://i.imgur.com/FaASLEW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BikiniGirls4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/l96LbrX.png",
+	    "thumbUrl": "https://i.imgur.com/NLPyO0p.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BikiniGirl3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VRaEa2F.png",
+	    "thumbUrl": "https://i.imgur.com/Zm4G5hJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SwingBunny",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G7bPxbq.png",
+	    "thumbUrl": "https://i.imgur.com/kMLxJma.png",
+            "collections":"s10series,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GirlSwings",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8YvPRgP.png",
+	    "thumbUrl": "https://i.imgur.com/qTGsRs2.png",
+            "collections":"minimal,s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/L45yPY1.png",
+	    "thumbUrl": "https://i.imgur.com/VweYBHy.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BikiniGirl5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rp4nGKl.png",
+	    "thumbUrl": "https://i.imgur.com/pzHTAm6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TeaCups",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WdRgYTq.png",
+	    "thumbUrl": "https://i.imgur.com/grhnTGy.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Xwalls90",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/A2LMSgO.png",
