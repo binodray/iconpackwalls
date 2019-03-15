@@ -44,6 +44,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"HexaBee",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xWfNsLp.png",
+	    "thumbUrl": "https://i.imgur.com/BBWD683.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientJungle5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h0OFE0r.png",
+	    "thumbUrl": "https://i.imgur.com/dJPQZKu.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluJala",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Fsx6fHz.png",
+	    "thumbUrl": "https://i.imgur.com/OWbgKEO.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientJala",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m3yK144.png",
+	    "thumbUrl": "https://i.imgur.com/q7fi4JO.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MetalArmor",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/17ZXTDc.png",
+	    "thumbUrl": "https://i.imgur.com/nyXLrWE.png",
+            "collections":"abstract,random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MoonResearh",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/j7FKHpM.png",
+	    "thumbUrl": "https://i.imgur.com/66V6SFR.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RoboButler",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gbUCvpj.png",
+	    "thumbUrl": "https://i.imgur.com/QaAPVh9.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueGlasse",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iM0h7Hn.png",
