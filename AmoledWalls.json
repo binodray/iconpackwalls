@@ -53,6 +53,76 @@
     ],
     "Wallpapers":[
      {
+            "name":"GamerWalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Wd4g3gk.png",
+	    "thumbUrl": "https://i.imgur.com/k89WLMe.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalCycle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DRRRR3d.png",
+	    "thumbUrl": "https://i.imgur.com/z8scS1T.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalScooters",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MmwLbAL.png",
+	    "thumbUrl": "https://i.imgur.com/EYB4enG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowBoard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4uX6peh.png",
+	    "thumbUrl": "https://i.imgur.com/4z94ezY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueNeonPolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lIenKaB.png",
+	    "thumbUrl": "https://i.imgur.com/SluSLNW.png",
+            "collections":"abstract,random,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HelloRobo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/e7R1q8A.png",
+	    "thumbUrl": "https://i.imgur.com/0YYUv7a.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HiAoo2J.png",
+	    "thumbUrl": "https://i.imgur.com/CpYHBjr.png",
+            "collections":"quirky,s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"KidSwing",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/BxJjcYE.png",
