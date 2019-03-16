@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"MarsEstablishment",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hWTnDsI.png",
+	    "thumbUrl": "https://i.imgur.com/4S02YgT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmoothSpace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MxDSn5R.png",
+	    "thumbUrl": "https://i.imgur.com/GWxSoZJ.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceShows",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MWq26RB.png",
+	    "thumbUrl": "https://i.imgur.com/fvHQbul.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WholeSpace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eavADIO.png",
+	    "thumbUrl": "https://i.imgur.com/OEpPVCC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftsPlanets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sI29eTk.png",
+	    "thumbUrl": "https://i.imgur.com/qXmZNxp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"HexaBee",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/xWfNsLp.png",
