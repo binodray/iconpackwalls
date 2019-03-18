@@ -52,6 +52,69 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"SpaceExplorer2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/waxAuhj.png",
+	    "thumbUrl": "https://i.imgur.com/cQtZQR4.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShatterdGlass",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Kl6hfXQ.png",
+	    "thumbUrl": "https://i.imgur.com/o8e8WFU.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpaceExplorer1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dh9tDCi.png",
+	    "thumbUrl": "https://i.imgur.com/NeGlVJd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightLightHouse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3yw4FY1.png",
+	    "thumbUrl": "https://i.imgur.com/8NFsOTk.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DareDreams",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/y5AcX6R.png",
+	    "thumbUrl": "https://i.imgur.com/h4g9cl2.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldensLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0YWgRsh.png",
+	    "thumbUrl": "https://i.imgur.com/cwH5mxs.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GlowingPot2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SFIHuor.png",
+	    "thumbUrl": "https://i.imgur.com/IfHMPMt.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"SpaceMagic",
       	    "author":"Binod Ray",
