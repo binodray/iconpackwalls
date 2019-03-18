@@ -44,6 +44,69 @@
     ],
     "Wallpapers":[
      {
+            "name":"AbsGradLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jaORNML.png",
+	    "thumbUrl": "https://i.imgur.com/sOIkjkc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrownsEagle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hHolmwF.png",
+	    "thumbUrl": "https://i.imgur.com/mUi4F7T.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlusBokeh2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qhhw9TC.png",
+	    "thumbUrl": "https://i.imgur.com/ixL2MPl.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DesertsMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R9MhNV3.png",
+	    "thumbUrl": "https://i.imgur.com/Rgy6Tna.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowParrot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/79Qfl9K.png",
+	    "thumbUrl": "https://i.imgur.com/4WSmBhu.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TwoPlanets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SnJKNx2.png",
+	    "thumbUrl": "https://i.imgur.com/duqhON8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinksSakur",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Si3g4UZ.png",
+	    "thumbUrl": "https://i.imgur.com/A2XlWD8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MarsEstablishment",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/hWTnDsI.png",
