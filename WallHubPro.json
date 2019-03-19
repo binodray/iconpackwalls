@@ -43,6 +43,51 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"FallingQubes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2XeIPgY.png",
+	    "thumbUrl": "https://i.imgur.com/ECoK5Zb.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftGeo5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c4Q8iqJ.png",
+	    "thumbUrl": "https://i.imgur.com/rPwBmMK.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MaroonSkies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IiKmmH4.png",
+	    "thumbUrl": "https://i.imgur.com/2IvcTP6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatSunSets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LzlYOKq.png",
+	    "thumbUrl": "https://i.imgur.com/UKkWgqJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NailMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lzH41XR.png",
+	    "thumbUrl": "https://i.imgur.com/EUim6ff.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
      {
             "name":"AbsGradLine",
       	    "author":"Binod Ray",
