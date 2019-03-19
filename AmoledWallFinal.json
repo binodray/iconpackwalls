@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
       {
+            "name":"AmoledDesert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mvr9atj.png",
+	    "thumbUrl": "https://i.imgur.com/8MEcwkh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSpace9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gKwVeVY.png",
+	    "thumbUrl": "https://i.imgur.com/3bSmDsZ.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientCommet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/S6sxBCr.png",
+	    "thumbUrl": "https://i.imgur.com/ficGYCO.png",
+            "collections":"minima,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledAutumn",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GOZYySb.png",
+	    "thumbUrl": "https://i.imgur.com/OJvdiHA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSpace8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f1znGMV.png",
+	    "thumbUrl": "https://i.imgur.com/S5sTtKE.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"SpaceExplorer2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/waxAuhj.png",
