@@ -52,7 +52,52 @@
         }
     ],
     "Wallpapers":[
-      {
+     {
+            "name":"BluishNights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fz5pWY5.png",
+	    "thumbUrl": "https://i.imgur.com/4yx550B.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeDeers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XSTpdTx.png",
+	    "thumbUrl": "https://i.imgur.com/tpwZzLi.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowSkies4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NoFyHzL.png",
+	    "thumbUrl": "https://i.imgur.com/nNInMXF.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoraSkies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gntAI2S.png",
+	    "thumbUrl": "https://i.imgur.com/A3Y26oK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NightJourney",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ilWUX7e.png",
+	    "thumbUrl": "https://i.imgur.com/1LblprI.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"AmoledDesert",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mvr9atj.png",
