@@ -42,8 +42,57 @@
         }
     ],
     "Wallpapers":[
-	    
-       {
+      {
+            "name":"ToonGames",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vk9XiUb.png",
+	    "thumbUrl": "https://i.imgur.com/e4SyhHq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatTrains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8qSmHh4.png",
+	    "thumbUrl": "https://i.imgur.com/GyLSINR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkGeos",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HfHHnpz.png",
+	    "thumbUrl": "https://i.imgur.com/pQ7EIJM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorForests",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4QiUphR.png",
+	    "thumbUrl": "https://i.imgur.com/Ks36a6W.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelCitis",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aV69QdK.png",
+	    "thumbUrl": "https://i.imgur.com/LQZO2Oh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FallingQubes",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2XeIPgY.png",
