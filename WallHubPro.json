@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"WolfHowls2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Co2U0zD.png",
+	    "thumbUrl": "https://i.imgur.com/CThSqFm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Colorfullsevening",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BtpvA7S.png",
+	    "thumbUrl": "https://i.imgur.com/TYAULxt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkLandscape",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0NscNOR.png",
+	    "thumbUrl": "https://i.imgur.com/qd4mnsH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DeepOrange",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5AGuV3Z.png",
+	    "thumbUrl": "https://i.imgur.com/UKW9A9T.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WatchTower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sme4f0j.png",
+	    "thumbUrl": "https://i.imgur.com/forlX0n.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GreatAniket",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TB2WIIW.png",
