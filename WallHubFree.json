@@ -43,6 +43,26 @@
     ],
     "Wallpapers":[
       {
+            "name":"Mrwhosetheboss2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AuAHv9p.png",
+	    "thumbUrl": "https://i.imgur.com/kRryQzc.png",
+            "collections":"Youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Mrwhosetheboss3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M0YYSNg.png",
+	    "thumbUrl": "https://i.imgur.com/CQO4hIw.png",
+            "collections":"Youtubers" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 
+      {
             "name":"WolfHowls2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Co2U0zD.png",
