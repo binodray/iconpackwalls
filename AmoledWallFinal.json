@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"EveningFun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lAob7UJ.png",
+	    "thumbUrl": "https://i.imgur.com/ea8P2P0.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Greenoctopus",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xQx8Xgf.png",
+	    "thumbUrl": "https://i.imgur.com/035sp5y.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleTrains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mgTGdOF.png",
+	    "thumbUrl": "https://i.imgur.com/APzbvgW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MotorBridge",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0ygvdgW.png",
+	    "thumbUrl": "https://i.imgur.com/pDb1yPy.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeNature",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eEMEEqw.png",
+	    "thumbUrl": "https://i.imgur.com/yxv8xwA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Mrwhosetheboss4",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ml4VSYA.png",
