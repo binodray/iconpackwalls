@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"FlyingAstro",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vbKQu8N.png",
+	    "thumbUrl": "https://i.imgur.com/ur4RSpz.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TotalRGB",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cRcbx7Z.png",
+	    "thumbUrl": "https://i.imgur.com/1Q4ekhH.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenMelt",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0Oh5GQW.png",
+	    "thumbUrl": "https://i.imgur.com/lZDB79g.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"UlkaPaat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RHSQPsH.png",
+	    "thumbUrl": "https://i.imgur.com/ylaZPmR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedNets2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D4kcN2t.png",
+	    "thumbUrl": "https://i.imgur.com/wLF9qih.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfullHair",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iyYxlfb.png",
+	    "thumbUrl": "https://i.imgur.com/VN60egM.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"EveningFun",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/lAob7UJ.png",
