@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"TryingCloth",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Krh3kyp.png",
+	    "thumbUrl": "https://i.imgur.com/sLenYLK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CoolLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/F3AkAsf.png",
+	    "thumbUrl": "https://i.imgur.com/224C6Ge.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSneakers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oiowGAG.png",
+	    "thumbUrl": "https://i.imgur.com/8r75A9K.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OwnShadow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xUnfBdy.png",
+	    "thumbUrl": "https://i.imgur.com/nIk6Bd0.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSneaker",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bzBfp3b.png",
+	    "thumbUrl": "https://i.imgur.com/kW1RhI8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GreatScore",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/SUvq0cc.png",
