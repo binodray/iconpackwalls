@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"CrissCross",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iWYTF9W.png",
+	    "thumbUrl": "CrissCross",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmallHouse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Rrv5R9Z.png",
+	    "thumbUrl": "https://i.imgur.com/u7Lcwmx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TreeWalk",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bmSCuQ9.png",
+	    "thumbUrl": "https://i.imgur.com/8vDe0Xh.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowBoxex",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gT51ZAz.png",
+	    "thumbUrl": "https://i.imgur.com/INoLP21.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedCycle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/S3NAbIh.png",
+	    "thumbUrl": "https://i.imgur.com/vElT6QL.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"TryingCloth",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Krh3kyp.png",
