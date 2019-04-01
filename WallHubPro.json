@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"RedLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VEYhMOv.png",
+	    "thumbUrl": "https://i.imgur.com/1l15v0A.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSpace2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7NHnxFw.png",
+	    "thumbUrl": "https://i.imgur.com/tBYPMzW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lZjFneP.png",
+	    "thumbUrl": "https://i.imgur.com/zvBX5I3.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteSpace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CKoGapk.png",
+	    "thumbUrl": "https://i.imgur.com/Euziall.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ManyGalaxies3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6vchvrV.png",
+	    "thumbUrl": "https://i.imgur.com/aAZLJfd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CrissCross",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iWYTF9W.png",
