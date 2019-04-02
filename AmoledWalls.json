@@ -53,6 +53,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"ColorfulIslands",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v5rOtIQ.png",
+	    "thumbUrl": "https://i.imgur.com/rx7SdpL.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SuperDogs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AzdZhy4.png",
+	    "thumbUrl": "https://i.imgur.com/aflOwdA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GentleDogs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gLtqRfk.png",
+	    "thumbUrl": "https://i.imgur.com/WH3twMX.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BabyPandas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aiopQwA.png",
+	    "thumbUrl": "https://i.imgur.com/bmXBIQA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Krishnas2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Nd8i4bR.png",
+	    "thumbUrl": "https://i.imgur.com/U7ty5Ff.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DarkFishins",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3a4kBLi.png",
