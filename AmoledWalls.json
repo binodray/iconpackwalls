@@ -53,51 +53,7 @@
     ],
     "Wallpapers":[
      	    
-     {
-            "name":"BluishBubbles5",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/iYAoXTO.png",
-	    "thumbUrl": "https://i.imgur.com/iyjSKWs.png",
-            "collections":"random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PerfectBeachs",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/SYTMotn.png",
-	    "thumbUrl": "https://i.imgur.com/D3FVPgI.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Krishnas3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/knFL4RS.png",
-	    "thumbUrl": "https://i.imgur.com/LsLecsW.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"GlowGeos",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/Cq3oCQf.png",
-	    "thumbUrl": "https://i.imgur.com/kMrr9v8.png",
-            "collections":"abstract" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"ColorfulIsland",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/55RwhZZ.png",
-	    "thumbUrl": "https://i.imgur.com/lScMHhs.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	     
+     	     
      {
             "name":"ColorfulIslands",
       	    "author":"Binod Ray",
