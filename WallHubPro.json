@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"TeamWorks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f1YvY1v.png",
+	    "thumbUrl": "https://i.imgur.com/ZqBqm4N.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleGalaxy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Oiwj13f.png",
+	    "thumbUrl": "https://i.imgur.com/CXKWJ6f.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMoon6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u4z1FBM.png",
+	    "thumbUrl": "https://i.imgur.com/ZkgM55w.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NightLight3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iaDBhfn.png",
+	    "thumbUrl": "https://i.imgur.com/Y55Cleg.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrownFeild",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AehCP1g.png",
+	    "thumbUrl": "https://i.imgur.com/ak5lm4b.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BluishBubbles5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iYAoXTO.png",
