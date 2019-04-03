@@ -59,6 +59,7 @@
 	    "thumbUrl": "https://i.imgur.com/8Oe0Rf4.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -68,6 +69,7 @@
 	    "thumbUrl": "https://i.imgur.com/dRrbS1j.png",
             "collections":"random,abstract" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -77,6 +79,7 @@
 	    "thumbUrl": "https://i.imgur.com/poIC4cW.png",
             "collections":"quote" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -86,6 +89,7 @@
 	    "thumbUrl": "https://i.imgur.com/JWMSzZY.png",
             "collections":"random,quirky" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },
      {
@@ -95,6 +99,7 @@
 	    "thumbUrl": "https://i.imgur.com/uorDFbF.png",
             "collections":"random,abstract,quirky" ,
             "dimensions":"1440x2560",
+	    "downloadable":false,
 	    "copyright":"Personal Use" 
      },	    
      {
