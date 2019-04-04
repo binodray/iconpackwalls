@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"CliffTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XbLK5Pl.png",
+	    "thumbUrl": "https://i.imgur.com/Lh4FcHS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DayIbadad",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5iQueIB.png",
+	    "thumbUrl": "https://i.imgur.com/lUa1NJW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FadedCities",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FblrTaF.png",
+	    "thumbUrl": "https://i.imgur.com/7Qej4XH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HardCycle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Y5Vx39e.png",
+	    "thumbUrl": "https://i.imgur.com/vdU8bAe.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DayIbadad1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tpNvBEQ.png",
+	    "thumbUrl": "https://i.imgur.com/JIjacPl.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"TeamWorks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/f1YvY1v.png",
