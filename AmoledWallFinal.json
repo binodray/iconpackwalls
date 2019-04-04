@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"CatandMouse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fGru4ao.png",
+	    "thumbUrl": "https://i.imgur.com/RaFItHA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AstroGlasses",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IkfIQDm.png",
+	    "thumbUrl": "https://i.imgur.com/PhsLFpe.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkingPet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/L0DALU1.png",
+	    "thumbUrl": "https://i.imgur.com/wqio8HG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkingTable",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qa9v3eq.png",
+	    "thumbUrl": "https://i.imgur.com/s2ktosJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Prides4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZlepYXK.png",
+	    "thumbUrl": "https://i.imgur.com/3IGijZN.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BeVoices",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7wcSyyH.png",
