@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"LightDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pon0oOR.png",
+	    "thumbUrl": "https://i.imgur.com/nbrnrj1.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"KirshnaPlay",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wIQMFKh.png",
+	    "thumbUrl": "https://i.imgur.com/YJPIt4b.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hiking8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pNN1IZm.png",
+	    "thumbUrl": "https://i.imgur.com/62wvWWi.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Photographer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xgs3hia.png",
+	    "thumbUrl": "https://i.imgur.com/20MLF3W.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Bluish3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fRdc74P.png",
+	    "thumbUrl": "https://i.imgur.com/Qb27PP8.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"CliffTrees",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/XbLK5Pl.png",
