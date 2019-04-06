@@ -50,6 +50,7 @@
 	    "thumbUrl": "https://i.imgur.com/nbrnrj1.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	    "featured": true,
 	    "copyright":"Personal Use" 
      },
      {
