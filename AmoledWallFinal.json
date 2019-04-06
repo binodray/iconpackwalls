@@ -59,6 +59,7 @@
 	    "thumbUrl": "https://i.imgur.com/l0Skw7C.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
+	     "featured": true,
 	    "copyright":"Personal Use" 
      },
      {
