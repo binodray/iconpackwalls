@@ -49,7 +49,8 @@
 	    "thumbUrl": "https://i.imgur.com/nbrnrj1.png",
             "collections":"random" ,
             "dimensions":"1440x2560",
-	    "downloadable":false, 
+	    "downloadable":false,
+	     "featured": true,
 	    "copyright":"Personal Use" 
      },
      {
