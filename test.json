@@ -5053,7 +5053,26 @@
 	    "copyright":"Personal Use" 
      }, 	    
       
-     	  
+     {
+            "name":"GreenLizzard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yZyPzMi.png",
+	    "thumbUrl": "https://i.imgur.com/MjSxGfY.png",
+            "collections":"minimal,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalDragon1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t1QSpMk.png",
+	    "thumbUrl": "https://i.imgur.com/toPWJZT.png",
+            "collections":"minimal,random,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	  
     {
       "name": "ShotA",
       "author": "Someone",
