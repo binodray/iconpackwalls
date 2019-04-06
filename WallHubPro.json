@@ -44,6 +44,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"BeachRelax",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bpYxQrd.png",
+	    "thumbUrl": "https://i.imgur.com/SYwoppd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+      {
+            "name":"GhostSmoke",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hha4MMG.png",
+	    "thumbUrl": "https://i.imgur.com/vp7ksT1.png",
+            "collections":"minimal" ,
+            "dimensions":"abstract",
+	    "featured": true,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BeachSurfs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hXuPSnO.png",
+	    "thumbUrl": "https://i.imgur.com/2dTFOdG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BeachGirls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HDySUU9.png",
+	    "thumbUrl": "https://i.imgur.com/6crcSto.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractsWave54",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VvOX1rC.png",
+	    "thumbUrl": "https://i.imgur.com/utWNCpC.png",
+            "collections":"random,abstract,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"LightDrops",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/pon0oOR.png",
