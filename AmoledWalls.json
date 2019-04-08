@@ -50,9 +50,59 @@
 			"preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
 		}
 	],
-	"Wallpapers": [
+    "Wallpapers": [
 		
-		
+     {
+            "name":"GradietScenic5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4YfGPYh.png",
+	    "thumbUrl": "https://i.imgur.com/ae4GIom.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CycleBags",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CjaN1Gb.png",
+	    "thumbUrl": "https://i.imgur.com/08CVVol.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ButterflyPlanet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MdaVTX5.png",
+	    "thumbUrl": "https://i.imgur.com/d9HD1r1.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HawaiJahaj",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0Eur5Vy.png",
+	    "thumbUrl": "https://i.imgur.com/jyYP0a8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FoldenVallies",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yHR7tpx.png",
+	    "thumbUrl": "https://i.imgur.com/K3omeXh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true,
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },		
      {
             "name":"WiseReader",
       	    "author":"Binod Ray",
