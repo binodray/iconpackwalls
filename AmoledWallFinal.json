@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"VerticalMountains",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HdXR5BO.png",
+	    "thumbUrl": "https://i.imgur.com/c1NwHnM.png",
+            "collections":"quirky,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TrainJourney",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bskmcEy.png",
+	    "thumbUrl": "https://i.imgur.com/4vtrSkY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ramadan3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VBv9kND.png",
+	    "thumbUrl": "https://i.imgur.com/UoDrnZb.png",
+            "collections":"faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MyTrips",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/F1qlWto.png",
+	    "thumbUrl": "https://i.imgur.com/fiD0afJ.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ramadan2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vMuoruR.png",
+	    "thumbUrl": "https://i.imgur.com/099GwGr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GradietScenic5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/4YfGPYh.png",
