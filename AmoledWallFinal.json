@@ -95,6 +95,7 @@
 	    "thumbUrl": "https://i.imgur.com/099GwGr.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
+	    "featured": true, 
 	    "copyright":"Personal Use" 
      }, 	    
      {
