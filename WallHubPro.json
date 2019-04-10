@@ -44,6 +44,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"MinimalBeans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xscl3uG.png",
+	    "thumbUrl": "https://i.imgur.com/fzAqo2K.png",
+            "collections":"material,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMint",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BBSUm5T.png",
+	    "thumbUrl": "https://i.imgur.com/a6kB4Ko.png",
+            "collections":"minimal,material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorFlowras",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wTl2sZq.png",
+	    "thumbUrl": "xxx",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BoatRides",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xw9O0h1.png",
+	    "thumbUrl": "https://i.imgur.com/pq5KQa5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Digitalholo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VwzO9dZ.png",
+	    "thumbUrl": "https://i.imgur.com/DOR3ez6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DarkCliffs",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/JiM5b24.png",
