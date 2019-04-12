@@ -51,6 +51,52 @@
 		}
 	],
     "Wallpapers": [
+      {
+            "name":"DarkDrakula",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w5cbgUe.png",
+	    "thumbUrl": "https://i.imgur.com/dzjGPWc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalDesert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fwo9vnC.png",
+	    "thumbUrl": "https://i.imgur.com/pBCXO21.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HalfEarth",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OcXjHvB.png",
+	    "thumbUrl": "https://i.imgur.com/yVsEH3v.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalLightHouse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3mwmOyv.png",
+	    "thumbUrl": "https://i.imgur.com/Q2AvqAA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleRockets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XhEmwYX.png",
+	    "thumbUrl": "https://i.imgur.com/fk0vsUS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"Got20",
       	    "author":"Binod Ray",
