@@ -53,6 +53,52 @@
     ],
     "Wallpapers":[
      {
+            "name":"AmoledHiking",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TNQrSYD.png",
+	    "thumbUrl": "https://i.imgur.com/1WGRb6n.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightSuns",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aPonO3h.png",
+	    "thumbUrl": "https://i.imgur.com/FeEhmop.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmallBreak",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zFiHP4Z.png",
+	    "thumbUrl": "https://i.imgur.com/1afP311.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HalfDersert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QcxkVYe.png",
+	    "thumbUrl": "https://i.imgur.com/WDynEEt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalScenic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hQXkxz5.png",
+	    "thumbUrl": "https://i.imgur.com/pNnx8Vn.png",
+            "collections":"minimal" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DarkDrakula",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/w5cbgUe.png",
