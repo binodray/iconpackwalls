@@ -43,6 +43,57 @@
     ],
     "Wallpapers":[
      {
+            "name":"PastelLands9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vSbuCZC.png",
+	    "thumbUrl": "https://i.imgur.com/z8Q2biJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatLlands8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pN90lmD.png",
+	    "thumbUrl": "https://i.imgur.com/K8Rr88O.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelLand8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cKJXRmo.png",
+	    "thumbUrl": "https://i.imgur.com/VEgPQpJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatLlands7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FKHc1kl.png",
+	    "thumbUrl": "https://i.imgur.com/83fSpEH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IceSki8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BJTReDE.png",
+	    "thumbUrl": "https://i.imgur.com/0TmrFnj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PolkaFlair3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Zk5Qgo0.png",
