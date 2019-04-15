@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"MinimalCycle2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5eVejiq.png",
+	    "thumbUrl": "https://i.imgur.com/Y8IjoKj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalSketeing2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/b21L0oG.png",
+	    "thumbUrl": "https://i.imgur.com/c46jieI.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalSketeing3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TglrqoN.png",
+	    "thumbUrl": "https://i.imgur.com/eKYy4BZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalSkis2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lnukSlO.png",
+	    "thumbUrl": "https://i.imgur.com/PGpwZH5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalSurfer2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V1wIo9I.png",
+	    "thumbUrl": "https://i.imgur.com/ZK80xKX.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalRun2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8LwzOvW.png",
+	    "thumbUrl": "https://i.imgur.com/H2sKQb9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PastelLands9",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/vSbuCZC.png",
