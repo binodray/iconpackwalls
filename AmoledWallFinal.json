@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
      {
+            "name":"Adventure2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/otMC55D.png",
+	    "thumbUrl": "https://i.imgur.com/FUjSXlW.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Fortunes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/96ku7qE.png",
+	    "thumbUrl": "https://i.imgur.com/sDH7cVq.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Belives",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AiIjiau.png",
+	    "thumbUrl": "https://i.imgur.com/dvhFPC1.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hikings",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/An2e3gG.png",
+	    "thumbUrl": "https://i.imgur.com/B0KTOHM.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WeThink",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/a7Yy0sR.png",
+	    "thumbUrl": "https://i.imgur.com/aO3N4US.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DontTell",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vACJ5V7.png",
+	    "thumbUrl": "https://i.imgur.com/ToMt9f1.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AmoledHiking",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TNQrSYD.png",
