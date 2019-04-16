@@ -53,6 +53,61 @@
     ],
     "Wallpapers":[
      {
+            "name":"SuperDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1IIv5W3.png",
+	    "thumbUrl": "https://i.imgur.com/GnbvB4F.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCones2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/abcBHNW.png",
+	    "thumbUrl": "https://i.imgur.com/2endsyu.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SquareJumps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Bs8zOZB.png",
+	    "thumbUrl": "https://i.imgur.com/la1WT7i.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledCrystal",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2BDAQbc.png",
+	    "thumbUrl": "https://i.imgur.com/OekVgLB.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeHunter",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4jEqtip.png",
+	    "thumbUrl": "https://i.imgur.com/VILDDel.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CoffeeBreaks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jG4NDbx.png",
+	    "thumbUrl": "https://i.imgur.com/PI3j4BR.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Adventure2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/otMC55D.png",
