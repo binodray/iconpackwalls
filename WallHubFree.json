@@ -43,6 +43,67 @@
     ],
     "Wallpapers":[
      {
+            "name":"BlueMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/I4r2IIQ.png",
+	    "thumbUrl": "https://i.imgur.com/BtxLl38.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ElephantSafari",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/H6vrWrH.png",
+	    "thumbUrl": "https://i.imgur.com/6K9tGGJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MuleRiders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/T7PwdV7.png",
+	    "thumbUrl": "https://i.imgur.com/GLVP2YS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HourseRiders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u2yMm51.png",
+	    "thumbUrl": "https://i.imgur.com/LnniYUp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedCamles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7xuhkdO.png",
+	    "thumbUrl": "https://i.imgur.com/6HsKqBR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RainDeerCart",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/boS2iFS.png",
+	    "thumbUrl": "https://i.imgur.com/Y4hf4RY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MinimalCycle2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/5eVejiq.png",
