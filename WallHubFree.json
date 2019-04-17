@@ -43,6 +43,67 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenCamps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZFc7GcW.png",
+	    "thumbUrl": "https://i.imgur.com/KHA92jN.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RlO6lMy.png",
+	    "thumbUrl": "https://i.imgur.com/JwYvnNn.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkRow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0yGqCLm.png",
+	    "thumbUrl": "https://i.imgur.com/p3s46H9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qu3dB0h.png",
+	    "thumbUrl": "https://i.imgur.com/dIWOHGR.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true,	
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LMkKL6A.png",
+	    "thumbUrl": "https://i.imgur.com/Gq5CAsD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeRoad1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AyirkxF.png",
+	    "thumbUrl": "https://i.imgur.com/DRAaoe6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueMoon",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/I4r2IIQ.png",
@@ -5994,7 +6055,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/4eQzHzo.png",
 	    "thumbUrl": "https://i.imgur.com/k3E1yvG.png",
-            "collections":"random," ,
+            "collections":"random" ,
             "dimensions":"1440x2560",
             "downloadable":false,		
 	    "copyright":"Personal Use" 
