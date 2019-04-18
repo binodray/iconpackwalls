@@ -44,6 +44,61 @@
     ],
     "Wallpapers":[
     {
+            "name":"PurpleDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fWVJWaX.png",
+	    "thumbUrl": "https://i.imgur.com/F51jrQm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenJungle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2d1V56F.png",
+	    "thumbUrl": "https://i.imgur.com/xh1SK2g.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WolfsHowls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CyzptVi.png",
+	    "thumbUrl": "https://i.imgur.com/6lzok5D.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AutumnJungle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dNdw7FB.png",
+	    "thumbUrl": "https://i.imgur.com/L25GvhN.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DryTree",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hyCWSys.png",
+	    "thumbUrl": "https://i.imgur.com/o2noKXZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleMount",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jQwLX1j.png",
+	    "thumbUrl": "https://i.imgur.com/3brZhSj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GreenCamps",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ZFc7GcW.png",
