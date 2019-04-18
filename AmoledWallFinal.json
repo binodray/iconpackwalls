@@ -53,6 +53,61 @@
     ],
     "Wallpapers":[
      {
+            "name":"AbstractBrush3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/61NRcy0.png",
+	    "thumbUrl": "https://i.imgur.com/FjPGy6B.png",
+            "collections":"twisted,abstract,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractBrush1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/T3RtrGi.png",
+	    "thumbUrl": "https://i.imgur.com/QqGARkt.png",
+            "collections":"twisted,abstract,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractBrush5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/87NXLzu.png",
+	    "thumbUrl": "https://i.imgur.com/RWf5yGk.png",
+            "collections":"twisted,abstract,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractBrush2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BRVC44n.png",
+	    "thumbUrl": "https://i.imgur.com/dI4hXoR.png",
+            "collections":"twisted,abstract,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractBrush6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/b78W0g3.png",
+	    "thumbUrl": "https://i.imgur.com/dan90qj.png",
+            "collections":"twisted,abstract,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractBrush4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kxnRjDs.png",
+	    "thumbUrl": "https://i.imgur.com/YCFfbc2.png",
+            "collections":"twisted,abstract,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FluidsLine2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/BS8cU5C.png",
