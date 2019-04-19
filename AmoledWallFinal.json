@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"AbstractDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Cpu0n0k.png",
+	    "thumbUrl": "https://i.imgur.com/tiZjaMU.png",
+            "collections":"simple,minimal,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SumemrFun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qihWpUC.png",
+	    "thumbUrl": "https://i.imgur.com/EK2zoX6.png",
+            "collections":"simple,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SummerGlasses",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jj7VJSM.png",
+	    "thumbUrl": "https://i.imgur.com/UbEUlsT.png",
+            "collections":"simple,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDeer2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Iel2eSK.png",
+	    "thumbUrl": "https://i.imgur.com/ELnr4ud.png",
+            "collections":"simple,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowApple",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bh4Zv7U.png",
+	    "thumbUrl": "https://i.imgur.com/Ytul4GQ.png",
+            "collections":"simple,minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AbstractBrush3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/61NRcy0.png",
