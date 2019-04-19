@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"GentleMans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JFqnoA4.png",
+	    "thumbUrl": "https://i.imgur.com/RzS6J8p.png",
+            "collections":"abstract,random,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Lollipop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/olaHgEa.png",
+	    "thumbUrl": "https://i.imgur.com/UmxFT5A.png",
+            "collections":"abstract,random,minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimplePots",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yYd8ksy.png",
+	    "thumbUrl": "https://i.imgur.com/ogVNSJH.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradWaves6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KeQJRfM.png",
+	    "thumbUrl": "https://i.imgur.com/TggtqoH.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractWave8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7araPwq.png",
+	    "thumbUrl": "https://i.imgur.com/hmhXZGM.png",
+            "collections":"abstract,random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	     
+    {
             "name":"PurpleDeer",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/fWVJWaX.png",
