@@ -52,6 +52,66 @@
 	],
     "Wallpapers": [
      {
+            "name":"Blue3Cerpent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/F8Bvd3z.png",
+	    "thumbUrl": "https://i.imgur.com/niNr59A.png",
+            "collections":"simple,quirky,twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkCerpent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vqnYbE9.png",
+	    "thumbUrl": "https://i.imgur.com/7fBFFko.png",
+            "collections":"simple,quirky,twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeCerpent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mNcfkeU.png",
+	    "thumbUrl": "https://i.imgur.com/GbNOlRU.png",
+            "collections":"simple,quirky,twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueCerpent2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/B8snMYI.png",
+	    "thumbUrl": "https://i.imgur.com/PGVcnac.png",
+            "collections":"simple,quirky,twisted,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeCerpent1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6bgJSQz.png",
+	    "thumbUrl": "https://i.imgur.com/bv1ujtm.png",
+            "collections":"simple,quirky,twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueCerpent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PzXIRPA.png",
+	    "thumbUrl": "https://i.imgur.com/mjzxdPl.png",
+            "collections":"simple,quirky,twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AbstractDrops",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Cpu0n0k.png",
@@ -59,6 +119,7 @@
             "collections":"simple,minimal,quirky,featured" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
+	    "featured": true, 
 	    "copyright":"Personal Use" 
      },
      {
