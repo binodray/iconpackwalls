@@ -85,6 +85,7 @@
             "url":"https://i.imgur.com/B8snMYI.png",
 	    "thumbUrl": "https://i.imgur.com/PGVcnac.png",
             "collections":"simple,quirky,twisted,featured" ,
+	    "featured": true, 
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
