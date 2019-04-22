@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
       {
+            "name":"PUBG4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EUHQfu6.png",
+	    "thumbUrl": "https://i.imgur.com/nkfNaTh.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PUBG5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Wg2fyAc.png",
+	    "thumbUrl": "https://i.imgur.com/yMnd9Cf.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PUBG10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zffxicX.png",
+	    "thumbUrl": "https://i.imgur.com/XSsxzO3.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PUBG2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OKiFpNW.png",
+	    "thumbUrl": "https://i.imgur.com/Ud4eKIx.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PUBG3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/e5yzdvO.png",
+	    "thumbUrl": "https://i.imgur.com/en6GfH5.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	     
+      {
             "name":"BarrenJungle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/M3klOG0.png",
