@@ -52,6 +52,106 @@
 	],
     "Wallpapers": [
      {
+            "name":"Bluetriagles",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sohibjq.png",
+	    "thumbUrl": "https://i.imgur.com/qpnO6Hq.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkCover",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DBjZH40.png",
+	    "thumbUrl": "https://i.imgur.com/uY4wbnH.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSquare",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sOeGaKa.png",
+	    "thumbUrl": "https://i.imgur.com/eSXXP1m.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeSeed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yW4KMKI.png",
+	    "thumbUrl": "https://i.imgur.com/NpIIPPb.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWhiteDot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SwSYOEW.png",
+	    "thumbUrl": "https://i.imgur.com/rK2UfRk.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EarthLike",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6lY9Od9.png",
+	    "thumbUrl": "https://i.imgur.com/KXhHgQJ.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowSeed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QXykmzZ.png",
+	    "thumbUrl": "https://i.imgur.com/01Xrm0j.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeDash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ANQuvfh.png",
+	    "thumbUrl": "https://i.imgur.com/qY4q7DB.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowBlueCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EXLoLbP.png",
+	    "thumbUrl": "https://i.imgur.com/ScfqK4a.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedYellowCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nEsHGsD.png",
+	    "thumbUrl": "https://i.imgur.com/rNQKIZa.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FightDark",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/XHnoSLv.png",
