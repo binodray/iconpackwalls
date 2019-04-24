@@ -44,6 +44,96 @@
     ],
     "Wallpapers":[
     {
+            "name":"DeepBluePattern",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sAvBZd3.png",
+	    "thumbUrl": "https://i.imgur.com/9IYohsj.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWorms3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KyPq3rZ.png",
+	    "thumbUrl": "https://i.imgur.com/3ON1oXR.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackTulip",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PPeo47m.png",
+	    "thumbUrl": "https://i.imgur.com/MCNZts3.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FluidsTexture1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0UL6zh9.png",
+	    "thumbUrl": "https://i.imgur.com/PLsF6V8.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TeaGarden",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d2SgBsB.png",
+	    "thumbUrl": "https://i.imgur.com/zfWNaro.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LadyWalk",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bHwkw6R.png",
+	    "thumbUrl": "https://i.imgur.com/l8Mm8E3.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeenWorms2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6kIe4uT.png",
+	    "thumbUrl": "https://i.imgur.com/QTf3zMM.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkWorms2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OiRmtNO.png",
+	    "thumbUrl": "https://i.imgur.com/IabPbqr.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LoneSurfer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LiHV2cP.png",
+	    "thumbUrl": "https://i.imgur.com/UOwfP6Q.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedTulip",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZUTcREv.png",
+	    "thumbUrl": "https://i.imgur.com/8IjlQku.png",
+            "collections":"simple,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FightLight",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/tLuvgoZ.png",
