@@ -51,6 +51,57 @@
 		}
 	],
     "Wallpapers": [
+      {
+            "name":"LightGreenAbstract",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OTmRElC.png",
+	    "thumbUrl": "https://i.imgur.com/xuEbgNJ.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GirlBack",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0Gxa73n.png",
+	    "thumbUrl": "https://i.imgur.com/2eDUKJ9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightBlueAbstract",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XFIjqCy.png",
+	    "thumbUrl": "https://i.imgur.com/MQyeVpF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightPinkAbstract",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GwBHiyx.png",
+	    "thumbUrl": "https://i.imgur.com/0Fp5OEU.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Blondy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PXMuCkG.png",
+	    "thumbUrl": "https://i.imgur.com/uZzIsWA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"Bluetriagles",
       	    "author":"Binod Ray",
