@@ -44,6 +44,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"LightBlueCones",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UL6czpm.png",
+	    "thumbUrl": "https://i.imgur.com/JMlzEp3.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GirlBackLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hc5gfkg.png",
+	    "thumbUrl": "https://i.imgur.com/V9QV76L.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlondyLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ww4a7a8.png",
+	    "thumbUrl": "https://i.imgur.com/QTWu9fc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkCones3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bdOSlCQ.png",
+	    "thumbUrl": "https://i.imgur.com/A2P5CBv.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkBlueCones3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c57M02L.png",
+	    "thumbUrl": "https://i.imgur.com/Ubf1gcd.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"DeepBluePattern",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sAvBZd3.png",
