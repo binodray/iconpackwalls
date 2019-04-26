@@ -42,7 +42,58 @@
         }
     ],
     "Wallpapers":[
-      {
+     {
+            "name":"PurpleMahinLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qG4cakX.png",
+	    "thumbUrl": "https://i.imgur.com/6BjH9bi.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OldMusican",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yDGC6Mn.png",
+	    "thumbUrl": "https://i.imgur.com/eHKc4fl.png",
+            "collections":"simple,minimal,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true,  
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowCone",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xGGpoFd.png",
+	    "thumbUrl": "https://i.imgur.com/J2II9ZT.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedShadows",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rJr9NzZ.png",
+	    "thumbUrl": "https://i.imgur.com/5yp4HpM.png",
+            "collections":"material,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedMahinLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g4kxwLm.png",
+	    "thumbUrl": "https://i.imgur.com/NrQ3ZjK.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"LightBlueCones",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/UL6czpm.png",
