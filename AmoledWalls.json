@@ -52,6 +52,57 @@
 	],
     "Wallpapers": [
       {
+            "name":"PinkGradient2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AexFQdu.png",
+	    "thumbUrl": "https://i.imgur.com/uVjaN6G.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PolyKingfisher",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3XF8gii.png",
+	    "thumbUrl": "https://i.imgur.com/CCCTFhr.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenUpperCorner",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EQ60IsY.png",
+	    "thumbUrl": "https://i.imgur.com/SFOw8CX.png",
+            "collections":"quirky,random,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedTulips",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7j6iVdz.png",
+	    "thumbUrl": "https://i.imgur.com/pDz0pSo.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Mahadev",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uYcqbfy.png",
+	    "thumbUrl": "https://i.imgur.com/jtkuwr5.png",
+            "collections":"quirky,minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "featured": true,  
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"LightGreenAbstract",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/OTmRElC.png",
