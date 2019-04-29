@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
      {
+            "name":"PinkStreak2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GhSk9qf.png",
+	    "thumbUrl": "https://i.imgur.com/U3u6NcI.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShoutingTrump",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AU8OGQN.png",
+	    "thumbUrl": "https://i.imgur.com/ipIbPc6.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradeintDrops",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HrKD4VZ.png",
+	    "thumbUrl": "https://i.imgur.com/yAPnP4G.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorSinger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C0dfcmH.png",
+	    "thumbUrl": "https://i.imgur.com/OR5LQQ7.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlackFluids",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dlziWSP.png",
+	    "thumbUrl": "https://i.imgur.com/3bwUCRx.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"PinkGradient2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/AexFQdu.png",
