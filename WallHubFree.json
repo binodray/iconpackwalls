@@ -43,6 +43,57 @@
     ],
     "Wallpapers":[
      {
+            "name":"BluesCloud",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2TravaK.png",
+	    "thumbUrl": "https://i.imgur.com/5m7o9q9.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Polynature",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3uutbgW.png",
+	    "thumbUrl": "https://i.imgur.com/Vje8BV7.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SuperMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/itLUDqK.png",
+	    "thumbUrl": "https://i.imgur.com/3oPuHzW.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteStars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VfoExZY.png",
+	    "thumbUrl": "https://i.imgur.com/xFqHwlA.png",
+            "collections":"minimal,simple,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SwagonGray",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LVmY7iY.png",
+	    "thumbUrl": "https://i.imgur.com/OiSvIj3.png",
+            "collections":"minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorSinger1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iAFeLi1.png",
