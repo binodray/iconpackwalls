@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"PinkLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/blRBLYG.png",
+	    "thumbUrl": "https://i.imgur.com/x8Qi3um.png",
+            "collections":"minimal,girls,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qVD6DH2.png",
+	    "thumbUrl": "https://i.imgur.com/g6Vttjt.png",
+            "collections":"minimal,girls,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CrMgAQ8.png",
+	    "thumbUrl": "https://i.imgur.com/xQ4T4MX.png",
+            "collections":"minimal,girls,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrayLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h8AbbJl.png",
+	    "thumbUrl": "https://i.imgur.com/JhYYCt7.png",
+            "collections":"minimal,girls,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrownLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CZbHeYd.png",
+	    "thumbUrl": "https://i.imgur.com/KVASfMi.png",
+            "collections":"minimal,girls,simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	     
+     {
             "name":"BluesCloud",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2TravaK.png",
