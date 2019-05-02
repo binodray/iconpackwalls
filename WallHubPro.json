@@ -60,6 +60,52 @@
             "collections":"minimal,random,simple" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
+     },	
+     {
+            "name":"GradientCheeta",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZXfvrNQ.png",
+	    "thumbUrl": "https://i.imgur.com/MMWR3GK.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluishNeon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Gn1wQda.png",
+	    "thumbUrl": "https://i.imgur.com/Ut0XY6e.png",
+            "collections":"abstract,random,featured" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShinyMetal",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ebdbQ5i.png",
+	    "thumbUrl": "https://i.imgur.com/BPTPEB6.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonSpins",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1jx0geh.png",
+	    "thumbUrl": "https://i.imgur.com/RxNkVC8.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleSpin",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ssJqXjb.png",
+	    "thumbUrl": "https://i.imgur.com/DXof4wN.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
      },	    
      {
             "name":"PinkLady",
