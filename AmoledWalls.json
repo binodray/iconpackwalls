@@ -51,6 +51,7 @@
 		}
 	],
     "Wallpapers": [
+    	    
     {
             "name":"WisePeople",
       	    "author":"Binod Ray",
@@ -69,6 +70,57 @@
             "collections":"minimal,random,simple" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	
+      {
+            "name":"GreenOrbit1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d41JcqH.png",
+	    "thumbUrl": "https://i.imgur.com/F14h15W.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenOrbit",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5dojvCK.png",
+	    "thumbUrl": "https://i.imgur.com/cQfuBMP.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueNeonTop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uLYHKNJ.png",
+	    "thumbUrl": "https://i.imgur.com/9GzqFkv.png",
+            "collections":"abstract,random,featured" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MaroonDrop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/690BZRu.png",
+	    "thumbUrl": "https://i.imgur.com/CkjU4b5.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Purpletop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u9CHDpt.png",
+	    "thumbUrl": "https://i.imgur.com/AjTiOSC.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,
 	    "copyright":"Personal Use" 
      },	    
      {
