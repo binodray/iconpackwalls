@@ -71,7 +71,52 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	
-      {
+     {
+            "name":"PurplePatters5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/k9gdQUw.png",
+	    "thumbUrl": "https://i.imgur.com/zTFVtMG.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueTornado",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xv8MRkG.png",
+	    "thumbUrl": "https://i.imgur.com/xBBkVBR.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkTornado",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GoJ9vou.png",
+	    "thumbUrl": "https://i.imgur.com/P4jNFN6.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AlienObjects",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8PKFI6F.png",
+	    "thumbUrl": "https://i.imgur.com/NVukAL0.png",
+            "collections":"abstract,random,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenRed2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U1yotoO.png",
+	    "thumbUrl": "https://i.imgur.com/JKe0u5o.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GreenOrbit1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/d41JcqH.png",
