@@ -62,6 +62,51 @@
 	    "copyright":"Personal Use" 
      },	
      {
+            "name":"FemaleGeekLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hmg7nUs.png",
+	    "thumbUrl": "https://i.imgur.com/zSEsFWd.png",
+            "collections":"simple,minimal,fetaured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractTop6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xyMuhB0.png",
+	    "thumbUrl": "https://i.imgur.com/wBtp0Uh.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedPattern6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N6AI1vP.png",
+	    "thumbUrl": "https://i.imgur.com/drS877p.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurplePatten4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GR0YMOY.png",
+	    "thumbUrl": "https://i.imgur.com/RWXdi78.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BigBlocks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xFuo4XL.png",
+	    "thumbUrl": "https://i.imgur.com/wyqAJ13.png",
+            "collections":"abstract,minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"MaleGeekLight",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3Ged7A6.png",
