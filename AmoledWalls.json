@@ -56,7 +56,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GrnTw4H.png",
 	    "thumbUrl": "https://i.imgur.com/GrnTw4H.png",
-            "collections":"minimal,quirky" ,
+            "collections":"minimal,quirky,youtubers" ,
             "dimensions":"1440x2560",
 	    "downloadable": false,  
 	    "copyright":"Personal Use" 
@@ -66,7 +66,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/sXqUM28.png",
 	    "thumbUrl": "https://i.imgur.com/sXqUM28.png",
-            "collections":"minimal,quirky" ,
+            "collections":"minimal,quirky,youtubers" ,
             "dimensions":"1440x2560",
 	    "downloadable": false,  
 	    "copyright":"Personal Use" 
@@ -358,7 +358,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/FmFuozD.png",
 	    "thumbUrl": "https://i.imgur.com/A6Jjy8e.png",
-            "collections":"minimal,quikry,random" ,
+            "collections":"minimal,quirky,random" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
 	    "copyright":"Personal Use" 
@@ -368,7 +368,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/5iCVGRH.png",
 	    "thumbUrl": "https://i.imgur.com/HwbLiOi.png",
-            "collections":"minimal,quikry,featured" ,
+            "collections":"minimal,quirky,featured" ,
             "dimensions":"1440x2560",
 	    "featured": true,  
 	    "downloadable": false, 
@@ -379,7 +379,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Xc773lW.png",
 	    "thumbUrl": "https://i.imgur.com/3QGT3QT.png",
-            "collections":"minimal,quikry,featured" ,
+            "collections":"minimal,quirky,featured" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
 	    "copyright":"Personal Use" 
@@ -389,7 +389,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/s13fbUw.png",
 	    "thumbUrl": "https://i.imgur.com/rGhz72t.png",
-            "collections":"minimal,quikry" ,
+            "collections":"minimal,quirky" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
 	    "copyright":"Personal Use" 
@@ -1983,7 +1983,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/ml4VSYA.png",
 			"thumbUrl": "https://i.imgur.com/a03YO5K.png",
-			"collections": "Youtubers",
+			"collections": "youtubers",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -1993,7 +1993,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/La0bTO4.png",
 			"thumbUrl": "https://i.imgur.com/EoVUd6d.png",
-			"collections": "Youtubers",
+			"collections": "youtubers",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -2003,7 +2003,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/9NGeXPH.png",
 			"thumbUrl": "https://i.imgur.com/GL79vo5.png",
-			"collections": "Youtubers",
+			"collections": "youtubers",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -2213,7 +2213,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/S6sxBCr.png",
 			"thumbUrl": "https://i.imgur.com/ficGYCO.png",
-			"collections": "minima,quirky",
+			"collections": "minimal,quirky",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -6583,7 +6583,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/R9eA8oH.png",
 			"thumbUrl": "https://i.imgur.com/VNZYARv.png",
-			"collections": "minimal,random.nature",
+			"collections": "minimal,random,nature",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -6603,7 +6603,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/i7dUMVR.png",
 			"thumbUrl": "https://i.imgur.com/VWa8Ivl.png",
-			"collections": "minimal,random,feature",
+			"collections": "minimal,random,featured",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
@@ -6833,7 +6833,7 @@
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/vsMttq6.png",
 			"thumbUrl": "https://i.imgur.com/x2prJG1.png",
-			"collections": "minimal,simple.quirky",
+			"collections": "minimal,simple,quirky",
 			"dimensions": "1440x2560",
 			"downloadable": false,
 			"copyright": "Personal Use"
