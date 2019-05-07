@@ -44,6 +44,70 @@
     ],
     "Wallpapers":[
     {
+            "name":"Hastamev3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zmYnjsg.png",
+	    "thumbUrl": "https://i.imgur.com/zmYnjsg.png",
+            "collections":"minimal,youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hastamev2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1sZvhdL.png",
+	    "thumbUrl": "https://i.imgur.com/1sZvhdL.png",
+            "collections":"minimal,youtubers" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeymarLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iNqHbbt.png",
+	    "thumbUrl": "https://i.imgur.com/oGOraUk.png",
+            "collections":"minimal,soccer,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CR7Light",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mwrsglC.png",
+	    "thumbUrl": "https://i.imgur.com/780UN0A.png",
+            "collections":"minimal,soccer,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenPlanet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lu2sdUD.png",
+	    "thumbUrl": "https://i.imgur.com/ny0NMOs.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedPlanets",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZTgnwCq.png",
+	    "thumbUrl": "https://i.imgur.com/FIUmy90.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SuperHeroDark",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/n0lr8Yp.png",
+	    "thumbUrl": "https://i.imgur.com/pSZ1ymt.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+    {
             "name":"WisePeople",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/KKYjfUa.png",
