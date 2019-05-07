@@ -51,7 +51,77 @@
 		}
 	],
     "Wallpapers": [
-    	    
+    {
+            "name":"Hastamev4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GrnTw4H.png",
+	    "thumbUrl": "https://i.imgur.com/GrnTw4H.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Hastamev1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sXqUM28.png",
+	    "thumbUrl": "https://i.imgur.com/sXqUM28.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangePlanet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6KRVAsE.png",
+	    "thumbUrl": "https://i.imgur.com/65Pe1Hd.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RubiksCube",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ILGvER7.png",
+	    "thumbUrl": "https://i.imgur.com/A2TXdnl.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeymarAmoled",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7VVJASZ.png",
+	    "thumbUrl": "https://i.imgur.com/Q2zfy54.png",
+            "collections":"minimal,soccer,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CR7Amoled",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ILXtUnw.png",
+	    "thumbUrl": "https://i.imgur.com/9Q59gt8.png",
+            "collections":"minimal,featured,soccer" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePlanet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PnOi7gh.png",
+	    "thumbUrl": "https://i.imgur.com/57R2c7t.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
     {
             "name":"WisePeople",
       	    "author":"Binod Ray",
