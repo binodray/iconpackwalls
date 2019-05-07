@@ -327,7 +327,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/FmFuozD.png",
 	    "thumbUrl": "https://i.imgur.com/A6Jjy8e.png",
-            "collections":"minimal,quikry,random" ,
+            "collections":"minimal,quirky,random" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
@@ -336,7 +336,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/5iCVGRH.png",
 	    "thumbUrl": "https://i.imgur.com/HwbLiOi.png",
-            "collections":"minimal,quikry,featured" ,
+            "collections":"minimal,quirky,featured" ,
             "dimensions":"1440x2560",
 	    "featured": true,  
 	    "copyright":"Personal Use" 
@@ -346,7 +346,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Xc773lW.png",
 	    "thumbUrl": "https://i.imgur.com/3QGT3QT.png",
-            "collections":"minimal,quikry,featured" ,
+            "collections":"minimal,quirky,featured" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
@@ -355,7 +355,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/s13fbUw.png",
 	    "thumbUrl": "https://i.imgur.com/rGhz72t.png",
-            "collections":"minimal,quikry" ,
+            "collections":"minimal,quirky" ,
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
