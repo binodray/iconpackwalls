@@ -62,6 +62,51 @@
 	    "copyright":"Personal Use" 
      },
      {
+            "name":"Neymar",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/weqWNOb.png",
+	    "thumbUrl": "https://i.imgur.com/e5JgyE8.png",
+            "collections":"minimal,soccer" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MInimalLightDesk",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0o3eQiS.png",
+	    "thumbUrl": "https://i.imgur.com/AcFDiiv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenFolds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LexNJpY.png",
+	    "thumbUrl": "https://i.imgur.com/vInKXHe.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IceBergs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/f7Rcc2g.png",
+	    "thumbUrl": "https://i.imgur.com/6Q74MHg.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RubiksCube",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4GkAgBe.png",
+	    "thumbUrl": "https://i.imgur.com/tRLm7Y5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"NeymarLight",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iNqHbbt.png",
