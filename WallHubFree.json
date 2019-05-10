@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"BurningSands",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yCRAQa6.png",
+	    "thumbUrl": "https://i.imgur.com/hzKbpFE.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J6Ybshx.png",
+	    "thumbUrl": "https://i.imgur.com/xLkQhoM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PlainBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J4zMjPC.png",
+	    "thumbUrl": "https://i.imgur.com/Gp1y2Fz.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ShadowMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/aCPFHYb.png",
+	    "thumbUrl": "https://i.imgur.com/98tMHGW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperStone",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QrAozZZ.png",
+	    "thumbUrl": "https://i.imgur.com/1zVJNpc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Hastamev3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/zmYnjsg.png",
