@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"BurningSand",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lCFKW1D.png",
+	    "thumbUrl": "https://i.imgur.com/0LxgzNg.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NailMoons",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/97b2JxF.png",
+	    "thumbUrl": "https://i.imgur.com/sW94Fl8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenFold",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4XXlfH5.png",
+	    "thumbUrl": "https://i.imgur.com/KNQ7lN6.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PInkPastel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/b5udbkr.png",
+	    "thumbUrl": "https://i.imgur.com/O3vXBvh.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NailMoons1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LOF32WE.png",
+	    "thumbUrl": "https://i.imgur.com/I1Gzz2o.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BurningSands",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/yCRAQa6.png",
