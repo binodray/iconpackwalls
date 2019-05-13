@@ -52,6 +52,56 @@
 	],
     "Wallpapers": [
     {
+            "name":"LineDraws",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/45qPaE4.png",
+	    "thumbUrl": "https://i.imgur.com/YEcFNFQ.png",
+            "collections":"random,abstract,quiky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelFold14",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g6lkPIq.png",
+	    "thumbUrl": "https://i.imgur.com/YoytvqA.png",
+            "collections":"random,abstract,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelFold13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1Uc2uox.png",
+	    "thumbUrl": "https://i.imgur.com/NjdyOo1.png",
+            "collections":"random,abstract,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelFold12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v9gBPda.png",
+	    "thumbUrl": "https://i.imgur.com/uqz2CcL.png",
+            "collections":"random,abstract,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelFold15",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gdi0j1z.png",
+	    "thumbUrl": "https://i.imgur.com/6Rj5ZMr.png",
+            "collections":"random,abstract,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"YellowBetta",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/YPUXNbG.png",
