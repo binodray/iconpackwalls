@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
      {
+            "name":"PastelMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0CvjTMZ.png",
+	    "thumbUrl": "https://i.imgur.com/yYgUyKW.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G2CsTPb.png",
+	    "thumbUrl": "https://i.imgur.com/4Drbbuz.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QCSjtR1.png",
+	    "thumbUrl": "https://i.imgur.com/dUJdRKQ.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4MDvLXX.png",
+	    "thumbUrl": "https://i.imgur.com/tmuhiJi.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMorning",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/s1vbkGb.png",
+	    "thumbUrl": "https://i.imgur.com/ZSw17Vf.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BurningSand",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/lCFKW1D.png",
