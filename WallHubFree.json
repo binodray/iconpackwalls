@@ -43,6 +43,57 @@
     ],
     "Wallpapers":[
      {
+            "name":"BadmintonPlayer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9T32Eok.png",
+	    "thumbUrl": "https://i.imgur.com/jmFWAxI.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ListingMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z18EyuE.png",
+	    "thumbUrl": "https://i.imgur.com/5OAU0t9.png",
+            "collections":"girls,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSquare2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5c3hL3U.png",
+	    "thumbUrl": "https://i.imgur.com/frSHo70.png",
+            "collections":"random,featured" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FemalesSketor",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DgUycj0.png",
+	    "thumbUrl": "https://i.imgur.com/rlu9iFi.png",
+            "collections":"girls,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PaperSunSet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iMd0aF9.png",
+	    "thumbUrl": "https://i.imgur.com/kn2WAy1.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BluePlanet2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ULl7bah.png",
