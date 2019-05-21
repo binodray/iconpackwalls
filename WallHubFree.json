@@ -42,6 +42,56 @@
         }
     ],
     "Wallpapers":[
+      {
+            "name":"BiColorValley",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lsVkr9W.png",
+	    "thumbUrl": "https://i.imgur.com/mimrw1l.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueHappyface",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PlkGSUF.png",
+	    "thumbUrl": "https://i.imgur.com/pkW4IRc.png",
+            "collections":"Girls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenValley25",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lbVQB2Q.png",
+	    "thumbUrl": "https://i.imgur.com/D2Qh6pd.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelGeo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HOqhYkK.png",
+	    "thumbUrl": "https://i.imgur.com/KE6XzxF.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SketorJump4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JJwa6Q6.png",
+	    "thumbUrl": "https://i.imgur.com/ABVsjow.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	     
      {
             "name":"BadmintonPlayer",
       	    "author":"Binod Ray",
