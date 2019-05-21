@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"GrayGanesh",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SSJT5YL.png",
+	    "thumbUrl": "https://i.imgur.com/WO5rd9I.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CuteWhale",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JaRXn00.png",
+	    "thumbUrl": "https://i.imgur.com/pivmuqY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSheep",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QrzoGvt.png",
+	    "thumbUrl": "https://i.imgur.com/vQ3p8zJ.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkHair",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AbNQi1P.png",
+	    "thumbUrl": "https://i.imgur.com/b1IxSgA.png",
+            "collections":"minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkGanesh3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GedXqy3.png",
+	    "thumbUrl": "https://i.imgur.com/uLgLEZ3.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"HappyGirl",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/cApdNf3.png",
