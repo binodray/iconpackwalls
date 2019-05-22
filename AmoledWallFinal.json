@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"CandyFolds1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RYcB5uN.png",
+	    "thumbUrl": "https://i.imgur.com/Jg3xgV6.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CandyFolds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OgZp7tz.png",
+	    "thumbUrl": "https://i.imgur.com/URA9A3C.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SpikeHair",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c9fVT9C.png",
+	    "thumbUrl": "https://i.imgur.com/595Yhw7.png",
+            "collections":"miniqmalmal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleFold3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xi9CqF3.png",
+	    "thumbUrl": "https://i.imgur.com/VHx5kkF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleFold4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dx0hLCO.png",
+	    "thumbUrl": "https://i.imgur.com/HQ2S08Y.png",
+            "collections":"quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GrayGanesh",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/SSJT5YL.png",
