@@ -53,6 +53,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueBetta5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rHJqRnB.png",
+	    "thumbUrl": "https://i.imgur.com/dReTY25.png",
+            "collections":"nature" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueFolds4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5lwh0bX.png",
+	    "thumbUrl": "https://i.imgur.com/t5fnZBa.png",
+            "collections":"quirky,random,abstract,featured" ,
+	    "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueFolds5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/w4Ytl1i.png",
+	    "thumbUrl": "https://i.imgur.com/8XkTXSN.png",
+            "collections":"quirky,random,abstract,featured" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCloths3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ufZEgeR.png",
+	    "thumbUrl": "https://i.imgur.com/GXdycZT.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCloths2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c1i7tsh.png",
+	    "thumbUrl": "https://i.imgur.com/jWi90W1.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"CandyFolds1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/RYcB5uN.png",
