@@ -42,7 +42,57 @@
         }
     ],
     "Wallpapers":[
-      {
+    {
+            "name":"LoveyBirds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JUpwEA2.png",
+	    "thumbUrl": "https://i.imgur.com/v33X1aq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BabyWhaleLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5yS9iYM.png",
+	    "thumbUrl": "https://i.imgur.com/piuSr3f.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PeachBlur",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vhXRdtR.png",
+	    "thumbUrl": "https://i.imgur.com/VVj5vd3.png",
+            "collections":"xwalls,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkMounts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kzgSLC4.png",
+	    "thumbUrl": "https://i.imgur.com/YF212Hy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoothingBlur",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jOtQ5mr.png",
+	    "thumbUrl": "https://i.imgur.com/Ip8O3Gw.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"GreenFlair",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Jnsy8B5.png",
