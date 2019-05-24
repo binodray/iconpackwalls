@@ -52,6 +52,56 @@
 	],
     "Wallpapers": [
     {
+            "name":"SurferWait",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d5gOlKQ.png",
+	    "thumbUrl": "https://i.imgur.com/D0ICpCJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Shadelady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bIJFdqr.png",
+	    "thumbUrl": "https://i.imgur.com/RJsqYYY.png",
+            "collections":"minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BabyWhale",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EpSYrli.png",
+	    "thumbUrl": "https://i.imgur.com/WRrpsgt.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MaleDev",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9137qBF.png",
+	    "thumbUrl": "https://i.imgur.com/T1fLUqA.png",
+            "collections":"minimal,qirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FemaleDev",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EutPMF0.png",
+	    "thumbUrl": "https://i.imgur.com/frHoEgo.png",
+            "collections":"minimal,qirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueBetta5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/rHJqRnB.png",
