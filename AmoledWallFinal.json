@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"VerticalMountain5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/z8QBqI7.png",
+	    "thumbUrl": "https://i.imgur.com/d9bl904.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDog1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/v3pnfSx.png",
+	    "thumbUrl": "https://i.imgur.com/vmXGMmL.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VerticalMountain4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sqR2N8P.png",
+	    "thumbUrl": "https://i.imgur.com/YI7ogh7.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePlane",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KpiZ0Fn.png",
+	    "thumbUrl": "https://i.imgur.com/4xgawtD.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VerticalMountain3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8ydLnnU.png",
+	    "thumbUrl": "https://i.imgur.com/dUpz6dD.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SurferWait",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/d5gOlKQ.png",
