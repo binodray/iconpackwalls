@@ -43,6 +43,58 @@
     ],
     "Wallpapers":[
     {
+            "name":"PurpleMaterial3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LCoc3fL.png",
+	    "thumbUrl": "https://i.imgur.com/iaExgOB.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	   "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeMaterial3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r8AnPTK.png",
+	    "thumbUrl": "https://i.imgur.com/cpyaDkv.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeekLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ofdrTIG.png",
+	    "thumbUrl": "https://i.imgur.com/SrDtgaz.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenMaterial3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IZj9pqP.png",
+	    "thumbUrl": "https://i.imgur.com/7Pf659u.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FemakeGeekLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/puNbxky.png",
+	    "thumbUrl": "https://i.imgur.com/TopY9Zd.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+    {
             "name":"SoftCirlcle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/so0IVep.png",
