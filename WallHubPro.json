@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueSquare2",
+      	    "author":"Binod Ray",
+            "url":"xhttps://i.imgur.com/svwUmoG.pngxx",
+	    "thumbUrl": "https://i.imgur.com/DosRXgO.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulGrids5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ec5oIAR.png",
+	    "thumbUrl": "https://i.imgur.com/nLAdVFO.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PoolRelax1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/L429hFj.png",
+	    "thumbUrl": "https://i.imgur.com/jyCn4cB.png",
+            "collections":"minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueComb",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qOE4An2.png",
+	    "thumbUrl": "https://i.imgur.com/2fGrPoJ.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueSquare",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vRxByYG.png",
+	    "thumbUrl": "https://i.imgur.com/TYqJmxX.png",
+            "collections":"random,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"PurpleMaterial3",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/LCoc3fL.png",
