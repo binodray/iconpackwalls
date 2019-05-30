@@ -44,6 +44,69 @@
     ],
     "Wallpapers":[
     {
+            "name":"ColorTrinagle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6KVUTuM.png",
+	    "thumbUrl": "https://i.imgur.com/cIDZgBE.png",
+            "collections":"random,abstract,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TinyFishingBoat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zTp687M.png",
+	    "thumbUrl": "xxx",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedSquare1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yh8T6WY.png",
+	    "thumbUrl": "https://i.imgur.com/Oj8zOee.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TinyRaods2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DzIN3vC.png",
+	    "thumbUrl": "https://i.imgur.com/NAxJMun.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BeachGuard",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nKJOXSX.png",
+	    "thumbUrl": "https://i.imgur.com/vU8sUKW.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"COlorTrinagle2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IQxJVSE.png",
+	    "thumbUrl": "https://i.imgur.com/MZkwgIQ.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Greensquare1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UPMaccP.png",
+	    "thumbUrl": "https://i.imgur.com/mFWG9Ft.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlackCamera",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/jEst7sc.png",
