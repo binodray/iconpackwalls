@@ -43,6 +43,96 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueDipWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9mjK1f4.png",
+	    "thumbUrl": "https://i.imgur.com/HXNsBeG.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonGreenMat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/j0BtA8d.png",
+	    "thumbUrl": "https://i.imgur.com/cekQlqm.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueFlushed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/COiDUfH.png",
+	    "thumbUrl": "https://i.imgur.com/bljs4yp.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BluePastel4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MCnVGf5.png",
+	    "thumbUrl": "https://i.imgur.com/wdtl5wy.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FishScales",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/n1pOV7E.png",
+	    "thumbUrl": "https://i.imgur.com/ThDeXdb.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleMat",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UWkBRxQ.png",
+	    "thumbUrl": "https://i.imgur.com/ud9hyNg.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkFlushed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RyImrXy.png",
+	    "thumbUrl": "https://i.imgur.com/pFMRyQl.png",
+            "collections":"xwalls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     }, 
+     {
+            "name":"PinkPastel",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oZHdoTd.png",
+	    "thumbUrl": "https://i.imgur.com/gNisXQD.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelWave",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5CsPhtg.png",
+	    "thumbUrl": "https://i.imgur.com/QtMoTfA.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorTrinagle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/6KVUTuM.png",
