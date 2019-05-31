@@ -53,6 +53,87 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueLineGate",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/C8AP8Jj.png",
+	    "thumbUrl": "https://i.imgur.com/qubIZNU.png",
+            "collections":"random,abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalHen",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9E4he3t.png",
+	    "thumbUrl": "https://i.imgur.com/RXZMtzU.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineGates",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sB3hXXJ.png",
+	    "thumbUrl": "https://i.imgur.com/pRJnIvh.png",
+            "collections":"random,abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleMat1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uoGewPD.png",
+	    "thumbUrl": "https://i.imgur.com/C0FhixP.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalBulls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Tdz7b6v.png",
+	    "thumbUrl": "https://i.imgur.com/43aQIob.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeGates",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/swCQesX.png",
+	    "thumbUrl": "https://i.imgur.com/BxLfegT.png",
+            "collections":"random,abstract,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YouBecome",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2eRyGzj.png",
+	    "thumbUrl": "https://i.imgur.com/JtUne6y.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeonGreenMat1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JH9DOT2.png",
+	    "thumbUrl": "https://i.imgur.com/3eZ7jWd.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"StayLonger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m2709TA.png",
+	    "thumbUrl": "https://i.imgur.com/JJ5JtbP.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },  	    
+     {
             "name":"WhiteBears2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bHD3eYH.png",
