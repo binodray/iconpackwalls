@@ -53,6 +53,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"AmoledPride",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3iapGQB.png",
+	    "thumbUrl": "https://i.imgur.com/KBK8043.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSki9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R8mWPFs.png",
+	    "thumbUrl": "https://i.imgur.com/FLj7Uhx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HalfAmoled",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/x9xCkhu.png",
+	    "thumbUrl": "https://i.imgur.com/QIUUlWR.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeGreenHair",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/hJDnoJB.png",
+	    "thumbUrl": "https://i.imgur.com/924RD2U.png",
+            "collections":"quirky,featured" ,
+	    "featured": true, 
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeReflection",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rQV9AdU.png",
+	    "thumbUrl": "https://i.imgur.com/3r2wJAh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueLineGate",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/C8AP8Jj.png",
