@@ -43,6 +43,56 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DovCNGI.png",
+	    "thumbUrl": "https://i.imgur.com/TRYutPM.png",
+            "collections":"minimal,girls" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowMaterial2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rvpXzJ8.png",
+	    "thumbUrl": "https://i.imgur.com/kJeKiS4.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedYellowSplash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jqobEvS.png",
+	    "thumbUrl": "https://i.imgur.com/G6iD2hN.png",
+            "collections":"spalsh" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueMaterials2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MES60jV.png",
+	    "thumbUrl": "https://i.imgur.com/HCq00Vh.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSplash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZLR1RQF.png",
+	    "thumbUrl": "https://i.imgur.com/AY5lSVz.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"LightBlueMed",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Z4AmMU7.png",
@@ -52,7 +102,7 @@
 	    "downloadable":false,  
 	    "copyright":"Personal Use" 
      },
-    {
+     {
             "name":"LighterGreenMed",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/2jXk3Ux.png",
