@@ -51,7 +51,57 @@
 		}
 	],
     "Wallpapers": [
-    {
+     {
+            "name":"PinkRocks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yIvq8a1.png",
+	    "thumbUrl": "https://i.imgur.com/IHopdcV.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueGlass",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U5sRLIj.png",
+	    "thumbUrl": "https://i.imgur.com/bMbarDn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowRocks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lwn76wa.png",
+	    "thumbUrl": "https://i.imgur.com/BqaVE7J.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedGlass2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lq7IMfl.png",
+	    "thumbUrl": "https://i.imgur.com/IarBDm8.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Questions",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6Aha5Ml.png",
+	    "thumbUrl": "https://i.imgur.com/8dr9vIW.png",
+            "collections":"twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"AmoledPride",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3iapGQB.png",
