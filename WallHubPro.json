@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"ShadespofBlue",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MiK5mOI.png",
+	    "thumbUrl": "https://i.imgur.com/63LQPgV.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulJaali",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pAbuMQO.png",
+	    "thumbUrl": "https://i.imgur.com/KPP0wzy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DeepBlue6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cwvoblp.png",
+	    "thumbUrl": "https://i.imgur.com/SHpNZyb.png",
+            "collections":"material,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NoiseLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U0Vpneg.png",
+	    "thumbUrl": "https://i.imgur.com/suli4wq.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightsRed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XA3Z8H4.png",
+	    "thumbUrl": "https://i.imgur.com/5bWa0oc.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueLady",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/DovCNGI.png",
