@@ -51,6 +51,56 @@
 		}
 	],
     "Wallpapers": [
+      {
+            "name":"BlueLiquid",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u6pJYyA.png",
+	    "thumbUrl": "https://i.imgur.com/GhgXo97.png",
+            "collections":"liquid" ,
+            "dimensions":"1440x2560",
+	     "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangePolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AGdWRWc.png",
+	    "thumbUrl": "https://i.imgur.com/KKAtedR.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TreeKiller",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7V9a1jj.png",
+	    "thumbUrl": "https://i.imgur.com/lkwOjb8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineLandsCape",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dvi7WVs.png",
+	    "thumbUrl": "https://i.imgur.com/n3jtacb.png",
+            "collections":"quirky,minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeGreenWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uDGf3Lf.png",
+	    "thumbUrl": "https://i.imgur.com/IaMpuIp.png",
+            "collections":"quirky,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"PinkRocks",
       	    "author":"Binod Ray",
