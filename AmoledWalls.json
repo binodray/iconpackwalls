@@ -51,7 +51,57 @@
 		}
 	],
     "Wallpapers": [
-      {
+     {
+            "name":"Questions1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YDkmaLw.png",
+	    "thumbUrl": "https://i.imgur.com/rCpAelj.png",
+            "collections":"twisted" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSkies8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Jaj1H1J.png",
+	    "thumbUrl": "https://i.imgur.com/PX8nUe5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SandWithGift",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Bvx1o65.png",
+	    "thumbUrl": "https://i.imgur.com/A85Esjo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"CoconutTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eh1ovQP.png",
+	    "thumbUrl": "https://i.imgur.com/01wzIhE.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleGlass",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UzgizUj.png",
+	    "thumbUrl": "https://i.imgur.com/rpGrCWy.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BlueLiquid",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/u6pJYyA.png",
