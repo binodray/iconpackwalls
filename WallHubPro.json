@@ -44,6 +44,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"PinkMaterials2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ityj6F3.png",
+	    "thumbUrl": "https://i.imgur.com/Ui0KKjg.png",
+            "collections":"material" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightBlueSky",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ui6q1gM.png",
+	    "thumbUrl": "https://i.imgur.com/Acu7VHo.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkSplash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7fanclS.png",
+	    "thumbUrl": "https://i.imgur.com/HCYVKRh.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueBacks12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/d5sLvbO.png",
+	    "thumbUrl": "https://i.imgur.com/hDMhT4T.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowOrangeSky",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7vAnR9r.png",
+	    "thumbUrl": "https://i.imgur.com/KLi522B.png",
+            "collections":"minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+	    
+    {
             "name":"ShadespofBlue",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/MiK5mOI.png",
