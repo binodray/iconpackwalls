@@ -51,6 +51,56 @@
 		}
 	],
     "Wallpapers": [
+      {
+            "name":"BlueCuts4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IPwAyjA.png",
+	    "thumbUrl": "https://i.imgur.com/bwdpOGQ.png,
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueishNet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Z9bYF0Q.png",
+	    "thumbUrl": "https://i.imgur.com/ARhW7hv.png,
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueAmoled",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gSzreLh.png",
+	    "thumbUrl": "https://i.imgur.com/Q9hzu6i.png,
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWaves6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U1TMiXr.png",
+	    "thumbUrl": "https://i.imgur.com/XHSm8e6.png,
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueCuts6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9vf4y8a.png",
+	    "thumbUrl": "https://i.imgur.com/9Yhdv09.png,
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"Questions1",
       	    "author":"Binod Ray",
