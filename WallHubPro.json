@@ -44,6 +44,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"PantedRiver",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gzRw6DY.png",
+	    "thumbUrl": "https://i.imgur.com/XAA2HFc.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelColor",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pFBuhbn.png",
+	    "thumbUrl": "https://i.imgur.com/7dlFFen.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrushStroke",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5GtQm8d.png",
+	    "thumbUrl": "https://i.imgur.com/d35EpXh.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueEdgy",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/A1HFwSy.png",
+	    "thumbUrl": "https://i.imgur.com/ILS1LH8.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RelaxingMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/roplrJ5.png",
+	    "thumbUrl": "https://i.imgur.com/rzH447g.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FireWaves",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/KLF6k9Z.png",
