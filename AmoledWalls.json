@@ -52,7 +52,7 @@
 	],
     "Wallpapers": [
       {
-            "name":"WallcraftAmoled",
+            "name":"WallCraftAmoled",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/r3U1v6Y.png",
 	    "thumbUrl": "https://i.imgur.com/r3U1v6Y.png",
@@ -60,8 +60,58 @@
             "dimensions":"1440x2560",
 	     "downloadable": false,  
 	    "copyright":"Personal Use" 
-     },	     
-      {
+     },	 
+     {
+            "name":"GradientSkies5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N0WvOsJ.png",
+	    "thumbUrl": "https://i.imgur.com/zdz5vQp.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MetalSinger",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vCSFcqP.png",
+	    "thumbUrl": "https://i.imgur.com/KxPuOu3.png",
+            "collections":"minimal,quirky,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrageSkies6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Prqjrpu.png",
+	    "thumbUrl": "https://i.imgur.com/YVCfW2w.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PowderSplash",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/webmBWo.png",
+	    "thumbUrl": "https://i.imgur.com/C156TXZ.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkingRock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gW42qWu.png",
+	    "thumbUrl": "https://i.imgur.com/gzGZJl7.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"PaperCraft1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/vXJRvhD.png",
