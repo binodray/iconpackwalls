@@ -62,6 +62,57 @@
 	    "copyright":"Personal Use" 
      },	 
      {
+            "name":"MichaelJackson5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t4NuiVX.png",
+	    "thumbUrl": "https://i.imgur.com/Y0KIZhR.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "featured": true, 
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MichaelJackson2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mVWq7dT.png",
+	    "thumbUrl": "https://i.imgur.com/xn0Bh8U.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledInfinity6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CtHr3mb.png",
+	    "thumbUrl": "https://i.imgur.com/96VUlJO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BoatRides5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/F1AGd1X.png",
+	    "thumbUrl": "https://i.imgur.com/p27TB4I.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SadFaceAmoled",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SlCjeMw.png",
+	    "thumbUrl": "https://i.imgur.com/2zUQsIl.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientSkies5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/N0WvOsJ.png",
