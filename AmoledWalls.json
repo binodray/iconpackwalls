@@ -73,10 +73,10 @@
 	    "copyright":"Personal Use" 
      },
      {
-            "name":"MichaelJackson2",
+           "name":"MichaelJackson2",
       	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/mVWq7dT.png",
-	    "thumbUrl": "https://i.imgur.com/xn0Bh8U.png",
+            "url":"https://i.imgur.com/xn0Bh8U.png",
+	    "thumbUrl": "https://i.imgur.com/mVWq7dT.png",
             "collections":"minimal" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
