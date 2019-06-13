@@ -42,6 +42,7 @@
         }
     ],
     "Wallpapers":[
+	    
     {
             "name":"WallcraftLight",
       	    "author":"Binod Ray",
@@ -51,6 +52,56 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	
+     {
+            "name":"BlueWorkBooks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cuKpC9e.png",
+	    "thumbUrl": "https://i.imgur.com/1V1GqjJ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DataPowerHouse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dlwM71h.png",
+	    "thumbUrl": "https://i.imgur.com/DB5kK8L.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"StudyBooks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/QUfVtTZ.png",
+	    "thumbUrl": "https://i.imgur.com/UulwTZS.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkBook8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZnXpaqd.png",
+	    "thumbUrl": "https://i.imgur.com/a6V30H8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalBook",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qEVmfMd.png",
+	    "thumbUrl": "https://i.imgur.com/wSh2xlb.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
      {
             "name":"MichaelJackson4",
       	    "author":"Binod Ray",
