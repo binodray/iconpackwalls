@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"Locked",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EzScZkN.png",
+	    "thumbUrl": "https://i.imgur.com/YOYwY9b.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ContrastMusic",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/a9hukWh.png",
+	    "thumbUrl": "https://i.imgur.com/PUAKuyR.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DontWish",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fPk2Jvx.png",
+	    "thumbUrl": "https://i.imgur.com/bUJFPcw.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueNights",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7hpYh1f.png",
+	    "thumbUrl": "https://i.imgur.com/5oUrGUe.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BigDreams",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/h77sGy7.png",
+	    "thumbUrl": "https://i.imgur.com/kbEoV0n.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"MichaelJackson5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/t4NuiVX.png",
