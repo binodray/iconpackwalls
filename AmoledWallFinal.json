@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"ColoredQues",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lYtNzLs.png",
+	    "thumbUrl": "xhttps://i.imgur.com/YbTMHtc.pngxx",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ExposedColor",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FUa0x3G.png",
+	    "thumbUrl": "https://i.imgur.com/Z55vs0V.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractAmo",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YfuF5on.png",
+	    "thumbUrl": "https://i.imgur.com/d0Hi1q8.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BossMan",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tzydiQQ.png",
+	    "thumbUrl": "https://i.imgur.com/heMl7PM.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AngryDogs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/keI2x2I.png",
+	    "thumbUrl": "https://i.imgur.com/kpDRvhO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"Locked",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/EzScZkN.png",
