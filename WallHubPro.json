@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"GreenPolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9lZbNyi.png",
+	    "thumbUrl": "https://i.imgur.com/wZUcbkX.png",
+            "collections":"abstract" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RVFXQ7z.png",
+	    "thumbUrl": "https://i.imgur.com/iOBw4oI.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BananaRoad",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FX9gQuA.png",
+	    "thumbUrl": "https://i.imgur.com/Gr0mcLj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FlatRoads",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6HHTEQz.png",
+	    "thumbUrl": "https://i.imgur.com/XpIW0lM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenTower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DLAcZBn.png",
+	    "thumbUrl": "https://i.imgur.com/XKVPm8x.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueWorkBooks",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/cuKpC9e.png",
