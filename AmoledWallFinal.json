@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"GradientFish",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Im49qwd.png",
+	    "thumbUrl": "https://i.imgur.com/h6upHFW.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientGlass",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CsGuWij.png",
+	    "thumbUrl": "https://i.imgur.com/MaBlRKh.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Strike",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5VpNWaD.png",
+	    "thumbUrl": "https://i.imgur.com/teZIrIc.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NYC",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mRkQoAh.png",
+	    "thumbUrl": "https://i.imgur.com/1rZThqH.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NightMode",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3GbNKYl.png",
+	    "thumbUrl": "https://i.imgur.com/qb91vR2.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColoredQues",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/lYtNzLs.png",
