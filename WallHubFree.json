@@ -44,12 +44,53 @@
     "Wallpapers":[
 	    
     {
-            "name":"WallcraftLight",
+            "name":"SoftBlue",
       	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/n0jQ6w3.png",
-	    "thumbUrl": "https://i.imgur.com/n0jQ6w3.png",
-            "collections":"random" ,
+            "url":"https://i.imgur.com/oE3XNYw.png",
+	    "thumbUrl": "https://i.imgur.com/bi43Rb2.png",
+            "collections":"minimal,simple" ,
             "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelHome",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qtc1i9X.png",
+	    "thumbUrl": "https://i.imgur.com/oKLbbhv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkNight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SvUke0C.png",
+	    "thumbUrl": "https://i.imgur.com/4Dw68lZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmallHiker",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NpI6D5F.png",
+	    "thumbUrl": "https://i.imgur.com/dBEXVPV.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LghtMode",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9dfMnau.png",
+	    "thumbUrl": "https://i.imgur.com/moF145T.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
 	    "copyright":"Personal Use" 
      },	
      {
