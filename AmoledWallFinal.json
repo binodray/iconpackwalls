@@ -53,6 +53,52 @@
     ],
     "Wallpapers":[
     {
+            "name":"Smartphone",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3IFwA4l.png",
+	    "thumbUrl": "https://i.imgur.com/xOnYnti.png",
+            "collections":"minimal,featured" ,
+	    "featured": true,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightYellow",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uhxw5nO.png",
+	    "thumbUrl": "https://i.imgur.com/fOb8otA.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WorkingLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/p2gsrto.png",
+	    "thumbUrl": "https://i.imgur.com/AtEdmet.png",
+            "collections":"minimal,quirky,girl" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"EasterEgg",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9MC8j4Q.png",
+	    "thumbUrl": "https://i.imgur.com/oRNqO97.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SoftPink",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xwAKK8g.png",
+	    "thumbUrl": "https://i.imgur.com/WBgoMul.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientFish",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Im49qwd.png",
