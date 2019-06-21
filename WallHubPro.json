@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"GreenLake",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DvrHkq4.png",
+	    "thumbUrl": "https://i.imgur.com/zOnNYdf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhiteMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5tPEVIj.png",
+	    "thumbUrl": "https://i.imgur.com/7PUyrFj.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkerMaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jdEcE6c.png",
+	    "thumbUrl": "https://i.imgur.com/EGy3thU.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SofterBlueMap",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/39Eg1Dl.png",
+	    "thumbUrl": "https://i.imgur.com/uNjCj1O.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Purplemaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/U3vIcas.png",
+	    "thumbUrl": "https://i.imgur.com/muDSOjV.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     }, 	    
+    {
             "name":"PinkishPattern",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/F8IVA72.png",
