@@ -52,6 +52,56 @@
 	],
     "Wallpapers": [
       {
+            "name":"BlueFoxTail",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/wConFNY.png",
+	    "thumbUrl": "https://i.imgur.com/R1bAih9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientCube",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/I7YUqpM.png",
+	    "thumbUrl": "https://i.imgur.com/8NFfZC9.png",
+            "collections":"random,quirky,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeFoxTail",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/u7zOIJz.png",
+	    "thumbUrl": "https://i.imgur.com/jVI6LeH.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkMountain",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/10UknNk.png",
+	    "thumbUrl": "https://i.imgur.com/0awZwZt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Volcano",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BddN1n8.png",
+	    "thumbUrl": "https://i.imgur.com/974R3HV.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Smartphone",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3IFwA4l.png",
