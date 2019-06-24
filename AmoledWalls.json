@@ -52,6 +52,66 @@
 	],
     "Wallpapers": [
       {
+            "name":"BlueBalls8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/meYoBHA.png",
+	    "thumbUrl": "https://i.imgur.com/z9PnEpf.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenCubes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/B0ZXPpG.png",
+	    "thumbUrl": "https://i.imgur.com/65dRk42.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColofulJelly",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ILZ3RsQ.png",
+	    "thumbUrl": "https://i.imgur.com/Mki2tCl.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MusicWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HtzOuAd.png",
+	    "thumbUrl": "https://i.imgur.com/okgV9yn.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SmallYellowTent",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xEkAbbe.png",
+	    "thumbUrl": "https://i.imgur.com/W7AjG6t.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D4MDDbB.png",
+	    "thumbUrl": "https://i.imgur.com/0yNMRvV.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"BlueFoxTail",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/wConFNY.png",
@@ -127,7 +187,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/p2gsrto.png",
 	    "thumbUrl": "https://i.imgur.com/AtEdmet.png",
-            "collections":"minimal,quirky,girl" ,
+            "collections":"minimal,quirky,girls" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
 	    "copyright":"Personal Use" 
@@ -1183,7 +1243,7 @@
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/c9fVT9C.png",
 	    "thumbUrl": "https://i.imgur.com/595Yhw7.png",
-            "collections":"miniqmalmal" ,
+            "collections":"minimal" ,
             "dimensions":"1440x2560",
 	    "downloadable": false, 
 	    "copyright":"Personal Use" 
