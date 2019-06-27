@@ -53,6 +53,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"SimpleCircle7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ktyqTcH.png",
+	    "thumbUrl": "https://i.imgur.com/pEgUyDX.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RetroMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mep5tm8.png",
+	    "thumbUrl": "https://i.imgur.com/CbxZhay.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PowerKings",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rMoTL95.png",
+	    "thumbUrl": "https://i.imgur.com/Ogy0ZuH.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DoubleBubble",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UG2NUgN.png",
+	    "thumbUrl": "https://i.imgur.com/SQwKn1o.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleCircle5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4OYWz11.png",
+	    "thumbUrl": "https://i.imgur.com/lwjPYFq.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueBalls8",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/meYoBHA.png",
