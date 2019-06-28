@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"SunRises5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D1WUHgE.png",
+	    "thumbUrl": "https://i.imgur.com/hvbmAjv.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NoPageFound",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XnkxQ6n.png",
+	    "thumbUrl": "https://i.imgur.com/00ZL5CG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenMoon",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DBOU5X4.png",
+	    "thumbUrl": "https://i.imgur.com/X4XjBfO.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AbstractLines",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nO6rXsd.png",
+	    "thumbUrl": "https://i.imgur.com/cMyUgF6.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WinterSunRise",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/R8thy55.png",
+	    "thumbUrl": "https://i.imgur.com/S3KbECQ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenSun6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GlOycWV.png",
+	    "thumbUrl": "https://i.imgur.com/ruJ03MA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientStripe8",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/PcxhyuW.png",
