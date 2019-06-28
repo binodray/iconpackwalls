@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"Calm1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3cUqFuy.png",
+	    "thumbUrl": "https://i.imgur.com/LfYyUq8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkEvening",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ogpha4r.png",
+	    "thumbUrl": "https://i.imgur.com/JzGrCb9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WildWolf2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1b79eHU.png",
+	    "thumbUrl": "https://i.imgur.com/FdfoH8z.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WildDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/96DuiGB.png",
+	    "thumbUrl": "https://i.imgur.com/8RItk1o.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"JellyBeans",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/az2ibrJ.png",
+	    "thumbUrl": "https://i.imgur.com/PQfWkRk.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WildWolf1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r7WoIlt.png",
+	    "thumbUrl": "https://i.imgur.com/knfG5tK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"SimpleCircle7",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/ktyqTcH.png",
