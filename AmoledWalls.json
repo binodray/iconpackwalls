@@ -52,6 +52,96 @@
 	],
     "Wallpapers": [
      {
+            "name":"WolfHowling11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bzwHtMP.png",
+	    "thumbUrl": "https://i.imgur.com/UzyYQqx.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledStairs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ss9cCmy.png",
+	    "thumbUrl": "https://i.imgur.com/MwhWNm3.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientObs2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cLXe6dr.png",
+	    "thumbUrl": "https://i.imgur.com/A4godcF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledStairs3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9pZzXBc.png",
+	    "thumbUrl": "https://i.imgur.com/froi1se.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WolfHowling10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kjCB0fq.png",
+	    "thumbUrl": "https://i.imgur.com/w9Y1Yi0.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientObs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RRfnGfv.png",
+	    "thumbUrl": "https://i.imgur.com/S1mBAcn.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueSilhoutte11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MCrDmI0.png",
+	    "thumbUrl": "https://i.imgur.com/JJfDOy2.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkJhar5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3d33UIi.png",
+	    "thumbUrl": "https://i.imgur.com/4kpXGpU.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientOb3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yvvXuba.png",
+	    "thumbUrl": "https://i.imgur.com/gfgoMiB.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Calm1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/3cUqFuy.png",
