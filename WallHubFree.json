@@ -43,6 +43,86 @@
     ],
     "Wallpapers":[
     {
+            "name":"BrightBoes9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2egB63p.png",
+	    "thumbUrl": "https://i.imgur.com/3fWril8.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightToping",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qQTCUyR.png",
+	    "thumbUrl": "https://i.imgur.com/sQ82SN5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightBoes10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2OyTML6.png",
+	    "thumbUrl": "https://i.imgur.com/j5m2Msa.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulHexa1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8jlXccX.png",
+	    "thumbUrl": "https://i.imgur.com/AxWkUH5.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulHexa",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pKmv1Z7.png",
+	    "thumbUrl": "https://i.imgur.com/KXdvk0c.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulRainbows9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VVKjGgN.png",
+	    "thumbUrl": "https://i.imgur.com/ilGoSso.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SadFaceLight",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pcy8hoK.png",
+	    "thumbUrl": "https://i.imgur.com/j5m2Msa.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulSquare",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zgzLQOD.png",
+	    "thumbUrl": "https://i.imgur.com/BQVxDSE.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueSilhoutte",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/7vAhPTR.png",
