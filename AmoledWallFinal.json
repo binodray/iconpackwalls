@@ -53,6 +53,78 @@
     ],
     "Wallpapers":[
     {
+            "name":"BlueCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iQsNOt3.png",
+	    "thumbUrl": "https://i.imgur.com/W0J4R0z.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledToping",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SdGE5km.png",
+	    "thumbUrl": "https://i.imgur.com/UJv0KRR.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"WhitePolka",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WCZj8Fy.png",
+	    "thumbUrl": "https://i.imgur.com/EUvwWKZ.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TripicalFlower",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7MHnJnI.png",
+	    "thumbUrl": "https://i.imgur.com/JporNtp.png",
+            "collections":"flower" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulRainbow8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CwnZo41.png",
+	    "thumbUrl": "https://i.imgur.com/zUd4Rw2.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BrightBoes8",
+      	    "author":"Binod Ray",
+            "urlhttps://i.imgur.com/R76NcSw.pngxxx",
+	    "thumbUrl": "https://i.imgur.com/QATkIyT.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeCircle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0gZtLMc.png",
+	    "thumbUrl": "https://i.imgur.com/s2WkB4u.png",
+            "collections":"random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenPolkas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/T8vpS8E.png",
+	    "thumbUrl": "https://i.imgur.com/GZ17wdY.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"WolfHowling11",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/bzwHtMP.png",
