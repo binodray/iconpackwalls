@@ -2224,15 +2224,7 @@
 	    "featured": true,  
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"SwagonGray",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/LVmY7iY.png",
-	    "thumbUrl": "https://i.imgur.com/OiSvIj3.png",
-            "collections":"minimal,girls" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+     	    
      {
             "name":"ColorSinger1",
       	    "author":"Binod Ray",
@@ -2478,15 +2470,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"SoftDrinksLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/fBIvs0s.png",
-	    "thumbUrl": "https://i.imgur.com/THS32GR.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"BeFreeLight",
       	    "author":"Binod Ray",
