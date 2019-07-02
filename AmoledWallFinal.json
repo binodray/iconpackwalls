@@ -2023,15 +2023,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"SwagonDark",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/TkT1MQH.png",
-	    "thumbUrl": "https://i.imgur.com/lve2Tpw.png",
-            "collections":"minimal,girls" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+         
      {
             "name":"PinkStreak2",
       	    "author":"Binod Ray",
@@ -2268,15 +2260,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"SoftDrinksDark",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/ISIegFY.png",
-	    "thumbUrl": "https://i.imgur.com/AcfwdnO.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+    
      {
             "name":"BeFreeDark",
       	    "author":"Binod Ray",
