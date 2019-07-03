@@ -52,6 +52,146 @@
 	],
     "Wallpapers": [
      {
+            "name":"FlatEarth2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Bh7lndd.png",
+	    "thumbUrl": "https://i.imgur.com/TELNZCA.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ClawMarks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UK85Yrp.png",
+	    "thumbUrl": "https://i.imgur.com/O2vUhUK.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulShape2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MrbTJka.png",
+	    "thumbUrl": "https://i.imgur.com/VX1mkBF.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenInfinity1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eyJHnuL.png",
+	    "thumbUrl": "https://i.imgur.com/C2zLdbt.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWaterDrop2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yiR0pom.png",
+	    "thumbUrl": "https://i.imgur.com/Qh0G9Py.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Ankled1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NlubfbJ.png",
+	    "thumbUrl": "https://i.imgur.com/F7FEUuX.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientLines9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/b0XgNMU.png",
+	    "thumbUrl": "https://i.imgur.com/BkKu1tG.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalNight6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Xo2wvG0.png",
+	    "thumbUrl": "https://i.imgur.com/NmOioJH.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientCircle3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/GyxEbHQ.png",
+	    "thumbUrl": "https://i.imgur.com/bQ3AmGb.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientCircle1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gMKSX9W.png",
+	    "thumbUrl": "https://i.imgur.com/tmhLBPL.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleShape2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LUX59RX.png",
+	    "thumbUrl": "https://i.imgur.com/Ki8OdCC.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientQues",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V1YrdBX.png",
+	    "thumbUrl": "https://i.imgur.com/VgLx5yt.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkAbs9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6cNVByM.png",
+	    "thumbUrl": "https://i.imgur.com/2xlhGrb.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalNight5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/399Z6DC.png",
+	    "thumbUrl": "https://i.imgur.com/hTOySMo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueCircle",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/iQsNOt3.png",
