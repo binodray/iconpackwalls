@@ -763,17 +763,7 @@
 	     "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"LadySinger",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/QzgyAGN.png",
-	    "thumbUrl": "https://i.imgur.com/Y2kCkUo.png",
-            "collections":"minimal,quirky" ,
-            "dimensions":"1440x2560",
-	    "featured": true, 
-	     "downloadable": false, 
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"RedYellowChita1",
       	    "author":"Binod Ray",
@@ -9943,7 +9933,7 @@
 			"copyright": "Personal Use"
 		},
 		{
-			"name": "SexyGirl7",
+			"name": "Girl7",
 			"author": "Binod Ray",
 			"url": "https://i.imgur.com/hMX27Lj.png",
 			"thumbUrl": "https://i.imgur.com/8ZxhNA5.png",
