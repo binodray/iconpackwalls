@@ -2227,51 +2227,7 @@
 	    "copyright":"Personal Use" 
      },	    
       	    
-     {
-            "name":"PUBG7",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/r62i3KB.png",
-	    "thumbUrl": "https://i.imgur.com/hd3cTtm.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG1",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/F9pYh4C.png",
-	    "thumbUrl": "https://i.imgur.com/cZUMRH8.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG8",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/aV8FF8A.png",
-	    "thumbUrl": "https://i.imgur.com/RiQIgLb.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG9",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/dwkE8MG.png",
-	    "thumbUrl": "https://i.imgur.com/lLa83qi.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG6",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/stUaMLo.png",
-	    "thumbUrl": "https://i.imgur.com/UhO6bqh.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+       
      {
             "name":"Blue3Cerpent",
       	    "author":"Binod Ray",
@@ -2683,97 +2639,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	    
-     {
-            "name":"Got20",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/gubyQTu.png",
-	    "thumbUrl": "https://i.imgur.com/SWiUyNf.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got13",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/HIwxONk.png",
-	    "thumbUrl": "https://i.imgur.com/Q0TuvOM.png",
-            "collections":"minimal,quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got17",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/04taMnQ.png",
-	    "thumbUrl": "https://i.imgur.com/wwXoEUY.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got16",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/40oPAno.png",
-	    "thumbUrl": "https://i.imgur.com/b6erRxl.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "featured": true, 
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got9",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/nZYCblK.png",
-	    "thumbUrl": "https://i.imgur.com/k4nnBxZ.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got18",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/t2mZ1qg.png",
-	    "thumbUrl": "https://i.imgur.com/RyQVYTT.png",
-            "collections":"simple" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got10",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/gkhCSYL.png",
-	    "thumbUrl": "https://i.imgur.com/039wao2.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got19",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/diaZCpo.png",
-	    "thumbUrl": "https://i.imgur.com/seVqBuG.png",
-            "collections":"simple" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got11",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/7eRXrvQ.png",
-	    "thumbUrl": "https://i.imgur.com/YdV8oY3.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got12",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/bD7SrfE.png",
-	    "thumbUrl": "https://i.imgur.com/xLLzN8l.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+     	    
      {
             "name":"LineWavesBlue",
       	    "author":"Binod Ray",
