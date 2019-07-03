@@ -2244,15 +2244,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"GirlBackLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/hc5gfkg.png",
-	    "thumbUrl": "https://i.imgur.com/V9QV76L.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"BlondyLight",
       	    "author":"Binod Ray",
@@ -2372,51 +2364,7 @@
 	    "copyright":"Personal Use" 
      },	    
       	    
-     {
-            "name":"PUBG4",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/EUHQfu6.png",
-	    "thumbUrl": "https://i.imgur.com/nkfNaTh.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG5",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/Wg2fyAc.png",
-	    "thumbUrl": "https://i.imgur.com/yMnd9Cf.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG10",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/zffxicX.png",
-	    "thumbUrl": "https://i.imgur.com/XSsxzO3.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG2",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/OKiFpNW.png",
-	    "thumbUrl": "https://i.imgur.com/Ud4eKIx.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"PUBG3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/e5yzdvO.png",
-	    "thumbUrl": "https://i.imgur.com/en6GfH5.png",
-            "collections":"simple,minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+     	    
      {
             "name":"BarrenJungle",
       	    "author":"Binod Ray",
@@ -2828,97 +2776,7 @@
 	    "featured": true,	 
 	    "copyright":"Personal Use" 
      },	    
-    {
-            "name":"Got1",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/77ljpO5.png",
-	    "thumbUrl": "https://i.imgur.com/J9Jztty.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "featured": true,
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got6",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/hHeqnSy.png",
-	    "thumbUrl": "https://i.imgur.com/ltZUU13.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got2",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/iaHPj5B.png",
-	    "thumbUrl": "https://i.imgur.com/fNC3Kv0.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got14",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/3c4PGmh.png",
-	    "thumbUrl": "https://i.imgur.com/NyM2Gbu.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got15",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/pLAJQ8v.png",
-	    "thumbUrl": "https://i.imgur.com/0ni0r32.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got8",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/doahK61.png",
-	    "thumbUrl": "https://i.imgur.com/HbfeAel.png",
-            "collections":"random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got4",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/N5XmoCn.png",
-	    "thumbUrl": "https://i.imgur.com/mf3eBOz.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got5",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/z0J9YUW.png",
-	    "thumbUrl": "https://i.imgur.com/RGq5Hez.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/es9Amt5.png",
-	    "thumbUrl": "https://i.imgur.com/LZtCSBJ.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"Got7",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/ruXkt1a.png",
-	    "thumbUrl": "https://i.imgur.com/ofyvtmz.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     }, 	    
+    	    
      {
             "name":"MinimalBeans",
       	    "author":"Binod Ray",
@@ -3905,24 +3763,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"BikiniGirls4",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/l96LbrX.png",
-	    "thumbUrl": "https://i.imgur.com/NLPyO0p.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"BikiniGirl3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/VRaEa2F.png",
-	    "thumbUrl": "https://i.imgur.com/Zm4G5hJ.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"SwingBunny",
       	    "author":"Binod Ray",
@@ -3950,15 +3791,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"BikiniGirl5",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/rp4nGKl.png",
-	    "thumbUrl": "https://i.imgur.com/pzHTAm6.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"TeaCups",
       	    "author":"Binod Ray",
@@ -5948,15 +5781,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"GirlFloating",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/F87yrmq.png",
-	    "thumbUrl": "https://i.imgur.com/f6QNr5e.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },    
+        
      {
             "name":"ValentinesDay",
       	    "author":"Binod Ray",
@@ -11385,15 +11210,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"AnimeGirl",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/v6IFfsd.png",
-	    "thumbUrl": "https://i.imgur.com/jCxS90c.png",
-            "collections":"random" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"AnimeLove",
       	    "author":"Binod Ray",
@@ -11412,15 +11229,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"GirlFloat",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/MtCimuD.png",
-	    "thumbUrl": "https://i.imgur.com/Lu4k8cJ.png",
-            "collections":"random,simple" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"WomaFace1",
       	    "author":"Binod Ray",
@@ -15328,15 +15137,7 @@
             "dimensions":"1440x2560",
             "copyright":"Personal Use"           
         },
-	{
-            "name":"BikiniGirl",
-            "author":"Binod Ray",
-            "url":"https://i.imgur.com/Q1ve9oA.png",
-	    "thumbUrl": "https://i.imgur.com/7U00a4U.png",
-            "collections":"minimal",
-            "dimensions":"1440x2560",
-            "copyright":"Personal Use"           
-        },
+	
 	{
             "name":"ScooterGirl",
             "author":"Binod Ray",
@@ -15346,15 +15147,7 @@
             "dimensions":"1440x2560",
             "copyright":"Personal Use"           
         },
-	{
-            "name":"BikiniGirl",
-            "author":"Binod Ray",
-            "url":"https://i.imgur.com/MEAQwra.png",
-	    "thumbUrl": "https://i.imgur.com/qwBPsmH.png",
-            "collections":"minimal",
-            "dimensions":"1440x2560",
-            "copyright":"Personal Use"           
-        },    
+	   
 	{
             "name":"SunSet32",
             "author":"Binod Ray",
