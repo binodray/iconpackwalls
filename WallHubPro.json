@@ -1353,15 +1353,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"PoolRelax1",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/L429hFj.png",
-	    "thumbUrl": "https://i.imgur.com/jyCn4cB.png",
-            "collections":"minimal,girls" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+    
      {
             "name":"BlueComb",
       	    "author":"Binod Ray",
@@ -2452,43 +2444,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },	    
-     {
-            "name":"FightLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/tLuvgoZ.png",
-	    "thumbUrl": "https://i.imgur.com/Mwc3rU0.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"StayCoolLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/ifBP0Ag.png",
-	    "thumbUrl": "https://i.imgur.com/BIvthn3.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     
-     {
-            "name":"BeFreeLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/R31HFnN.png",
-	    "thumbUrl": "https://i.imgur.com/1ROmOiI.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"GirlPowerLight",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/5nxC9Y9.png",
-	    "thumbUrl": "https://i.imgur.com/kxv6hj8.png",
-            "collections":"simple,minimal,girls,featured" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     }, 	    
+      	    
      {
             "name":"PUBG4",
       	    "author":"Binod Ray",
