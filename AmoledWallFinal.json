@@ -2108,15 +2108,7 @@
 	    "featured": true, 
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"GirlBack",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/0Gxa73n.png",
-	    "thumbUrl": "https://i.imgur.com/2eDUKJ9.png",
-            "collections":"minimal" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
+     
      {
             "name":"LightBlueAbstract",
       	    "author":"Binod Ray",
@@ -9271,42 +9263,7 @@
             "dimensions":"1440x2560",
 	    "copyright":"Personal Use" 
      },
-     {
-            "name":"SexyGirls4",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/oQ2uma4.png",
-	    "thumbUrl": "https://i.imgur.com/saiQdJQ.png",
-            "collections":"random,quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SexyGirls3",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/5xatj96.png",
-	    "thumbUrl": "https://i.imgur.com/tzMw1Ow.png",
-            "collections":"random,quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"SexyGirls2",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/CEJJ6rK.png",
-	    "thumbUrl": "https://i.imgur.com/wBkuRmN.png",
-            "collections":"random,quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },
-     {
-            "name":"TechGirl1",
-      	    "author":"Binod Ray",
-            "url":"https://i.imgur.com/JA4We1W.png",
-	    "thumbUrl": "https://i.imgur.com/dX1zHpN.png",
-            "collections":"random,quirky" ,
-            "dimensions":"1440x2560",
-	    "copyright":"Personal Use" 
-     },	    
+    	    
      {
             "name":"YellowRocket",
       	    "author":"Binod Ray",
