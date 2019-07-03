@@ -14382,7 +14382,7 @@
             "collections":"xwalls" ,
             "dimensions":"1440x2560",
 	    "downloadable":false,
-	    "downloadable":false,
+	   
 	    "copyright":"Personal Use" 
      },	    
      {
@@ -16073,5 +16073,7 @@
             "dimensions":"1440x2560",
 	    "downloadable":false,
 	    "copyright":"Personal Use" 
-     },
-     {
+     
+        }
+    ]
+}
