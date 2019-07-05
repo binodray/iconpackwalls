@@ -52,6 +52,287 @@
 	],
     "Wallpapers": [
      {
+            "name":"Basket9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c9yqbUf.png",
+	    "thumbUrl": "https://i.imgur.com/q7yyt5q.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineChimp9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MiWO6Pm.png",
+	    "thumbUrl": "https://i.imgur.com/ZGqJ0Yu.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+	 
+     {
+            "name":"LineElephant5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r7bjdNT.png",
+	    "thumbUrl": "https://i.imgur.com/zqGz36C.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineCat10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/czCvUpn.png",
+	    "thumbUrl": "https://i.imgur.com/cvBIi5C.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledShapes8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sKLbffg.png",
+	    "thumbUrl": "https://i.imgur.com/lsAlmEk.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BullDog8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/VceqCJy.png",
+	    "thumbUrl": "https://i.imgur.com/vRvtsZQ.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineBugs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m99MBFF.png",
+	    "thumbUrl": "https://i.imgur.com/INUTnGT.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"IineSurfer8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ELq0deI.png",
+	    "thumbUrl": "https://i.imgur.com/ZXTptNJ.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineLeaf",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7oxL78Q.png",
+	    "thumbUrl": "https://i.imgur.com/t0N9ddK.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"DarkAnts",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t2op6iF.png",
+	    "thumbUrl": "https://i.imgur.com/6FAm6TI.png",
+            "collections":"minimal,simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineElephant",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/feSaSP3.png",
+	    "thumbUrl": "https://i.imgur.com/ver8Y31.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineLions",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KQxgAVg.png",
+	    "thumbUrl": "https://i.imgur.com/94Llxka.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineCat9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eafqHND.png",
+	    "thumbUrl": "https://i.imgur.com/LGkU8bY.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineFlower7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/seay0AX.png",
+	    "thumbUrl": "https://i.imgur.com/6LAg3dN.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRiders7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/NXIkccM.png",
+	    "thumbUrl": "https://i.imgur.com/pEmxUDX.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineChimp",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FC8gbMJ.png",
+	    "thumbUrl": "https://i.imgur.com/MEsZJlM.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineCat8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IdR5kMh.png",
+	    "thumbUrl": "https://i.imgur.com/6DDvzEW.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineSkater",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cphAkWs.png",
+	    "thumbUrl": "https://i.imgur.com/E6safnP.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRiders8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/48Zh8wi.png",
+	    "thumbUrl": "https://i.imgur.com/FgxHItf.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	     "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineBuilders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qaqYC6j.png",
+	    "thumbUrl": "https://i.imgur.com/PErryMN.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	     "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRiders9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gfosS9K.png",
+	    "thumbUrl": "https://i.imgur.com/7nj5aC6.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineGorilla",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sOx6UiI.png",
+	    "thumbUrl": "https://i.imgur.com/H9Ffyue.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRunnins",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kirMvoQ.png",
+	    "thumbUrl": "https://i.imgur.com/8JRiMG9.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRiders10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3ettYy8.png",
+	    "thumbUrl": "https://i.imgur.com/BNBSvZv.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineWheeler",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Fa57iUt.png",
+	    "thumbUrl": "https://i.imgur.com/lyS8HUG.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineDog6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m3ijjiS.png",
+	    "thumbUrl": "https://i.imgur.com/MzQ4Tsw.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineTigers8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rDuY3pp.png",
+	    "thumbUrl": "https://i.imgur.com/tW0gLDT.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LineRiders6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yAcYA8h.png",
+	    "thumbUrl": "https://i.imgur.com/3hRzB6M.png",
+            "collections":"quirky,simple,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"FlatEarth2",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Bh7lndd.png",
