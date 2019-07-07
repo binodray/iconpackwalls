@@ -53,6 +53,69 @@
     ],
     "Wallpapers":[
     {
+            "name":"GradientCircle8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UiGKkTn.png",
+	    "thumbUrl": "https://i.imgur.com/JRXc05r.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeWhale8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qZgcRH7.png",
+	    "thumbUrl": "https://i.imgur.com/D5mnd2v.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleWhale8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MSyjlj4.png",
+	    "thumbUrl": "https://i.imgur.com/Cl33AYU.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"YellowSun8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/312vvwM.png",
+	    "thumbUrl": "https://i.imgur.com/sPmWPT3.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientElephant",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SngdMp2.png",
+	    "thumbUrl": "https://i.imgur.com/7GsHDDl.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientSwimmer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/gMEyZyb.png",
+	    "thumbUrl": "https://i.imgur.com/KI3dEUY.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GrumpyBird8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JCUxRw1.png",
+	    "thumbUrl": "https://i.imgur.com/HP7uWVB.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Basket9",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/c9yqbUf.png",
