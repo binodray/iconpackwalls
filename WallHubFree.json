@@ -43,6 +43,76 @@
     ],
     "Wallpapers":[
      {
+            "name":"GradientElephant",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tQ9LXbm.png",
+	    "thumbUrl": "https://i.imgur.com/8bI6CDz.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Maps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/m7S8R6j.png",
+	    "thumbUrl": "https://i.imgur.com/AaV2k29.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PhoneCall",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/5mD8d0j.png",
+	    "thumbUrl": "https://i.imgur.com/vYspJve.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OrangeWhale9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cHo3rnL.png",
+	    "thumbUrl": "https://i.imgur.com/liw4pQo.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleBirds8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oTKJRP0.png",
+	    "thumbUrl": "https://i.imgur.com/kcPyrYD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleWhale9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sJsEvG1.png",
+	    "thumbUrl": "https://i.imgur.com/64YncjP.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RoadMap",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xqq51cZ.png",
+	    "thumbUrl": "https://i.imgur.com/MuTCFFy.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueWorms9",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/GMuM69T.png",
