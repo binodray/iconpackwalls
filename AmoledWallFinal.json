@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"AJourney1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JWXJ4Rp.png",
+	    "thumbUrl": "https://i.imgur.com/5UoAw9A.png",
+            "collections":"quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Knock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3mfhgxE.png",
+	    "thumbUrl": "https://i.imgur.com/DhFQFbp.png",
+            "collections":"quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDog",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ZkQbPgJ.png",
+	    "thumbUrl": "https://i.imgur.com/cPy01mS.png",
+            "collections":"quirky,minimal,pattern,animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LittleProgress",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JVL3bEZ.png",
+	    "thumbUrl": "https://i.imgur.com/hkFysoB.png",
+            "collections":"quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"TheyThink",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PBXoeLy.png",
+	    "thumbUrl": "https://i.imgur.com/iu5DE64.png",
+            "collections":"quirky,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalRhino",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8fpcD3Z.png",
+	    "thumbUrl": "https://i.imgur.com/ttqHKnU.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ColorfulBird10",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/y2n4RmV.png",
