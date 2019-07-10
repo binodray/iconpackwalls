@@ -44,6 +44,61 @@
     ],
     "Wallpapers":[
     {
+            "name":"Listners",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kXOXQHi.png",
+	    "thumbUrl": "https://i.imgur.com/vKvyaps.png",
+            "collections":"minimal,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PkrCT2u.png",
+	    "thumbUrl": "https://i.imgur.com/ycreFPt.png",
+            "collections":"random,pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BestFriend",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/iBak6M9.png",
+	    "thumbUrl": "https://i.imgur.com/7BGnyff.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedLines5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FX53hbZ.png",
+	    "thumbUrl": "https://i.imgur.com/Rm1lDDO.png",
+            "collections":"random,pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWebs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CkwwoDo.png",
+	    "thumbUrl": "https://i.imgur.com/wz3OjeT.png",
+            "collections":"random,pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWebs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HkzC2Kr.png",
+	    "thumbUrl": "https://i.imgur.com/l8P42nT.png",
+            "collections":"random,pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
+	    
             "name":"ColorfulBirds6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/8n0x6O1.png",
