@@ -43,6 +43,66 @@
     ],
     "Wallpapers":[
      {
+            "name":"Geomat9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0OtOV1B.png",
+	    "thumbUrl": "https://i.imgur.com/dIm8cVa.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeoMat13",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yUydFaP.png",
+	    "thumbUrl": "https://i.imgur.com/O3sOFZ9.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelOrange3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BVEDxG8.png",
+	    "thumbUrl": "https://i.imgur.com/4mbkwRe.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeoMat10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PxpAXnZ.png",
+	    "thumbUrl": "https://i.imgur.com/jcurpY8.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GeoMat12",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sodcZLS.png",
+	    "thumbUrl": "https://i.imgur.com/E9cjn92.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Geomat11",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eVwEh7H.png",
+	    "thumbUrl": "https://i.imgur.com/zSjmWXa.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Listners",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/kXOXQHi.png",
