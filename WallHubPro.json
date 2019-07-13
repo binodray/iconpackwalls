@@ -44,6 +44,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"ColorfulBox1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BXEKBGC.png",
+	    "thumbUrl": "https://i.imgur.com/EoylllE.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NeverStop",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/EqlejHu.png",
+	    "thumbUrl": "https://i.imgur.com/b6xMGk4.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NoseDives",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ox0q7KC.png",
+	    "thumbUrl": "https://i.imgur.com/IOQCaqm.png",
+            "collections":"animal,minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ItsNever",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BOf2ml0.png",
+	    "thumbUrl": "https://i.imgur.com/ZHj93oP.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Whatever",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/9etD5E9.png",
+	    "thumbUrl": "https://i.imgur.com/fwCrcrO.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueReflection",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jCiVqDU.png",
+	    "thumbUrl": "https://i.imgur.com/3NxZGoC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Geomat9",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/0OtOV1B.png",
