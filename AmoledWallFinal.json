@@ -53,6 +53,60 @@
     ],
     "Wallpapers":[
     {
+            "name":"Calm1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lCK9yPf.png",
+	    "thumbUrl": "https://i.imgur.com/hYsEkCN.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"NYC",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TkqVrr8.png",
+	    "thumbUrl": "https://i.imgur.com/tX1mRWn.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueRocks",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KPszyeN.png",
+	    "thumbUrl": "https://i.imgur.com/KftmpS0.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PinkNIght1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PAEPZbf.png",
+	    "thumbUrl": "https://i.imgur.com/YQ5QswT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedYellowChita",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/g9P044k.png",
+	    "thumbUrl": "https://i.imgur.com/j4yc8nF.png",
+            "collections":"splash" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Strike",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TKAJEEE.png",
+	    "thumbUrl": "https://i.imgur.com/mNIIU1r.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"ModernGrass",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/uvb2Meu.png",
