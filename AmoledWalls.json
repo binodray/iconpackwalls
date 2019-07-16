@@ -52,6 +52,56 @@
 	],
     "Wallpapers": [
       {
+            "name":"BlueNeonLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/20agMCg.png",
+	    "thumbUrl": "https://i.imgur.com/dTT3JDA.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedNeonLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V6hwvK2.png",
+	    "thumbUrl": "https://i.imgur.com/XdyP07s.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedNeonLine1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/M16N4gv.png",
+	    "thumbUrl": "https://i.imgur.com/KdwUlU5.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueGreenLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/a97VrPT.png",
+	    "thumbUrl": "https://i.imgur.com/7rpaauI.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenNeonLine",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D7RktAy.png",
+	    "thumbUrl": "https://i.imgur.com/9bvwiXE.png",
+            "collections":"pattern,abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"Calm1",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/lCK9yPf.png",
