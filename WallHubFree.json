@@ -43,6 +43,125 @@
     ],
     "Wallpapers":[
       {
+            "name":"BlueMounts5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/JusLcYl.png",
+	    "thumbUrl": "https://i.imgur.com/jFZdvAt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueGeo6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bPD6SVc.png",
+	    "thumbUrl": "https://i.imgur.com/9X0q7EA.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GoldenCactus",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Lr8sMBc.png",
+	    "thumbUrl": "https://i.imgur.com/vRSKG1x.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FadedBlueHills",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2EaQWrw.png",
+	    "thumbUrl": "https://i.imgur.com/5f90BrA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLayers8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/57HO2qr.png",
+	    "thumbUrl": "https://i.imgur.com/P7SRZEu.png",
+            "collections":"abstract,random" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RedDesert",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/XEjcs3c.png",
+	    "thumbUrl": "https://i.imgur.com/waI5g6D.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientJhalar1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/MWCegzU.png",
+	    "thumbUrl": "https://i.imgur.com/zDFOK8F.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenSky7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/r77sg7K.png",
+	    "thumbUrl": "https://i.imgur.com/A9lLYbR.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelSun5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7jpaaYF.png",
+	    "thumbUrl": "https://i.imgur.com/Rc9hlU6.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightBlueAbs1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YGtwvkk.png",
+	    "thumbUrl": "https://i.imgur.com/fuhB4kq.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleMounts5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/41E7WLR.png",
+	    "thumbUrl": "https://i.imgur.com/jV8QRAs.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LightBlueAbs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cOhbxLO.png",
+	    "thumbUrl": "https://i.imgur.com/moIitDi.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+      {
             "name":"PurpleNature",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/y8IxoNA.png",
