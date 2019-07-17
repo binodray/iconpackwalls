@@ -51,7 +51,157 @@
 		}
 	],
     "Wallpapers": [
-      {
+    {
+            "name":"GreenDashed",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AHSVq8f.png",
+	    "thumbUrl": "https://i.imgur.com/kTS71zv.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientAmoled7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/22n3lWl.png",
+	    "thumbUrl": "https://i.imgur.com/R1x9yzo.png",
+            "collections":"quirky",
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColofulAbs8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yI4Taah.png",
+	    "thumbUrl": "https://i.imgur.com/OFOzxgc.png",
+            "collections":"quirky",
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"AmoledGeo3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/uIx3JK8.png",
+	    "thumbUrl": "https://i.imgur.com/Zt2Suql.png",
+            "collections":"pattern",
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColofulAbs9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/43xUhsM.png",
+	    "thumbUrl": "https://i.imgur.com/wHCsk0o.png",
+            "collections":"quirky",
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurplePeacock",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oaDA0UL.png",
+	    "thumbUrl": "https://i.imgur.com/ymJXTQN.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PurpleLayers",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UG3ocAg.png",
+	    "thumbUrl": "https://i.imgur.com/cVDfo66.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColofulAbs10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/KX2YJh6.png",
+	    "thumbUrl": "https://i.imgur.com/rlSVgGr.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulHorse",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Poqv3y4.png",
+	    "thumbUrl": "https://i.imgur.com/9w3jRUt.png",
+            "collections":"quirky,animal,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulPencil",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oeMm4bu.png",
+	    "thumbUrl": "https://i.imgur.com/6NkcYfn.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/surjFQD.png",
+	    "thumbUrl": "https://i.imgur.com/RHyW71H.png",
+            "collections":"quirky,animal,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradeintWaves6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DxL0Hxr.png",
+	    "thumbUrl": "https://i.imgur.com/h03dQoc.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientAmoled5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yJ8wCKV.png",
+	    "thumbUrl": "https://i.imgur.com/rc2XIoX.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientAmoled6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/yOItv84.png",
+	    "thumbUrl": "https://i.imgur.com/qk07sV8.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradientJhalar2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4KlRdGn.png",
+	    "thumbUrl": "https://i.imgur.com/AeyImaM.png",
+            "collections":"random,abstract,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },  	     
+     {
             "name":"BlueNeonLine",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/20agMCg.png",
