@@ -52,6 +52,146 @@
 	],
     "Wallpapers": [
     {
+            "name":"ColorfulBear",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OAQiNk8.png",
+	    "thumbUrl": "https://i.imgur.com/gQSVuEs.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,  
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulBalls",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eHUIMgC.png",
+	    "thumbUrl": "https://i.imgur.com/dozBqeN.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDeer8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0pcqlVI.png",
+	    "thumbUrl": "https://i.imgur.com/zCYUyTr.png",
+            "collections":"quirky,minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDog2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Kin3ItK.png",
+	    "thumbUrl": "https://i.imgur.com/NdRtulx.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCat8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/vwjYYCC.png",
+	    "thumbUrl": "https://i.imgur.com/mwZo5jz.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulShape36",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/efGXWiS.png",
+	    "thumbUrl": "https://i.imgur.com/BLGmLz1.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulOwl4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pFcBunc.png",
+	    "thumbUrl": "https://i.imgur.com/wwAh0UC.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDog1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Qfrzcln.png",
+	    "thumbUrl": "https://i.imgur.com/sU1Sbnj.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulDeer9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ecBHb2k.png",
+	    "thumbUrl": "https://i.imgur.com/PXAPxjp.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulShape37",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/dHAQyeo.png",
+	    "thumbUrl": "https://i.imgur.com/xc228of.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"RunningFox8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/sXp82a8.png",
+	    "thumbUrl": "https://i.imgur.com/MaxVUnq.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulShapes9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xb6fNY5.png",
+	    "thumbUrl": "https://i.imgur.com/fb0usuH.png",
+            "collections":"random,abstract,pattern" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorFullShape7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jSkEe1q.png",
+	    "thumbUrl": "https://i.imgur.com/Yhr5Noy.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulEagle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UGd1YbW.png",
+	    "thumbUrl": "https://i.imgur.com/FFUggTz.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 	 
+	    "copyright":"Personal Use" 
+     },
+     {
             "name":"GreenDashed",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/AHSVq8f.png",
