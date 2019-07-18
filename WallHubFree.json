@@ -42,7 +42,207 @@
         }
     ],
     "Wallpapers":[
-      {
+       {
+            "name":"WhiteCommet",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/mx4MCoc.png",
+	    "thumbUrl": "https://i.imgur.com/Q5RZ0ex.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false,   
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FadedCloud",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/SWiPu3h.png",
+	    "thumbUrl": "https://i.imgur.com/x5ibqQk.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfullShape8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/qoFtLKW.png",
+	    "thumbUrl": "https://i.imgur.com/tyLhi4j.png",
+            "collections":"pattern,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Camping8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/1YHvDeR.png",
+	    "thumbUrl": "https://i.imgur.com/VK1dHuD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueLakes8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nsvaYcC.png",
+	    "thumbUrl": "https://i.imgur.com/B5R8DNt.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"FullMoon7",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/rh9Uufn.png",
+	    "thumbUrl": "https://i.imgur.com/gVbA4Vc.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ClearBlueSky",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tX2MVVu.png",
+	    "thumbUrl": "https://i.imgur.com/PW9znl9.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MountFuji",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WEnVLMe.png",
+	    "thumbUrl": "https://i.imgur.com/bqydmXA.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalCar6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/FJNaLS1.png",
+	    "thumbUrl": "https://i.imgur.com/G2OApSr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalBullDog",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V6kPsoa.png",
+	    "thumbUrl": "https://i.imgur.com/RTLXcbA.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MinimalGuitar",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/3mbemJQ.png",
+	    "thumbUrl": "https://i.imgur.com/EKwsop8.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GradietSky8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/PFdCRlS.png",
+	    "thumbUrl": "https://i.imgur.com/oqoPkWC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VirtualThinking",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cCYwFtb.png",
+	    "thumbUrl": "https://i.imgur.com/7aaq6TM.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelLight4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/RIGDIcQ.png",
+	    "thumbUrl": "https://i.imgur.com/NS0j0xa.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"OramgeSandWaves",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/WHNe23b.png",
+	    "thumbUrl": "https://i.imgur.com/pnwVXrY.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"VirtualThinking4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cvfdOhi.png",
+	    "thumbUrl": "https://i.imgur.com/zzGW30w.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelLight8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cp3hsqU.png",
+	    "thumbUrl": "https://i.imgur.com/9zrKG1l.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelLight5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/fXWyoWb.png",
+	    "thumbUrl": "https://i.imgur.com/pSNA7Jq.png",
+            "collections":"simple,random,abstract" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PastelMoon5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/CCcadLN.png",
+	    "thumbUrl": "https://i.imgur.com/ETaRBMf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SimpleGreen",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HRVlRvq.png",
+	    "thumbUrl": "https://i.imgur.com/ovj1QjP.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	     
+     {
             "name":"BlueMounts5",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/JusLcYl.png",
