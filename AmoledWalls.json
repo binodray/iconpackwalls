@@ -52,6 +52,51 @@
 	],
     "Wallpapers": [
     {
+            "name":"ChotuRam",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c9vpSTI.png",
+	    "thumbUrl": "https://i.imgur.com/54yDvxw.png",
+            "collections":"quirky,minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SexyGlasses",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Uc6fzuA.png",
+	    "thumbUrl": "https://i.imgur.com/iRngVac.png",
+            "collections":"quirky,minimal,quote" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ChotuRam1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BOOLD34.png",
+	    "thumbUrl": "https://i.imgur.com/TZKkBqK.png",
+            "collections":"quirky,minimal,faith" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Orangeparrot",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D3KIH2J.png",
+	    "thumbUrl": "https://i.imgur.com/jheIj0t.png",
+            "collections":"quirky,animal" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulCaps",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ymb2v9U.png",
+	    "thumbUrl": "https://i.imgur.com/Pld96p7.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
             "name":"ColorfulBear",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/OAQiNk8.png",
