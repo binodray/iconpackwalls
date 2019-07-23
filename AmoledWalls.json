@@ -58,6 +58,7 @@
 	    "thumbUrl": "https://i.imgur.com/54yDvxw.png",
             "collections":"quirky,minimal,faith" ,
             "dimensions":"1440x2560",
+	    "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -67,6 +68,7 @@
 	    "thumbUrl": "https://i.imgur.com/iRngVac.png",
             "collections":"quirky,minimal,quote" ,
             "dimensions":"1440x2560",
+	    "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -76,6 +78,7 @@
 	    "thumbUrl": "https://i.imgur.com/TZKkBqK.png",
             "collections":"quirky,minimal,faith" ,
             "dimensions":"1440x2560",
+	    "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -85,6 +88,7 @@
 	    "thumbUrl": "https://i.imgur.com/jheIj0t.png",
             "collections":"quirky,animal" ,
             "dimensions":"1440x2560",
+	    "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
      {
@@ -94,6 +98,7 @@
 	    "thumbUrl": "https://i.imgur.com/Pld96p7.png",
             "collections":"quirky" ,
             "dimensions":"1440x2560",
+	    "downloadable": false, 
 	    "copyright":"Personal Use" 
      },
      {
