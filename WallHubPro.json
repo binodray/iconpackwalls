@@ -44,6 +44,51 @@
     ],
     "Wallpapers":[
     {
+            "name":"PurpleWhite2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/J5TaDAx.png",
+	    "thumbUrl": "https://i.imgur.com/W3etuSI.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"BlueWhite4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/N6Yfc77.png",
+	    "thumbUrl": "https://i.imgur.com/vowHCug.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"GreenYellowWhite",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OvnozOH.png",
+	    "thumbUrl": "https://i.imgur.com/Nxl5VMu.png",
+            "collections":"simple" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"ColorfulPastel8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Hdgr7oC.png",
+	    "thumbUrl": "https://i.imgur.com/gE95t3F.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MotaPaint",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/DOJdl9Q.png",
+	    "thumbUrl": "https://i.imgur.com/DOJdl9Q.png",
+            "collections":"pattern" ,
+            "dimensions":"1440x2560",
+	    "copyright":"Personal Use" 
+     },
+     {
             "name":"WhiteCommet",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/mx4MCoc.png",
