@@ -52,6 +52,36 @@
 	],
     "Wallpapers": [
     {
+            "name":"GolfLady",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/34t1TJs.png",
+	    "thumbUrl": "https://i.imgur.com/oCcwlSq.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"LeadGuitar",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/lYYXysK.png",
+	    "thumbUrl": "https://i.imgur.com/kkEovLS.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PolkaVolly",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/nGvKbEW.png",
+	    "thumbUrl": "https://i.imgur.com/UTMxplw.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false, 
+	    "copyright":"Personal Use" 
+     }, 	    
+     {
             "name":"BrightHalfMoon",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/J5GebEN.png",
