@@ -43,6 +43,86 @@
     ],
     "Wallpapers":[
      {
+            "name":"HangingClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Zkplb6S.png",
+	    "thumbUrl": "https://i.imgur.com/9718fyB.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"PoloBall",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/2CHxCS0.png",
+	    "thumbUrl": "https://i.imgur.com/T4x68B7.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"HangingClounds1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4X7IgHP.png",
+	    "thumbUrl": "https://i.imgur.com/BoDTnQD.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"MaleVollyBall",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8ppqzVY.png",
+	    "thumbUrl": "https://i.imgur.com/SAZwcsF.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Vollyball2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/G6ODO2P.png",
+	    "thumbUrl": "https://i.imgur.com/Ee7NLg6.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SwingingFox2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Dw13jn0.png",
+	    "thumbUrl": "https://i.imgur.com/Je6f5r0.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"SwingingFox1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/cbT5bSR.png",
+	    "thumbUrl": "https://i.imgur.com/aaGeHsl.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },
+     {
+            "name":"Vollyball1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/93B5nh9.png",
+	    "thumbUrl": "https://i.imgur.com/B3Zx9A7.png",
+            "collections":"s10series" ,
+            "dimensions":"1440x2560",
+	    "downloadable":false, 
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"BlueGoat",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/TXcdhdZ.png",
