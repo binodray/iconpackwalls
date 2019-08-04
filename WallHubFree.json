@@ -43,6 +43,96 @@
     ],
     "Wallpapers":[
      {
+            "name":"GreenEagle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6vUWvih.png",
+	    "thumbUrl": "https://i.imgur.com/m7DUZEA.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlueLightLeak1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BqRRc0Y.png",
+	    "thumbUrl": "https://i.imgur.com/eOwpgUt.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"MinimalCherry",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ur0wDPA.png",
+	    "thumbUrl": "https://i.imgur.com/aeQF247.png",
+            "collections":"minimal,featured" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"Calfornia",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/bD9eDMI.png",
+	    "thumbUrl": "https://i.imgur.com/0JMQDby.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"Fools",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/291X42d.png",
+	    "thumbUrl": "https://i.imgur.com/mZEEojg.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"OfficePlace",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BRfMK9G.png",
+	    "thumbUrl": "https://i.imgur.com/1ps6W31.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"AngryMan5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/IfrTFev.png",
+	    "thumbUrl": "https://i.imgur.com/dDYdYE5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"YellowSun6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HuHFPHG.png",
+	    "thumbUrl": "https://i.imgur.com/3wQ9RVm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"OrangeLighLeaks1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0wAxZBb.png",
+	    "thumbUrl": "https://i.imgur.com/Iloz1jt.png",
+            "collections":"random,abstract" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"HangingClouds",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Zkplb6S.png",
