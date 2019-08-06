@@ -52,6 +52,127 @@
 	],
     "Wallpapers": [
     {
+            "name":"SmallHome8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/0CrEPZP.png",
+	    "thumbUrl": "https://i.imgur.com/Tg1yZNk.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+	    "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GreenMusics",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/O06xlEZ.png",
+	    "thumbUrl": "https://i.imgur.com/zL1DZoW.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"AbstractShape9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/8RjdSaR.png",
+	    "thumbUrl": "https://i.imgur.com/5whEwpO.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"AmoledShanti",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pj2dls6.png",
+	    "thumbUrl": "https://i.imgur.com/X7NwPM5.png",
+            "collections":"minimal,quirky,faith" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"ColorfulVally5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/HxAE5Dx.png",
+	    "thumbUrl": "https://i.imgur.com/n9obT9G.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlackForests",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/imvkfKz.png",
+	    "thumbUrl": "https://i.imgur.com/Ori1Akr.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlueSun9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Ju7bsne.png",
+	    "thumbUrl": "https://i.imgur.com/b9ZKoGs.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"ColorfulVally6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TERnn9H.png",
+	    "thumbUrl": "https://i.imgur.com/vNtVRM4.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"KusumSun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4ul3tyt.png",
+	    "thumbUrl": "https://i.imgur.com/UCUlYd5.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"DotedStars",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/TSOQi86.png",
+	    "thumbUrl": "https://i.imgur.com/SDbXpaK.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"OrangeSun6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/BcThcGJ.png",
+	    "thumbUrl": "https://i.imgur.com/DMJ2Jay.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlackClouds",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/t6hR71Y.png",
+	    "thumbUrl": "https://i.imgur.com/XMl0u2U.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+		 "downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 	    
+    {
             "name":"ColorfulBird21",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/Ehtw4HA.png",
