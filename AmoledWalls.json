@@ -52,6 +52,156 @@
 	],
     "Wallpapers": [
     {
+            "name":"AbstractShape9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/oqW1i1A.png",
+	    "thumbUrl": "https://i.imgur.com/sllbjdP.png",
+            "collections":"quirky" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlackDeer",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/eKA66XG.png",
+	    "thumbUrl": "https://i.imgur.com/uk2Qjby.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"AbstractShape10",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/xVDdwTB.png",
+	    "thumbUrl": "https://i.imgur.com/2avBMSu.png",
+            "collections":"minimal,quirky" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlackTrees",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/LbqgyCE.png",
+	    "thumbUrl": "https://i.imgur.com/GbKK6WL.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradientStripes6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/tWvRZY5.png",
+	    "thumbUrl": "https://i.imgur.com/KwGNctv.png",
+            "collections":"quirky,twisted" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"Phinix",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Zzwfro3.png",
+	    "thumbUrl": "https://i.imgur.com/6mNpjZa.png",
+            "collections":"minimal,quirky,animal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradientMount4",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OYSUQOH.png",
+	    "thumbUrl": "https://i.imgur.com/9ekgxgw.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlackTrees1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/K1nYMHb.png",
+	    "thumbUrl": "https://i.imgur.com/4KlkpMG.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"RainbowStripes2",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/OA9I0np.png",
+	    "thumbUrl": "https://i.imgur.com/tM65fmi.png",
+            "collections":"quirky,twisted" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"LifeIs",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/I5DkGnz.png",
+	    "thumbUrl": "https://i.imgur.com/gR9Q5gi.png",
+            "collections":"quote" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"RainbowStripes1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/ctMUW8g.png",
+	    "thumbUrl": "https://i.imgur.com/QO0Uddw.png",
+            "collections":"quirky,twisted" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"SmallWoodHouse1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/Bureabr.png",
+	    "thumbUrl": "https://i.imgur.com/bl8CD0y.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"RainbowPolkas",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/O55x3vI.png",
+	    "thumbUrl": "https://i.imgur.com/UxKKv7Q.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"TinyNinja9",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/pzpj026.png",
+	    "thumbUrl": "https://i.imgur.com/gy4a65k.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"RainbowStripes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4OrUDaj.png",
+	    "thumbUrl": "https://i.imgur.com/iPeEHUK.png",
+            "collections":"quirky,twisted" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },	    
+    {
             "name":"SmallHome8",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/0CrEPZP.png",
