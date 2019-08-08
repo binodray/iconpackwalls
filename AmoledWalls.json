@@ -51,6 +51,56 @@
 		}
 	],
     "Wallpapers": [
+	    {
+            "name":"CrossingPolkas3",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/kVG3jh3.png",
+	    "thumbUrl": "https://i.imgur.com/QyfpFDF.png",
+            "collections":"abstract,random,quirky" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradientFish8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/UN6jxE9.png",
+	    "thumbUrl": "https://i.imgur.com/iHsqPW6.png",
+            "collections":"minimal,animal,quirky" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradientHead6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/09ZwRkV.png",
+	    "thumbUrl": "https://i.imgur.com/KrohGsU.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"OrangeFox8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/AKG4pqq.png",
+	    "thumbUrl": "https://i.imgur.com/UsLZkb7.png",
+            "collections":"minimal,animal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"ReachingSun",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/6jjUu8S.png",
+	    "thumbUrl": "https://i.imgur.com/yVPxhYm.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable": false,
+	    "copyright":"Personal Use" 
+     },
     {
             "name":"AbstractShape9",
       	    "author":"Binod Ray",
