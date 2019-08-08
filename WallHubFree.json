@@ -43,6 +43,86 @@
     ],
     "Wallpapers":[
      {
+            "name":"LoanRiders",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/4VZxt9q.png",
+	    "thumbUrl": "https://i.imgur.com/lfTpw3L.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BlueRocks1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/7AVnIw5.png",
+	    "thumbUrl": "https://i.imgur.com/He0SGjZ.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"WhiteMounts6",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/zUhSxSX.png",
+	    "thumbUrl": "https://i.imgur.com/icLvLxD.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"Polarbeer1",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/YRdSfYm.png",
+	    "thumbUrl": "https://i.imgur.com/k5V0k1v.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"GradientSky8",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/c1KwiGL.png",
+	    "thumbUrl": "https://i.imgur.com/HrySTDC.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"YellowCurves5",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/V7PmOyT.png",
+	    "thumbUrl": "https://i.imgur.com/qOipquf.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"BoatRIdes",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/jsHbpZf.png",
+	    "thumbUrl": "https://i.imgur.com/atJKTKT.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },
+	 {
+            "name":"ThreeCamle",
+      	    "author":"Binod Ray",
+            "url":"https://i.imgur.com/D7kDvmp.png",
+	    "thumbUrl": "https://i.imgur.com/hDBP28W.png",
+            "collections":"minimal" ,
+            "dimensions":"1440x2560",
+			"downloadable":false,
+	    "copyright":"Personal Use" 
+     },	    
+     {
             "name":"GradientMounts6",
       	    "author":"Binod Ray",
             "url":"https://i.imgur.com/uQuQHcL.png",
